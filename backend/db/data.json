@@ -1,0 +1,7122 @@
+[
+  {
+    "account": "Sydney Beard",
+    "description": "sadsad",
+    "category": "Another One",
+    "reference": "",
+    "currency": "GBP",
+    "amount": -23,
+    "status": "BOOKED",
+    "transactionDate": "2021-06-22 12:55:26"
+  },
+  {
+    "account": "Sydney Beard",
+    "description": "RPT4291",
+    "category": "Another One",
+    "reference": "",
+    "currency": "GBP",
+    "amount": -1,
+    "status": "BOOKED",
+    "transactionDate": "2021-06-16 17:45:54"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Mcconnell, Sierra Z.",
+    "category": "Sample",
+    "reference": "Ref 9869",
+    "currency": "EUR",
+    "amount": 57.23,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-21 07:15:17"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Blackwell, Alisa T.",
+    "category": "Sample",
+    "reference": "Ref 4009",
+    "currency": "EUR",
+    "amount": 13.9,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-16 02:18:18"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Dudley, Meredith R.",
+    "category": "Another One",
+    "reference": "Ref 4682",
+    "currency": "GBP",
+    "amount": 304.35,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-19 12:07:48"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Puckett, Jameson I.",
+    "category": "Another One",
+    "reference": "Ref 1929",
+    "currency": "GBP",
+    "amount": -487.84,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-02 06:38:50"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Brennan, Quentin H.",
+    "category": "Another One",
+    "reference": "Ref 7187",
+    "currency": "GBP",
+    "amount": -498.09,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-03 09:34:44"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Patel, Brett H.",
+    "category": "Sample",
+    "reference": "Ref 8091",
+    "currency": "GBP",
+    "amount": 92.56,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-18 02:41:36"
+  },
+  {
+    "account": "Sydney Beard",
+    "description": "TEST",
+    "category": "",
+    "reference": "",
+    "currency": "GBP",
+    "amount": -1,
+    "status": "BOOKED",
+    "transactionDate": "2021-06-23 07:09:58"
+  },
+  {
+    "account": "Sydney Beard",
+    "description": "RPT4021",
+    "category": "",
+    "reference": "",
+    "currency": "GBP",
+    "amount": -1,
+    "status": "BOOKED",
+    "transactionDate": "2021-06-23 06:57:59"
+  },
+  {
+    "account": "Sydney Beard",
+    "description": "Bill Payment Bafik",
+    "category": "",
+    "reference": "",
+    "currency": "GBP",
+    "amount": -40,
+    "status": "BOOKED",
+    "transactionDate": "2021-06-16 16:55:28"
+  },
+  {
+    "account": "Sydney Beard",
+    "description": "Bill Payment Bafik",
+    "category": "",
+    "reference": "",
+    "currency": "GBP",
+    "amount": -40,
+    "status": "BOOKED",
+    "transactionDate": "2021-06-12 16:06:39"
+  },
+  {
+    "account": "Sydney Beard",
+    "description": "Bill Payment Bafik",
+    "category": "",
+    "reference": "",
+    "currency": "GBP",
+    "amount": -40,
+    "status": "BOOKED",
+    "transactionDate": "2021-06-12 06:48:28"
+  },
+  {
+    "account": "Sydney Beard",
+    "description": "Bill Payment Bafik",
+    "category": "",
+    "reference": "",
+    "currency": "GBP",
+    "amount": -40,
+    "status": "BOOKED",
+    "transactionDate": "2021-06-12 06:45:47"
+  },
+  {
+    "account": "Sydney Beard",
+    "description": 0,
+    "category": "",
+    "reference": "",
+    "currency": "GBP",
+    "amount": -45,
+    "status": "BOOKED",
+    "transactionDate": "2021-05-28 14:08:55"
+  },
+  {
+    "account": "Sydney Beard",
+    "description": "Bills Coffee Shop",
+    "category": "",
+    "reference": "",
+    "currency": "GBP",
+    "amount": -8.7,
+    "status": "BOOKED",
+    "transactionDate": "2021-05-27 12:32:00"
+  },
+  {
+    "account": "Sydney Beard",
+    "description": "Standing order to NWBK80540122222222",
+    "category": "",
+    "reference": "",
+    "currency": "GBP",
+    "amount": -26.48,
+    "status": "BOOKED",
+    "transactionDate": "2021-06-21 19:40:34"
+  },
+  {
+    "account": "Sydney Beard",
+    "description": "",
+    "category": "",
+    "reference": "",
+    "currency": "GBP",
+    "amount": -30,
+    "status": "BOOKED",
+    "transactionDate": "2021-06-17 15:44:36"
+  },
+  {
+    "account": "Sydney Beard",
+    "description": "Standing order to NWBK80540122222222",
+    "category": "",
+    "reference": "",
+    "currency": "GBP",
+    "amount": -26.48,
+    "status": "BOOKED",
+    "transactionDate": "2021-06-14 19:38:41"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Lindsay, Quynn M.",
+    "category": "Another One",
+    "reference": "Ref 7338",
+    "currency": "GBP",
+    "amount": -112.48,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-04 17:10:14"
+  },
+  {
+    "account": "Sydney Beard",
+    "description": "Ref2",
+    "category": "",
+    "reference": "",
+    "currency": "GBP",
+    "amount": -26.48,
+    "status": "BOOKED",
+    "transactionDate": "2021-06-10 19:42:28"
+  },
+  {
+    "account": "Sydney Beard",
+    "description": "Standing order to NWBK80540122222222",
+    "category": "",
+    "reference": "",
+    "currency": "GBP",
+    "amount": -26.48,
+    "status": "BOOKED",
+    "transactionDate": "2021-06-07 19:41:23"
+  },
+  {
+    "account": "Sydney Beard",
+    "description": "Standing order to NWBK80540122222222",
+    "category": "",
+    "reference": "",
+    "currency": "GBP",
+    "amount": -26.48,
+    "status": "BOOKED",
+    "transactionDate": "2021-05-31 19:42:02"
+  },
+  {
+    "account": "Sydney Beard",
+    "description": "Standing order to NWBK80540122222222",
+    "category": "",
+    "reference": "",
+    "currency": "GBP",
+    "amount": -26.48,
+    "status": "BOOKED",
+    "transactionDate": "2021-05-24 19:41:17"
+  },
+  {
+    "account": "Sydney Beard",
+    "description": "",
+    "category": "",
+    "reference": "",
+    "currency": "GBP",
+    "amount": -30,
+    "status": "BOOKED",
+    "transactionDate": "2021-05-18 12:46:05"
+  },
+  {
+    "account": "Sydney Beard",
+    "description": "Standing order to NWBK80540122222222",
+    "category": "",
+    "reference": "",
+    "currency": "GBP",
+    "amount": -26.48,
+    "status": "BOOKED",
+    "transactionDate": "2021-05-17 19:41:05"
+  },
+  {
+    "account": "Sydney Beard",
+    "description": "",
+    "category": "",
+    "reference": "",
+    "currency": "GBP",
+    "amount": -30,
+    "status": "BOOKED",
+    "transactionDate": "2021-05-14 12:24:37"
+  },
+  {
+    "account": "Sydney Beard",
+    "description": "",
+    "category": "",
+    "reference": "",
+    "currency": "GBP",
+    "amount": -75,
+    "status": "BOOKED",
+    "transactionDate": "2021-05-14 12:05:51"
+  },
+  {
+    "account": "Sydney Beard",
+    "description": "Standing order to NWBK80540122222222",
+    "category": "",
+    "reference": "",
+    "currency": "GBP",
+    "amount": -26.48,
+    "status": "BOOKED",
+    "transactionDate": "2021-05-10 19:42:03"
+  },
+  {
+    "account": "Sydney Beard",
+    "description": "Standing order to NWBK80540122222222",
+    "category": "",
+    "reference": "",
+    "currency": "GBP",
+    "amount": -26.48,
+    "status": "BOOKED",
+    "transactionDate": "2021-05-03 19:42:23"
+  },
+  {
+    "account": "Sydney Beard",
+    "description": "Standing order to NWBK80540122222222",
+    "category": "",
+    "reference": "",
+    "currency": "GBP",
+    "amount": -26.48,
+    "status": "BOOKED",
+    "transactionDate": "2021-04-26 19:40:40"
+  },
+  {
+    "account": "Sydney Beard",
+    "description": "Standing order to NWBK80540122222222",
+    "category": "",
+    "reference": "",
+    "currency": "GBP",
+    "amount": -26.48,
+    "status": "BOOKED",
+    "transactionDate": "2021-04-19 19:38:52"
+  },
+  {
+    "account": "Sydney Beard",
+    "description": "Scheduled payment to GB49AIBK93134999999999",
+    "category": "",
+    "reference": "",
+    "currency": "GBP",
+    "amount": -13.37,
+    "status": "BOOKED",
+    "transactionDate": "2021-04-16 19:40:37"
+  },
+  {
+    "account": "Sydney Beard",
+    "description": "Ref2",
+    "category": "",
+    "reference": "",
+    "currency": "GBP",
+    "amount": -26.48,
+    "status": "BOOKED",
+    "transactionDate": "2021-04-14 19:40:05"
+  },
+  {
+    "account": "Sydney Beard",
+    "description": "Standing order to NWBK80540122222222",
+    "category": "",
+    "reference": "",
+    "currency": "GBP",
+    "amount": -26.48,
+    "status": "BOOKED",
+    "transactionDate": "2021-04-14 19:40:05"
+  },
+  {
+    "account": "Sydney Beard",
+    "description": "Bills Coffee Shop",
+    "category": "",
+    "reference": "",
+    "currency": "GBP",
+    "amount": -8.7,
+    "status": "BOOKED",
+    "transactionDate": "2021-04-13 23:36:36"
+  },
+  {
+    "account": "Sydney Beard",
+    "description": "Pizzeria Mama Roma",
+    "category": "",
+    "reference": "",
+    "currency": "GBP",
+    "amount": -72.14,
+    "status": "BOOKED",
+    "transactionDate": "2021-04-08 19:38:00"
+  },
+  {
+    "account": "Sydney Beard",
+    "description": "Monthly savings",
+    "category": "",
+    "reference": "",
+    "currency": "GBP",
+    "amount": -250,
+    "status": "BOOKED",
+    "transactionDate": "2021-04-06 19:38:00"
+  },
+  {
+    "account": "Sydney Beard",
+    "description": "Scheduled payment to NWBK80540122222222",
+    "category": "Another One",
+    "reference": "",
+    "currency": "GBP",
+    "amount": -42,
+    "status": "BOOKED",
+    "transactionDate": "2021-05-13 19:42:39"
+  },
+  {
+    "account": "Sydney Beard",
+    "description": "Ref2",
+    "category": "Another One",
+    "reference": "",
+    "currency": "GBP",
+    "amount": -26.48,
+    "status": "BOOKED",
+    "transactionDate": "2021-05-10 19:42:03"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Mccray, Zena K.",
+    "category": "",
+    "reference": "Ref 5918",
+    "currency": "GBP",
+    "amount": -431.21,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-25 10:26:15"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Buck, Ignacia O.",
+    "category": "Sample",
+    "reference": "Ref 8217",
+    "currency": "GBP",
+    "amount": 311.61,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-26 14:45:21"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Fitzpatrick, Fitzgerald N.",
+    "category": "",
+    "reference": "Ref 8703",
+    "currency": "GBP",
+    "amount": 188.05,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-06 20:00:26"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Henderson, Tyler D.",
+    "category": "",
+    "reference": "Ref 2584",
+    "currency": "GBP",
+    "amount": 379.69,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-16 07:52:58"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Harris, Jana Y.",
+    "category": "",
+    "reference": "Ref 1090",
+    "currency": "GBP",
+    "amount": 405.36,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-15 15:50:47"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Rollins, Amela Y.",
+    "category": "",
+    "reference": "Ref 4850",
+    "currency": "GBP",
+    "amount": -71.37,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-05 16:07:00"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Robinson, Tashya W.",
+    "category": "",
+    "reference": "Ref 267",
+    "currency": "GBP",
+    "amount": -198.39,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-03 18:29:30"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Key, Lesley X.",
+    "category": "",
+    "reference": "Ref 1709",
+    "currency": "GBP",
+    "amount": -335.22,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-29 09:13:16"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Riley, Colleen O.",
+    "category": "",
+    "reference": "Ref 2611",
+    "currency": "GBP",
+    "amount": -481.29,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-27 16:35:54"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Leonard, Martha U.",
+    "category": "",
+    "reference": "Ref 6534",
+    "currency": "GBP",
+    "amount": -213.19,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-26 18:20:58"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Graham, Octavia M.",
+    "category": "",
+    "reference": "Ref 930",
+    "currency": "GBP",
+    "amount": -283.77,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-26 04:18:31"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Greer, Chadwick P.",
+    "category": "",
+    "reference": "Ref 4235",
+    "currency": "GBP",
+    "amount": -492.07,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-24 04:23:31"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Austin, Dieter I.",
+    "category": "",
+    "reference": "Ref 4676",
+    "currency": "GBP",
+    "amount": -405.45,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-22 19:16:16"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Ratliff, Jamal J.",
+    "category": "",
+    "reference": "Ref 5655",
+    "currency": "GBP",
+    "amount": -468.39,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-20 12:37:53"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Decker, Diana Y.",
+    "category": "",
+    "reference": "Ref 3400",
+    "currency": "GBP",
+    "amount": 485.49,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-20 01:05:24"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Lawrence, Emmanuel M.",
+    "category": "",
+    "reference": "Ref 9552",
+    "currency": "GBP",
+    "amount": 494.2,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-19 13:18:14"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Ratliff, Jamal J.",
+    "category": "",
+    "reference": "Ref 3841",
+    "currency": "GBP",
+    "amount": 461.29,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-17 10:53:18"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Ratliff, Jamal J.",
+    "category": "",
+    "reference": "Ref 476",
+    "currency": "GBP",
+    "amount": -259.09,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-15 13:55:07"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Morrison, Julian J.",
+    "category": "",
+    "reference": "Ref 4435",
+    "currency": "GBP",
+    "amount": -28.15,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-14 02:22:15"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Snider, Zeus W.",
+    "category": "",
+    "reference": "Ref 9450",
+    "currency": "GBP",
+    "amount": -291.9,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-08 18:00:02"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Russell, Simone X.",
+    "category": "Another One",
+    "reference": "Ref 7865",
+    "currency": "GBP",
+    "amount": -56.3,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-19 05:26:29"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Buck, Ignacia O.",
+    "category": "Another One",
+    "reference": "Ref 2687",
+    "currency": "GBP",
+    "amount": -395.55,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-16 08:57:08"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Glenn, Bernard C.",
+    "category": "Sample",
+    "reference": "Ref 9143",
+    "currency": "GBP",
+    "amount": -402.84,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-21 22:18:20"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Ratliff, Jamal J.",
+    "category": "Sample",
+    "reference": "Ref 3871",
+    "currency": "GBP",
+    "amount": -257.21,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-21 07:35:48"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Lamb, Rashad O.",
+    "category": "Sample",
+    "reference": "Ref 642",
+    "currency": "GBP",
+    "amount": -178.49,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-21 05:22:54"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Johnston, Orson O.",
+    "category": "",
+    "reference": "Ref 3176",
+    "currency": "GBP",
+    "amount": 92.53,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-07 05:59:52"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Peters, Calista O.",
+    "category": "",
+    "reference": "Ref 8156",
+    "currency": "GBP",
+    "amount": -326.15,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-06 06:08:55"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Juarez, Jenna M.",
+    "category": "",
+    "reference": "Ref 7019",
+    "currency": "GBP",
+    "amount": 187.08,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-30 01:06:15"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Holland, Ishmael T.",
+    "category": "",
+    "reference": "Ref 9626",
+    "currency": "GBP",
+    "amount": 286.51,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-28 20:13:06"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Morse, Lev C.",
+    "category": "",
+    "reference": "Ref 672",
+    "currency": "GBP",
+    "amount": -478.87,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-28 00:53:55"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Lamb, Rashad O.",
+    "category": "",
+    "reference": "Ref 9873",
+    "currency": "GBP",
+    "amount": 177.96,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-21 15:26:34"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Workman, Quail L.",
+    "category": "",
+    "reference": "Ref 1846",
+    "currency": "GBP",
+    "amount": 445.42,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-19 15:05:59"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Glover, Lara R.",
+    "category": "",
+    "reference": "Ref 8148",
+    "currency": "GBP",
+    "amount": 425.03,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-16 21:28:56"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Roman, Daphne P.",
+    "category": "",
+    "reference": "Ref 7520",
+    "currency": "GBP",
+    "amount": 480.78,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-15 22:33:52"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Burch, Bruno K.",
+    "category": "",
+    "reference": "Ref 7809",
+    "currency": "GBP",
+    "amount": 263.38,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-13 11:52:13"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Lamb, Rashad O.",
+    "category": "",
+    "reference": "Ref 821",
+    "currency": "GBP",
+    "amount": 182.9,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-13 05:04:37"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Vasquez, Claire V.",
+    "category": "",
+    "reference": "Ref 1617",
+    "currency": "GBP",
+    "amount": 339.68,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-12 09:24:33"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Puckett, Jameson I.",
+    "category": "",
+    "reference": "Ref 5153",
+    "currency": "GBP",
+    "amount": 108.47,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-11 21:05:23"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Snider, Linda L.",
+    "category": "",
+    "reference": "Ref 711",
+    "currency": "GBP",
+    "amount": 347.08,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-11 05:56:57"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Sykes, Unity E.",
+    "category": "",
+    "reference": "Ref 2482",
+    "currency": "GBP",
+    "amount": -461.04,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-09 14:01:48"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Dudley, Meredith R.",
+    "category": "",
+    "reference": "Ref 9580",
+    "currency": "GBP",
+    "amount": 27.84,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-07 08:22:33"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Mendez, Mariam R.",
+    "category": "",
+    "reference": "Ref 8716",
+    "currency": "GBP",
+    "amount": -364.91,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-06 06:23:52"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Henderson, Tyler D.",
+    "category": "",
+    "reference": "Ref 9321",
+    "currency": "GBP",
+    "amount": 107.93,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-05 21:55:30"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Buck, Ignacia O.",
+    "category": "",
+    "reference": "Ref 6531",
+    "currency": "GBP",
+    "amount": -448.05,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-05 21:27:56"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Quinn, Xantha B.",
+    "category": "",
+    "reference": "Ref 8479",
+    "currency": "GBP",
+    "amount": 459.22,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-04 11:57:47"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Peters, Calista O.",
+    "category": "Sample",
+    "reference": "Ref 1178",
+    "currency": "GBP",
+    "amount": 403.61,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-29 17:30:58"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Soto, Imogene T.",
+    "category": "Another One",
+    "reference": "Ref 203",
+    "currency": "GBP",
+    "amount": -341.07,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-21 05:36:48"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Gilliam, Kelsey G.",
+    "category": "",
+    "reference": "Ref 6600",
+    "currency": "GBP",
+    "amount": 249.15,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-04 06:50:52"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Hernandez, Emmanuel M.",
+    "category": "",
+    "reference": "Ref 6234",
+    "currency": "GBP",
+    "amount": 395.2,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-03 20:29:47"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Hardin, Demetrius C.",
+    "category": "",
+    "reference": "Ref 1215",
+    "currency": "GBP",
+    "amount": 48.44,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-28 15:28:34"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Key, Lesley X.",
+    "category": "",
+    "reference": "Ref 2768",
+    "currency": "GBP",
+    "amount": 173.25,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-27 16:24:47"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Mendez, Mariam R.",
+    "category": "",
+    "reference": "Ref 8604",
+    "currency": "GBP",
+    "amount": 251.67,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-26 11:58:36"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Holland, Ishmael T.",
+    "category": "",
+    "reference": "Ref 243",
+    "currency": "GBP",
+    "amount": -165.48,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-25 08:54:05"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Page, Clarke D.",
+    "category": "",
+    "reference": "Ref 7350",
+    "currency": "GBP",
+    "amount": 446.66,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-23 04:18:22"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Holland, Ishmael T.",
+    "category": "",
+    "reference": "Ref 7595",
+    "currency": "GBP",
+    "amount": -417.52,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-14 22:16:35"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Peters, Calista O.",
+    "category": "",
+    "reference": "Ref 5339",
+    "currency": "GBP",
+    "amount": 95.41,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-14 09:11:38"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Oneil, Shelley Y.",
+    "category": "",
+    "reference": "Ref 5628",
+    "currency": "GBP",
+    "amount": 67.08,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-14 08:14:41"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Dawson, Kenneth M.",
+    "category": "",
+    "reference": "Ref 1264",
+    "currency": "GBP",
+    "amount": 279.7,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-13 11:51:55"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Mccray, Zena K.",
+    "category": "",
+    "reference": "Ref 2625",
+    "currency": "GBP",
+    "amount": 305.22,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-11 14:48:58"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Dudley, Shelby U.",
+    "category": "",
+    "reference": "Ref 4636",
+    "currency": "GBP",
+    "amount": -118.53,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-11 14:31:55"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Doyle, Pearl U.",
+    "category": "",
+    "reference": "Ref 1431",
+    "currency": "GBP",
+    "amount": -392.42,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-08 18:02:17"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Russell, Simone X.",
+    "category": "",
+    "reference": "Ref 7545",
+    "currency": "GBP",
+    "amount": -267.71,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-08 13:15:24"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Montoya, Adrienne E.",
+    "category": "",
+    "reference": "Ref 1614",
+    "currency": "GBP",
+    "amount": -200.46,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-05 13:30:56"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Mcclure, Kristen S.",
+    "category": "",
+    "reference": "Ref 8920",
+    "currency": "GBP",
+    "amount": 47.58,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-02 05:58:24"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Peters, Calista O.",
+    "category": "",
+    "reference": "Ref 3338",
+    "currency": "GBP",
+    "amount": -353.37,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-27 21:18:31"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Roberson, Acton Z.",
+    "category": "",
+    "reference": "Ref 2250",
+    "currency": "GBP",
+    "amount": -10.27,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-27 19:26:45"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Harding, Michael Y.",
+    "category": "",
+    "reference": "Ref 8359",
+    "currency": "GBP",
+    "amount": 458.81,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-27 12:35:43"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Mcleod, Kellie I.",
+    "category": "Another One",
+    "reference": "Ref 4087",
+    "currency": "GBP",
+    "amount": -223.44,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-03 05:58:12"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Dickerson, Keith O.",
+    "category": "Another One",
+    "reference": "Ref 9583",
+    "currency": "GBP",
+    "amount": -321.37,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-02 00:59:02"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Vasquez, Nichole F.",
+    "category": "",
+    "reference": "Ref 2654",
+    "currency": "GBP",
+    "amount": -321.71,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-25 15:28:20"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Burch, Bruno K.",
+    "category": "",
+    "reference": "Ref 9975",
+    "currency": "GBP",
+    "amount": -322.24,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-23 13:29:22"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Tucker, Nell T.",
+    "category": "",
+    "reference": "Ref 6189",
+    "currency": "GBP",
+    "amount": -216.06,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-20 18:47:17"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Foster, Germaine Q.",
+    "category": "",
+    "reference": "Ref 9709",
+    "currency": "GBP",
+    "amount": -187.16,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-19 04:47:54"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Byers, Raymond G.",
+    "category": "",
+    "reference": "Ref 2405",
+    "currency": "GBP",
+    "amount": 185.94,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-18 21:27:39"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Morrison, Julian J.",
+    "category": "",
+    "reference": "Ref 3489",
+    "currency": "GBP",
+    "amount": -345.8,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-15 16:29:03"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Norton, Lawrence U.",
+    "category": "",
+    "reference": "Ref 9299",
+    "currency": "GBP",
+    "amount": 203.96,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-15 16:12:16"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Gilliam, Kelsey G.",
+    "category": "",
+    "reference": "Ref 226",
+    "currency": "GBP",
+    "amount": 440.92,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-14 17:57:20"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Strong, Hunter A.",
+    "category": "",
+    "reference": "Ref 4055",
+    "currency": "GBP",
+    "amount": -473.05,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-11 06:50:49"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Fletcher, Adrian Q.",
+    "category": "",
+    "reference": "Ref 3557",
+    "currency": "GBP",
+    "amount": -453.63,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-10 17:33:31"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Bradford, Lacota O.",
+    "category": "",
+    "reference": "Ref 2519",
+    "currency": "GBP",
+    "amount": -156.36,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-09 01:18:04"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Pollard, Leila E.",
+    "category": "",
+    "reference": "Ref 2110",
+    "currency": "GBP",
+    "amount": -288.99,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-07 05:04:17"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Snider, Linda L.",
+    "category": "",
+    "reference": "Ref 4759",
+    "currency": "GBP",
+    "amount": 443.94,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-07 00:49:56"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Snider, Linda L.",
+    "category": "",
+    "reference": "Ref 7707",
+    "currency": "GBP",
+    "amount": 130.05,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-03 01:47:12"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Quinn, Xantha B.",
+    "category": "",
+    "reference": "Ref 3340",
+    "currency": "GBP",
+    "amount": -208.87,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-29 13:44:42"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Hebert, Cally W.",
+    "category": "",
+    "reference": "Ref 9298",
+    "currency": "GBP",
+    "amount": 115.99,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-25 17:33:13"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Riley, Colleen O.",
+    "category": "",
+    "reference": "Ref 1066",
+    "currency": "GBP",
+    "amount": 123.86,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-23 07:42:09"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Hardin, Demetrius C.",
+    "category": "",
+    "reference": "Ref 2577",
+    "currency": "GBP",
+    "amount": -101.21,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-21 07:36:26"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Juarez, Jenna M.",
+    "category": "",
+    "reference": "Ref 3752",
+    "currency": "GBP",
+    "amount": -391.05,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-20 11:44:20"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Patel, Brett H.",
+    "category": "",
+    "reference": "Ref 4246",
+    "currency": "GBP",
+    "amount": -208.94,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-19 17:04:33"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Fletcher, Adrian Q.",
+    "category": "",
+    "reference": "Ref 3030",
+    "currency": "GBP",
+    "amount": 239.09,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-17 17:07:29"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Pollard, Leila E.",
+    "category": "Sample",
+    "reference": "Ref 2413",
+    "currency": "GBP",
+    "amount": -84.37,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-23 08:52:02"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Snyder, Beatrice B.",
+    "category": "",
+    "reference": "Ref 2273",
+    "currency": "GBP",
+    "amount": 85.8,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-17 00:24:45"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Graham, Octavia M.",
+    "category": "",
+    "reference": "Ref 1422",
+    "currency": "GBP",
+    "amount": -66.65,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-11 21:21:47"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Ratliff, Jamal J.",
+    "category": "",
+    "reference": "Ref 7147",
+    "currency": "GBP",
+    "amount": -145.39,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-09 15:03:58"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Drake, Thor O.",
+    "category": "",
+    "reference": "Ref 5160",
+    "currency": "GBP",
+    "amount": 254.11,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-24 21:04:42"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Riley, Colleen O.",
+    "category": "",
+    "reference": "Ref 1454",
+    "currency": "GBP",
+    "amount": -494.03,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-24 05:51:01"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Pollard, Leila E.",
+    "category": "",
+    "reference": "Ref 4040",
+    "currency": "GBP",
+    "amount": -224.56,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-23 08:54:47"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Blackwell, Alisa T.",
+    "category": "",
+    "reference": "Ref 3581",
+    "currency": "GBP",
+    "amount": 35.78,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-20 19:50:17"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Dawson, Kenneth M.",
+    "category": "",
+    "reference": "Ref 1281",
+    "currency": "GBP",
+    "amount": 283.69,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-19 00:52:31"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Dudley, Meredith R.",
+    "category": "",
+    "reference": "Ref 6219",
+    "currency": "GBP",
+    "amount": 392.1,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-16 20:47:27"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Harris, Jana Y.",
+    "category": "",
+    "reference": "Ref 8144",
+    "currency": "GBP",
+    "amount": -311.36,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-16 06:45:39"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Morse, Lev C.",
+    "category": "",
+    "reference": "Ref 9242",
+    "currency": "GBP",
+    "amount": -497.76,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-13 17:09:36"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Roman, Daphne P.",
+    "category": "",
+    "reference": "Ref 7727",
+    "currency": "GBP",
+    "amount": -181.49,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-10 21:52:06"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Austin, Dieter I.",
+    "category": "",
+    "reference": "Ref 5583",
+    "currency": "GBP",
+    "amount": 377.9,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-10 09:59:09"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Snyder, Beatrice B.",
+    "category": "",
+    "reference": "Ref 1600",
+    "currency": "GBP",
+    "amount": -248.73,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-09 09:38:05"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Peters, Calista O.",
+    "category": "",
+    "reference": "Ref 1103",
+    "currency": "GBP",
+    "amount": 124.52,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-06 18:08:56"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Dejesus, Amir O.",
+    "category": "",
+    "reference": "Ref 1834",
+    "currency": "GBP",
+    "amount": 134.85,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-06 03:25:21"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Fletcher, Adrian Q.",
+    "category": "Another One",
+    "reference": "Ref 6757",
+    "currency": "GBP",
+    "amount": 288.23,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-30 13:16:31"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Francis, Arthur N.",
+    "category": "Another One",
+    "reference": "Ref 160",
+    "currency": "GBP",
+    "amount": 498.72,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-26 18:00:30"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Gonzales, Wylie D.",
+    "category": "Another One",
+    "reference": "Ref 488",
+    "currency": "GBP",
+    "amount": 174,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-24 08:15:26"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Greer, Chadwick P.",
+    "category": "Sample",
+    "reference": "Ref 6902",
+    "currency": "GBP",
+    "amount": 206.84,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-02 13:22:34"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Bass, Nicholas D.",
+    "category": "Sample",
+    "reference": "Ref 1599",
+    "currency": "GBP",
+    "amount": -410.13,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-02 05:01:02"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Tyson, Colorado N.",
+    "category": "Sample",
+    "reference": "Ref 5185",
+    "currency": "GBP",
+    "amount": -396.6,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-29 00:46:33"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Mcmahon, Kendall N.",
+    "category": "",
+    "reference": "Ref 5865",
+    "currency": "GBP",
+    "amount": 480.78,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-25 09:43:58"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Dawson, Kenneth M.",
+    "category": "",
+    "reference": "Ref 1414",
+    "currency": "GBP",
+    "amount": -493.65,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-25 07:51:23"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Stone, Tasha D.",
+    "category": "",
+    "reference": "Ref 825",
+    "currency": "GBP",
+    "amount": 406.54,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-24 16:46:11"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Snider, Linda L.",
+    "category": "",
+    "reference": "Ref 9732",
+    "currency": "GBP",
+    "amount": -208.85,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-24 07:08:46"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Wooten, Xenos T.",
+    "category": "",
+    "reference": "Ref 2436",
+    "currency": "GBP",
+    "amount": 449.55,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-19 19:19:09"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Vasquez, Claire V.",
+    "category": "",
+    "reference": "Ref 5302",
+    "currency": "GBP",
+    "amount": 32.33,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-17 14:32:08"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Russell, Simone X.",
+    "category": "",
+    "reference": "Ref 6115",
+    "currency": "GBP",
+    "amount": 54.01,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-15 23:19:46"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Juarez, Jenna M.",
+    "category": "",
+    "reference": "Ref 7962",
+    "currency": "GBP",
+    "amount": -438.23,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-14 03:33:29"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Hebert, Cally W.",
+    "category": "",
+    "reference": "Ref 8361",
+    "currency": "GBP",
+    "amount": -81.53,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-13 12:52:25"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Glover, Lara R.",
+    "category": "",
+    "reference": "Ref 4568",
+    "currency": "GBP",
+    "amount": 281.32,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-13 07:21:04"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Snyder, Beatrice B.",
+    "category": "",
+    "reference": "Ref 9409",
+    "currency": "GBP",
+    "amount": -396.83,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-13 01:20:23"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Hebert, Cally W.",
+    "category": "",
+    "reference": "Ref 8667",
+    "currency": "GBP",
+    "amount": 62.01,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-10 13:00:39"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Morrison, Julian J.",
+    "category": "",
+    "reference": "Ref 5139",
+    "currency": "GBP",
+    "amount": -287.75,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-09 04:34:07"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Mcleod, Kellie I.",
+    "category": "",
+    "reference": "Ref 4538",
+    "currency": "GBP",
+    "amount": 482.67,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-09 01:12:24"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Buck, Ignacia O.",
+    "category": "",
+    "reference": "Ref 3033",
+    "currency": "GBP",
+    "amount": -404.79,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-08 15:22:43"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Snyder, Beatrice B.",
+    "category": "",
+    "reference": "Ref 9214",
+    "currency": "GBP",
+    "amount": -387.27,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-07 06:56:23"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Austin, Dieter I.",
+    "category": "",
+    "reference": "Ref 8879",
+    "currency": "GBP",
+    "amount": 277.44,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-07 00:37:07"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Mcconnell, Sierra Z.",
+    "category": "",
+    "reference": "Ref 6257",
+    "currency": "GBP",
+    "amount": 22.83,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-06 22:29:11"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Mendez, Mariam R.",
+    "category": "",
+    "reference": "Ref 1872",
+    "currency": "GBP",
+    "amount": -278.9,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-05 21:19:40"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Snyder, Beatrice B.",
+    "category": "",
+    "reference": "Ref 5748",
+    "currency": "GBP",
+    "amount": -100.12,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-04 09:45:24"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Dawson, Kenneth M.",
+    "category": "Another One",
+    "reference": "Ref 5001",
+    "currency": "GBP",
+    "amount": 313.85,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-07 06:20:41"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Blackwell, Alisa T.",
+    "category": "Another One",
+    "reference": "Ref 3027",
+    "currency": "GBP",
+    "amount": -275.99,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-05 13:01:36"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Holland, Ishmael T.",
+    "category": "",
+    "reference": "Ref 2620",
+    "currency": "GBP",
+    "amount": -403.15,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-04 09:30:16"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Puckett, Jameson I.",
+    "category": "",
+    "reference": "Ref 5251",
+    "currency": "GBP",
+    "amount": -420.92,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-03 09:51:35"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Mccray, Zena K.",
+    "category": "",
+    "reference": "Ref 417",
+    "currency": "GBP",
+    "amount": 370.14,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-03 08:46:39"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Rollins, Amela Y.",
+    "category": "",
+    "reference": "Ref 9619",
+    "currency": "GBP",
+    "amount": 387.83,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-30 05:46:13"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Riley, Colleen O.",
+    "category": "",
+    "reference": "Ref 1725",
+    "currency": "GBP",
+    "amount": 191.07,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-30 00:21:10"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Montoya, Adrienne E.",
+    "category": "",
+    "reference": "Ref 3452",
+    "currency": "GBP",
+    "amount": -474.53,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-29 06:14:31"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Mcclure, Kristen S.",
+    "category": "",
+    "reference": "Ref 5585",
+    "currency": "GBP",
+    "amount": 454.79,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-28 22:12:08"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Roach, Cleo D.",
+    "category": "",
+    "reference": "Ref 4280",
+    "currency": "GBP",
+    "amount": -311.11,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-28 07:22:23"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Henderson, Tyler D.",
+    "category": "",
+    "reference": "Ref 675",
+    "currency": "GBP",
+    "amount": -446.45,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-27 01:09:37"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Tyson, Colorado N.",
+    "category": "",
+    "reference": "Ref 798",
+    "currency": "GBP",
+    "amount": 122.53,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-26 17:11:10"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Morse, Lev C.",
+    "category": "",
+    "reference": "Ref 6312",
+    "currency": "GBP",
+    "amount": -337.93,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-26 14:04:46"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Morse, Lev C.",
+    "category": "",
+    "reference": "Ref 3050",
+    "currency": "GBP",
+    "amount": -79.4,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-21 16:08:49"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Burch, Bruno K.",
+    "category": "",
+    "reference": "Ref 3107",
+    "currency": "GBP",
+    "amount": -65.55,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-20 05:06:58"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Mccray, Zena K.",
+    "category": "",
+    "reference": "Ref 8269",
+    "currency": "GBP",
+    "amount": 301.3,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-16 14:07:00"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Patrick, Zoe V.",
+    "category": "",
+    "reference": "Ref 1516",
+    "currency": "GBP",
+    "amount": -34.4,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-14 07:23:06"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Byers, Raymond G.",
+    "category": "",
+    "reference": "Ref 7583",
+    "currency": "GBP",
+    "amount": -149.79,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-11 21:03:19"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Buckner, Amanda B.",
+    "category": "",
+    "reference": "Ref 5582",
+    "currency": "GBP",
+    "amount": 240.33,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-10 08:00:25"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Holland, Ishmael T.",
+    "category": "",
+    "reference": "Ref 6199",
+    "currency": "GBP",
+    "amount": -453.29,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-08 10:53:43"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Drake, Thor O.",
+    "category": "",
+    "reference": "Ref 3493",
+    "currency": "GBP",
+    "amount": -136.1,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-05 00:49:28"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Dawson, Kenneth M.",
+    "category": "",
+    "reference": "Ref 8013",
+    "currency": "GBP",
+    "amount": -32.34,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-02 07:32:02"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Glover, Lara R.",
+    "category": "",
+    "reference": "Ref 3572",
+    "currency": "GBP",
+    "amount": 81.24,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-29 13:49:55"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Peters, Calista O.",
+    "category": "Sample",
+    "reference": "Ref 9307",
+    "currency": "GBP",
+    "amount": -312.86,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-20 21:17:34"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Russell, Simone X.",
+    "category": "",
+    "reference": "Ref 6615",
+    "currency": "GBP",
+    "amount": -271.13,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-29 05:20:12"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Strong, Hunter A.",
+    "category": "",
+    "reference": "Ref 4653",
+    "currency": "GBP",
+    "amount": 85.03,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-28 23:14:32"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Lawrence, Emmanuel M.",
+    "category": "",
+    "reference": "Ref 4430",
+    "currency": "GBP",
+    "amount": 187.07,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-27 04:44:59"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Tucker, Nell T.",
+    "category": "",
+    "reference": "Ref 8395",
+    "currency": "GBP",
+    "amount": -148.34,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-26 01:24:17"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Lawrence, Emmanuel M.",
+    "category": "",
+    "reference": "Ref 7830",
+    "currency": "GBP",
+    "amount": -322.59,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-22 05:37:31"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Hodge, Julian J.",
+    "category": "",
+    "reference": "Ref 198",
+    "currency": "GBP",
+    "amount": -114.76,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-15 12:42:38"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Dickerson, Brenna Q.",
+    "category": "",
+    "reference": "Ref 7756",
+    "currency": "GBP",
+    "amount": -321.14,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-11 16:09:39"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Dudley, Meredith R.",
+    "category": "",
+    "reference": "Ref 4073",
+    "currency": "GBP",
+    "amount": 185.37,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-09 12:28:18"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Lindsay, Quynn M.",
+    "category": "",
+    "reference": "Ref 7132",
+    "currency": "GBP",
+    "amount": -15.29,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-08 09:25:22"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Henderson, Tyler D.",
+    "category": "",
+    "reference": "Ref 1910",
+    "currency": "GBP",
+    "amount": -102.82,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-23 17:45:22"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Peters, Calista O.",
+    "category": "",
+    "reference": "Ref 6502",
+    "currency": "GBP",
+    "amount": 288.78,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-21 22:33:14"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Francis, Arthur N.",
+    "category": "",
+    "reference": "Ref 7850",
+    "currency": "GBP",
+    "amount": 445.04,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-20 09:06:53"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Wooten, Xenos T.",
+    "category": "",
+    "reference": "Ref 3670",
+    "currency": "GBP",
+    "amount": -330.33,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-15 21:28:29"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Glenn, Bernard C.",
+    "category": "",
+    "reference": "Ref 97",
+    "currency": "GBP",
+    "amount": 14.44,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-15 19:58:09"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Lindsay, Quynn M.",
+    "category": "",
+    "reference": "Ref 3976",
+    "currency": "GBP",
+    "amount": -379.41,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-15 19:57:24"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Oneil, Shelley Y.",
+    "category": "",
+    "reference": "Ref 8715",
+    "currency": "GBP",
+    "amount": 261.31,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-09 20:55:28"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Riley, Colleen O.",
+    "category": "",
+    "reference": "Ref 8300",
+    "currency": "GBP",
+    "amount": 287.21,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-09 20:18:16"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Key, Lesley X.",
+    "category": "",
+    "reference": "Ref 9225",
+    "currency": "GBP",
+    "amount": -308.27,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-06 21:08:41"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Austin, Dieter I.",
+    "category": "",
+    "reference": "Ref 2207",
+    "currency": "GBP",
+    "amount": 495.76,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-06 19:18:32"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Holland, Ishmael T.",
+    "category": "",
+    "reference": "Ref 6523",
+    "currency": "GBP",
+    "amount": 142.4,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-06 18:11:54"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Farmer, Eve C.",
+    "category": "",
+    "reference": "Ref 104",
+    "currency": "GBP",
+    "amount": -251.97,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-29 11:15:53"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Franklin, Abdul Z.",
+    "category": "Sample",
+    "reference": "Ref 7144",
+    "currency": "GBP",
+    "amount": 256.69,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-31 07:29:49"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Roach, Cleo D.",
+    "category": "",
+    "reference": "Ref 144",
+    "currency": "GBP",
+    "amount": 205.32,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-27 21:19:59"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Golden, Hollee X.",
+    "category": "",
+    "reference": "Ref 6860",
+    "currency": "GBP",
+    "amount": 163.4,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-24 10:55:37"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Riley, Colleen O.",
+    "category": "",
+    "reference": "Ref 6991",
+    "currency": "GBP",
+    "amount": -311.27,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-19 17:51:13"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Workman, Quail L.",
+    "category": "",
+    "reference": "Ref 9079",
+    "currency": "GBP",
+    "amount": -422.56,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-17 17:51:19"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Bradford, Lacota O.",
+    "category": "",
+    "reference": "Ref 2892",
+    "currency": "GBP",
+    "amount": -370.25,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-17 14:54:10"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Lindsay, Quynn M.",
+    "category": "",
+    "reference": "Ref 1982",
+    "currency": "GBP",
+    "amount": 493.42,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-17 08:37:41"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Hernandez, Emmanuel M.",
+    "category": "",
+    "reference": "Ref 519",
+    "currency": "GBP",
+    "amount": -369.66,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-15 15:32:45"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Roman, Daphne P.",
+    "category": "",
+    "reference": "Ref 4118",
+    "currency": "GBP",
+    "amount": -283.69,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-14 16:39:00"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Quinn, Xantha B.",
+    "category": "",
+    "reference": "Ref 1023",
+    "currency": "GBP",
+    "amount": -332.37,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-12 16:57:51"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Juarez, Jenna M.",
+    "category": "",
+    "reference": "Ref 1649",
+    "currency": "GBP",
+    "amount": 46.82,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-12 09:01:38"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Johnston, Orson O.",
+    "category": "",
+    "reference": "Ref 3158",
+    "currency": "GBP",
+    "amount": 366.75,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-12 00:53:09"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Mendez, Mariam R.",
+    "category": "",
+    "reference": "Ref 84",
+    "currency": "GBP",
+    "amount": -135.46,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-10 16:01:32"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Hodge, Julian J.",
+    "category": "",
+    "reference": "Ref 3376",
+    "currency": "GBP",
+    "amount": 407.93,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-10 09:13:08"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Roman, Daphne P.",
+    "category": "",
+    "reference": "Ref 2759",
+    "currency": "GBP",
+    "amount": -483.79,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-09 21:17:52"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Dejesus, Amir O.",
+    "category": "",
+    "reference": "Ref 6856",
+    "currency": "GBP",
+    "amount": -300.31,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-09 13:14:25"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Doyle, Pearl U.",
+    "category": "",
+    "reference": "Ref 8435",
+    "currency": "GBP",
+    "amount": 222.42,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-08 00:01:28"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Peters, Calista O.",
+    "category": "",
+    "reference": "Ref 2434",
+    "currency": "GBP",
+    "amount": 26.88,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-07 22:59:28"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Roberson, Acton Z.",
+    "category": "",
+    "reference": "Ref 6594",
+    "currency": "GBP",
+    "amount": 281.83,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-06 02:56:42"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Nielsen, Yeo P.",
+    "category": "",
+    "reference": "Ref 3310",
+    "currency": "GBP",
+    "amount": -176.12,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-05 07:15:42"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Dudley, Shelby U.",
+    "category": "",
+    "reference": "Ref 4398",
+    "currency": "GBP",
+    "amount": 185.08,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-04 04:51:10"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Roach, Cleo D.",
+    "category": "",
+    "reference": "Ref 2082",
+    "currency": "GBP",
+    "amount": 385.24,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-02 14:42:51"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Rollins, Amela Y.",
+    "category": "",
+    "reference": "Ref 4887",
+    "currency": "EUR",
+    "amount": -66.45,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-27 12:08:19"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Sykes, Unity E.",
+    "category": "",
+    "reference": "Ref 4764",
+    "currency": "EUR",
+    "amount": -367.82,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-25 05:04:20"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Lamb, Rashad O.",
+    "category": "",
+    "reference": "Ref 3988",
+    "currency": "EUR",
+    "amount": -327.42,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-24 06:28:49"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Mendez, Mariam R.",
+    "category": "",
+    "reference": "Ref 6622",
+    "currency": "EUR",
+    "amount": -413.5,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-23 04:05:47"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Harding, Michael Y.",
+    "category": "",
+    "reference": "Ref 7014",
+    "currency": "EUR",
+    "amount": -114.72,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-22 18:43:09"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Burch, Bruno K.",
+    "category": "",
+    "reference": "Ref 8280",
+    "currency": "EUR",
+    "amount": -229.66,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-21 21:18:14"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Marks, Serena D.",
+    "category": "",
+    "reference": "Ref 3367",
+    "currency": "EUR",
+    "amount": 29.55,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-20 07:31:28"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Buckner, Amanda B.",
+    "category": "",
+    "reference": "Ref 7847",
+    "currency": "EUR",
+    "amount": 207.78,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-20 05:55:38"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Nielsen, Yeo P.",
+    "category": "",
+    "reference": "Ref 8867",
+    "currency": "EUR",
+    "amount": 28.13,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-19 13:36:54"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Mcclure, Kristen S.",
+    "category": "",
+    "reference": "Ref 599",
+    "currency": "EUR",
+    "amount": -234.22,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-17 12:32:52"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Strong, Hunter A.",
+    "category": "",
+    "reference": "Ref 785",
+    "currency": "EUR",
+    "amount": -109.46,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-15 00:29:02"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Mcleod, Kellie I.",
+    "category": "",
+    "reference": "Ref 1472",
+    "currency": "EUR",
+    "amount": 77,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-14 00:01:01"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Leonard, Martha U.",
+    "category": "",
+    "reference": "Ref 4202",
+    "currency": "EUR",
+    "amount": -22.92,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-12 11:25:43"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Dickerson, Brenna Q.",
+    "category": "",
+    "reference": "Ref 5677",
+    "currency": "EUR",
+    "amount": 438.66,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-11 15:00:34"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Hardin, Demetrius C.",
+    "category": "",
+    "reference": "Ref 8538",
+    "currency": "EUR",
+    "amount": -13.11,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-11 12:31:38"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Gonzales, Wylie D.",
+    "category": "",
+    "reference": "Ref 3984",
+    "currency": "EUR",
+    "amount": -456.54,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-09 08:46:05"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Buckner, Amanda B.",
+    "category": "",
+    "reference": "Ref 5343",
+    "currency": "EUR",
+    "amount": 452.23,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-08 14:22:26"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Wooten, Xenos T.",
+    "category": "",
+    "reference": "Ref 4778",
+    "currency": "EUR",
+    "amount": -441.8,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-07 15:28:36"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Farmer, Eve C.",
+    "category": "",
+    "reference": "Ref 2146",
+    "currency": "EUR",
+    "amount": -137.7,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-05 09:01:17"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Barnes, Odette W.",
+    "category": "",
+    "reference": "Ref 4384",
+    "currency": "EUR",
+    "amount": -140.08,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-05 07:47:47"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Glenn, Bernard C.",
+    "category": "",
+    "reference": "Ref 6469",
+    "currency": "EUR",
+    "amount": -208.31,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-01 18:55:24"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Franklin, Abdul Z.",
+    "category": "",
+    "reference": "Ref 1447",
+    "currency": "EUR",
+    "amount": -472.16,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-01 17:24:46"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Barnes, Odette W.",
+    "category": "Another One",
+    "reference": "Ref 2745",
+    "currency": "EUR",
+    "amount": -326.52,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-08 00:25:36"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Farmer, Eve C.",
+    "category": "",
+    "reference": "Ref 3962",
+    "currency": "EUR",
+    "amount": 98.47,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-31 12:44:43"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Patel, Brett H.",
+    "category": "",
+    "reference": "Ref 1233",
+    "currency": "EUR",
+    "amount": 308.99,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-31 06:57:16"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Hebert, Cally W.",
+    "category": "",
+    "reference": "Ref 3732",
+    "currency": "EUR",
+    "amount": 335.06,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-30 14:30:39"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Burch, Bruno K.",
+    "category": "",
+    "reference": "Ref 9660",
+    "currency": "EUR",
+    "amount": -253.85,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-29 20:56:15"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Lamb, Rashad O.",
+    "category": "",
+    "reference": "Ref 9489",
+    "currency": "EUR",
+    "amount": 266,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-28 12:55:32"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Dawson, Kenneth M.",
+    "category": "Another One",
+    "reference": "Ref 7764",
+    "currency": "GBP",
+    "amount": -474.76,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-20 23:50:03"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Blackwell, Alisa T.",
+    "category": "",
+    "reference": "Ref 2221",
+    "currency": "EUR",
+    "amount": -267.6,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-28 11:31:05"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Page, Clarke D.",
+    "category": "",
+    "reference": "Ref 4484",
+    "currency": "EUR",
+    "amount": 379.29,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-26 19:30:45"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Barnes, Odette W.",
+    "category": "",
+    "reference": "Ref 7940",
+    "currency": "EUR",
+    "amount": -77.33,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-24 05:42:14"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Snyder, Beatrice B.",
+    "category": "",
+    "reference": "Ref 2717",
+    "currency": "EUR",
+    "amount": 375.49,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-21 23:10:47"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Snyder, Beatrice B.",
+    "category": "",
+    "reference": "Ref 2588",
+    "currency": "EUR",
+    "amount": 154.29,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-21 04:42:44"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Henry, Jonas Y.",
+    "category": "",
+    "reference": "Ref 2319",
+    "currency": "EUR",
+    "amount": -29.81,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-18 07:33:38"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Stone, Tasha D.",
+    "category": "",
+    "reference": "Ref 1660",
+    "currency": "EUR",
+    "amount": -144.48,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-17 06:55:13"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Graham, Octavia M.",
+    "category": "",
+    "reference": "Ref 3049",
+    "currency": "EUR",
+    "amount": 149.93,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-16 19:46:15"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Vasquez, Claire V.",
+    "category": "",
+    "reference": "Ref 8447",
+    "currency": "EUR",
+    "amount": 219.16,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-16 03:03:12"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Norton, Lawrence U.",
+    "category": "",
+    "reference": "Ref 3486",
+    "currency": "EUR",
+    "amount": -249.46,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-14 12:27:23"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Roman, Daphne P.",
+    "category": "",
+    "reference": "Ref 2872",
+    "currency": "EUR",
+    "amount": -394.69,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-13 03:02:38"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Tyson, Colorado N.",
+    "category": "",
+    "reference": "Ref 9173",
+    "currency": "EUR",
+    "amount": 460.38,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-12 12:55:41"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Puckett, Jameson I.",
+    "category": "",
+    "reference": "Ref 2351",
+    "currency": "EUR",
+    "amount": -468.45,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-12 03:39:51"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Mcclure, Kristen S.",
+    "category": "",
+    "reference": "Ref 1566",
+    "currency": "EUR",
+    "amount": -218.71,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-10 14:29:15"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Mcclure, Kristen S.",
+    "category": "Sample",
+    "reference": "Ref 337",
+    "currency": "EUR",
+    "amount": 288.33,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-27 19:32:10"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Peters, Calista O.",
+    "category": "Sample",
+    "reference": "Ref 1725",
+    "currency": "EUR",
+    "amount": -439.93,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-27 07:58:49"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Mcclure, Kristen S.",
+    "category": "",
+    "reference": "Ref 3138",
+    "currency": "EUR",
+    "amount": -261.38,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-05 06:58:27"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Dawson, Kenneth M.",
+    "category": "",
+    "reference": "Ref 1748",
+    "currency": "EUR",
+    "amount": 221.62,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-04 20:04:18"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Norton, Lawrence U.",
+    "category": "",
+    "reference": "Ref 5988",
+    "currency": "EUR",
+    "amount": -330.76,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-03 06:31:37"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Vasquez, Nichole F.",
+    "category": "",
+    "reference": "Ref 4521",
+    "currency": "EUR",
+    "amount": 335.69,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-28 08:11:16"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Oneil, Shelley Y.",
+    "category": "",
+    "reference": "Ref 3372",
+    "currency": "EUR",
+    "amount": -464.95,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-27 23:52:54"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Glenn, Bernard C.",
+    "category": "",
+    "reference": "Ref 2201",
+    "currency": "EUR",
+    "amount": -474.76,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-25 10:14:52"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Morse, Lev C.",
+    "category": "",
+    "reference": "Ref 4329",
+    "currency": "EUR",
+    "amount": 496.87,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-24 15:37:34"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Norton, Lawrence U.",
+    "category": "",
+    "reference": "Ref 2987",
+    "currency": "EUR",
+    "amount": 292.9,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-21 00:52:20"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Sykes, Unity E.",
+    "category": "",
+    "reference": "Ref 9890",
+    "currency": "EUR",
+    "amount": 22.39,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-13 04:46:45"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Burch, Bruno K.",
+    "category": "",
+    "reference": "Ref 8062",
+    "currency": "EUR",
+    "amount": -385.9,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-10 18:36:02"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Mendez, Mariam R.",
+    "category": "",
+    "reference": "Ref 2884",
+    "currency": "EUR",
+    "amount": 215.97,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-08 12:36:46"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Sawyer, Ryder T.",
+    "category": "",
+    "reference": "Ref 4140",
+    "currency": "EUR",
+    "amount": -147.16,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-07 12:03:49"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Peters, Calista O.",
+    "category": "",
+    "reference": "Ref 4612",
+    "currency": "EUR",
+    "amount": 497.63,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-06 19:47:29"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Vasquez, Nichole F.",
+    "category": "",
+    "reference": "Ref 2597",
+    "currency": "EUR",
+    "amount": -407.66,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-02 01:33:56"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Nielsen, Yeo P.",
+    "category": "",
+    "reference": "Ref 9771",
+    "currency": "EUR",
+    "amount": 412.25,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-29 19:26:55"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Gonzales, Wylie D.",
+    "category": "",
+    "reference": "Ref 9056",
+    "currency": "EUR",
+    "amount": -179.07,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-24 13:34:30"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Peters, Calista O.",
+    "category": "",
+    "reference": "Ref 4664",
+    "currency": "EUR",
+    "amount": -221.29,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-20 23:56:26"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Cummings, Madaline H.",
+    "category": "",
+    "reference": "Ref 8770",
+    "currency": "EUR",
+    "amount": -240.02,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-20 17:18:19"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Golden, Hollee X.",
+    "category": "",
+    "reference": "Ref 5661",
+    "currency": "EUR",
+    "amount": -103.95,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-17 15:02:13"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Mccray, Zena K.",
+    "category": "",
+    "reference": "Ref 5134",
+    "currency": "EUR",
+    "amount": 241.95,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-15 09:28:57"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Foster, Germaine Q.",
+    "category": "",
+    "reference": "Ref 2663",
+    "currency": "EUR",
+    "amount": -387.19,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-14 11:56:57"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Dejesus, Amir O.",
+    "category": "",
+    "reference": "Ref 9984",
+    "currency": "EUR",
+    "amount": 336.07,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-12 23:07:27"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Hernandez, Emmanuel M.",
+    "category": "",
+    "reference": "Ref 9230",
+    "currency": "EUR",
+    "amount": 134.56,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-12 14:21:28"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Brennan, Quentin H.",
+    "category": "",
+    "reference": "Ref 3156",
+    "currency": "EUR",
+    "amount": 335.46,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-08 19:55:14"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Peters, Calista O.",
+    "category": "",
+    "reference": "Ref 8928",
+    "currency": "EUR",
+    "amount": 50.77,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-07 22:05:49"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Bass, Nicholas D.",
+    "category": "",
+    "reference": "Ref 2066",
+    "currency": "EUR",
+    "amount": -263.75,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-06 17:23:07"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Dawson, Kenneth M.",
+    "category": "",
+    "reference": "Ref 7953",
+    "currency": "EUR",
+    "amount": 414.84,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-05 09:49:12"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Dunn, Knox T.",
+    "category": "",
+    "reference": "Ref 9572",
+    "currency": "EUR",
+    "amount": -240.4,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-05 07:52:32"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Rollins, Amela Y.",
+    "category": "",
+    "reference": "Ref 2819",
+    "currency": "EUR",
+    "amount": 193.51,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-03 22:47:40"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Hernandez, Emmanuel M.",
+    "category": "",
+    "reference": "Ref 5987",
+    "currency": "EUR",
+    "amount": 109.91,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-02 16:42:38"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Snyder, Beatrice B.",
+    "category": "",
+    "reference": "Ref 1451",
+    "currency": "EUR",
+    "amount": -462.84,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-31 08:14:39"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Peters, Calista O.",
+    "category": "",
+    "reference": "Ref 2423",
+    "currency": "EUR",
+    "amount": -161.76,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-30 04:37:42"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Ratliff, Jamal J.",
+    "category": "",
+    "reference": "Ref 5506",
+    "currency": "EUR",
+    "amount": -70.32,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-29 22:27:08"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Blackwell, Alisa T.",
+    "category": "",
+    "reference": "Ref 6229",
+    "currency": "EUR",
+    "amount": -407.58,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-29 19:33:57"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Goodman, Jescie C.",
+    "category": "",
+    "reference": "Ref 4984",
+    "currency": "EUR",
+    "amount": -72.17,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-28 03:56:19"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Puckett, Jameson I.",
+    "category": "",
+    "reference": "Ref 1061",
+    "currency": "EUR",
+    "amount": 243.31,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-26 10:06:58"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Snider, Linda L.",
+    "category": "",
+    "reference": "Ref 4628",
+    "currency": "EUR",
+    "amount": 124.69,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-26 07:51:02"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Oneil, Shelley Y.",
+    "category": "",
+    "reference": "Ref 4074",
+    "currency": "EUR",
+    "amount": -75.11,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-26 01:56:13"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Quinn, Xantha B.",
+    "category": "",
+    "reference": "Ref 3264",
+    "currency": "EUR",
+    "amount": 165.47,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-23 05:07:42"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Dudley, Meredith R.",
+    "category": "",
+    "reference": "Ref 4962",
+    "currency": "EUR",
+    "amount": 294.73,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-21 04:45:55"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Roberson, Acton Z.",
+    "category": "",
+    "reference": "Ref 5381",
+    "currency": "EUR",
+    "amount": 240.73,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-19 04:24:03"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Tyson, Colorado N.",
+    "category": "",
+    "reference": "Ref 8089",
+    "currency": "EUR",
+    "amount": -218.6,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-18 23:37:25"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Goodman, Jescie C.",
+    "category": "",
+    "reference": "Ref 1693",
+    "currency": "EUR",
+    "amount": 334.9,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-17 11:49:00"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Pollard, Leila E.",
+    "category": "",
+    "reference": "Ref 7122",
+    "currency": "EUR",
+    "amount": -484.87,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-16 04:49:03"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Burch, Bruno K.",
+    "category": "",
+    "reference": "Ref 2086",
+    "currency": "EUR",
+    "amount": -107.64,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-15 12:13:05"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Mcleod, Kellie I.",
+    "category": "",
+    "reference": "Ref 4267",
+    "currency": "EUR",
+    "amount": 428.21,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-12 20:11:37"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Austin, Dieter I.",
+    "category": "",
+    "reference": "Ref 8028",
+    "currency": "EUR",
+    "amount": -466.43,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-10 11:13:35"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Lara, Tashya V.",
+    "category": "",
+    "reference": "Ref 2476",
+    "currency": "EUR",
+    "amount": -286.47,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-10 07:28:53"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Harding, Michael Y.",
+    "category": "",
+    "reference": "Ref 2979",
+    "currency": "EUR",
+    "amount": 320.95,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-08 08:34:15"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Patel, Brett H.",
+    "category": "",
+    "reference": "Ref 7422",
+    "currency": "EUR",
+    "amount": 136.5,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-08 01:33:21"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Mccray, Zena K.",
+    "category": "",
+    "reference": "Ref 8385",
+    "currency": "EUR",
+    "amount": 408.41,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-07 06:18:13"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Buck, Ignacia O.",
+    "category": "",
+    "reference": "Ref 8257",
+    "currency": "EUR",
+    "amount": -253.94,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-06 11:08:34"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Mendez, Mariam R.",
+    "category": "",
+    "reference": "Ref 4462",
+    "currency": "EUR",
+    "amount": 86.55,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-03 22:10:16"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Barnes, Odette W.",
+    "category": "",
+    "reference": "Ref 8197",
+    "currency": "EUR",
+    "amount": -473.43,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-02 23:03:03"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Juarez, Jenna M.",
+    "category": "",
+    "reference": "Ref 8061",
+    "currency": "EUR",
+    "amount": 10.25,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-02 21:22:18"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Greer, Chadwick P.",
+    "category": "",
+    "reference": "Ref 7837",
+    "currency": "EUR",
+    "amount": 433.43,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-29 15:51:38"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Snider, Linda L.",
+    "category": "",
+    "reference": "Ref 4111",
+    "currency": "EUR",
+    "amount": -127.82,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-28 15:30:24"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Harris, Jana Y.",
+    "category": "",
+    "reference": "Ref 3379",
+    "currency": "EUR",
+    "amount": -189.81,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-26 18:38:45"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Roberson, Acton Z.",
+    "category": "",
+    "reference": "Ref 927",
+    "currency": "EUR",
+    "amount": -38.19,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-26 18:04:01"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Tyson, Colorado N.",
+    "category": "",
+    "reference": "Ref 4617",
+    "currency": "EUR",
+    "amount": 166.67,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-25 20:15:57"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Dickerson, Keith O.",
+    "category": "",
+    "reference": "Ref 6196",
+    "currency": "EUR",
+    "amount": -37.73,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-24 09:13:46"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Mcleod, Kellie I.",
+    "category": "",
+    "reference": "Ref 2732",
+    "currency": "EUR",
+    "amount": 491.85,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-24 03:54:19"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Key, Lesley X.",
+    "category": "",
+    "reference": "Ref 3425",
+    "currency": "EUR",
+    "amount": 12.92,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-23 20:20:16"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Riley, Colleen O.",
+    "category": "",
+    "reference": "Ref 9804",
+    "currency": "EUR",
+    "amount": -303.01,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-22 14:10:40"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Hardin, Demetrius C.",
+    "category": "",
+    "reference": "Ref 1650",
+    "currency": "EUR",
+    "amount": -109.05,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-22 08:30:24"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Morse, Lev C.",
+    "category": "",
+    "reference": "Ref 6538",
+    "currency": "EUR",
+    "amount": 119.04,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-21 22:05:48"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Mcconnell, Sierra Z.",
+    "category": "",
+    "reference": "Ref 4997",
+    "currency": "EUR",
+    "amount": -93.51,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-21 14:01:31"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Harris, Jana Y.",
+    "category": "",
+    "reference": "Ref 4769",
+    "currency": "EUR",
+    "amount": 148.21,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-19 14:53:36"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Oneil, Shelley Y.",
+    "category": "",
+    "reference": "Ref 8654",
+    "currency": "EUR",
+    "amount": 241.51,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-19 11:08:00"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Patel, Brett H.",
+    "category": "",
+    "reference": "Ref 5984",
+    "currency": "EUR",
+    "amount": 285.88,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-18 18:30:44"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Page, Clarke D.",
+    "category": "",
+    "reference": "Ref 7958",
+    "currency": "EUR",
+    "amount": -340.94,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-18 05:28:25"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Snider, Linda L.",
+    "category": "",
+    "reference": "Ref 2841",
+    "currency": "EUR",
+    "amount": -296.01,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-17 02:18:24"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Lawrence, Emmanuel M.",
+    "category": "",
+    "reference": "Ref 4764",
+    "currency": "EUR",
+    "amount": 422.37,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-15 16:01:03"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Graham, Octavia M.",
+    "category": "",
+    "reference": "Ref 9627",
+    "currency": "EUR",
+    "amount": -197.5,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-15 01:34:58"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Mcleod, Kellie I.",
+    "category": "",
+    "reference": "Ref 7759",
+    "currency": "EUR",
+    "amount": 345.37,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-12 16:22:01"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Brennan, Quentin H.",
+    "category": "",
+    "reference": "Ref 6758",
+    "currency": "EUR",
+    "amount": 236.95,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-12 05:10:41"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Graham, Octavia M.",
+    "category": "",
+    "reference": "Ref 5351",
+    "currency": "EUR",
+    "amount": -65.22,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-08 11:37:56"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Johnston, Orson O.",
+    "category": "",
+    "reference": "Ref 6114",
+    "currency": "EUR",
+    "amount": -148.4,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-07 17:25:22"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Oneil, Shelley Y.",
+    "category": "",
+    "reference": "Ref 3280",
+    "currency": "EUR",
+    "amount": 55.47,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-05 15:12:53"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Cummings, Madaline H.",
+    "category": "",
+    "reference": "Ref 2495",
+    "currency": "EUR",
+    "amount": 161.02,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-27 07:26:21"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Vasquez, Nichole F.",
+    "category": "",
+    "reference": "Ref 810",
+    "currency": "EUR",
+    "amount": 437.98,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-27 03:49:08"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Leonard, Martha U.",
+    "category": "",
+    "reference": "Ref 6264",
+    "currency": "EUR",
+    "amount": 243.92,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-25 10:08:14"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Mcintyre, Fulton R.",
+    "category": "",
+    "reference": "Ref 6889",
+    "currency": "EUR",
+    "amount": -314.04,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-23 21:13:16"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Lindsay, Quynn M.",
+    "category": "",
+    "reference": "Ref 1470",
+    "currency": "EUR",
+    "amount": 89.57,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-22 12:59:17"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Dunn, Knox T.",
+    "category": "",
+    "reference": "Ref 7512",
+    "currency": "EUR",
+    "amount": -400.63,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-21 20:53:11"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Lawrence, Emmanuel M.",
+    "category": "",
+    "reference": "Ref 5938",
+    "currency": "EUR",
+    "amount": -483.89,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-20 21:30:50"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Sawyer, Ryder T.",
+    "category": "Another One",
+    "reference": "Ref 1457",
+    "currency": "EUR",
+    "amount": -180.73,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-15 05:53:30"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Quinn, Xantha B.",
+    "category": "Another One",
+    "reference": "Ref 3784",
+    "currency": "EUR",
+    "amount": -119.64,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-12 16:29:56"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Burch, Bruno K.",
+    "category": "",
+    "reference": "Ref 3190",
+    "currency": "EUR",
+    "amount": -151.82,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-18 23:24:29"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Drake, Thor O.",
+    "category": "",
+    "reference": "Ref 3494",
+    "currency": "EUR",
+    "amount": -26.3,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-15 02:50:28"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Dawson, Kenneth M.",
+    "category": "",
+    "reference": "Ref 3368",
+    "currency": "EUR",
+    "amount": 266.25,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-14 02:34:39"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Robinson, Tashya W.",
+    "category": "",
+    "reference": "Ref 2607",
+    "currency": "EUR",
+    "amount": 398.05,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-12 11:15:41"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Page, Clarke D.",
+    "category": "",
+    "reference": "Ref 2000",
+    "currency": "EUR",
+    "amount": -74.89,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-08 00:19:45"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Hardin, Demetrius C.",
+    "category": "",
+    "reference": "Ref 6008",
+    "currency": "EUR",
+    "amount": -128.61,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-08 00:14:28"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Robinson, Tashya W.",
+    "category": "",
+    "reference": "Ref 7451",
+    "currency": "EUR",
+    "amount": -77.04,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-04 17:36:45"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Stone, Tasha D.",
+    "category": "",
+    "reference": "Ref 9346",
+    "currency": "EUR",
+    "amount": 301.53,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-03 06:42:27"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Fletcher, Adrian Q.",
+    "category": "",
+    "reference": "Ref 3",
+    "currency": "EUR",
+    "amount": 427.36,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-02 18:47:46"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Glover, Lara R.",
+    "category": "",
+    "reference": "Ref 7735",
+    "currency": "EUR",
+    "amount": 27.9,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-02 08:37:01"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Page, Clarke D.",
+    "category": "",
+    "reference": "Ref 287",
+    "currency": "EUR",
+    "amount": -363.9,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-30 11:00:59"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Hodge, Julian J.",
+    "category": "",
+    "reference": "Ref 4453",
+    "currency": "EUR",
+    "amount": -479.17,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-29 22:53:50"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Foster, Germaine Q.",
+    "category": "",
+    "reference": "Ref 4013",
+    "currency": "EUR",
+    "amount": -285.66,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-28 13:13:55"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Bass, Nicholas D.",
+    "category": "",
+    "reference": "Ref 4723",
+    "currency": "EUR",
+    "amount": -245.07,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-28 07:45:07"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Hardin, Demetrius C.",
+    "category": "",
+    "reference": "Ref 7444",
+    "currency": "EUR",
+    "amount": 391.21,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-28 00:49:06"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Vasquez, Nichole F.",
+    "category": "",
+    "reference": "Ref 2576",
+    "currency": "EUR",
+    "amount": 226.28,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-27 16:31:01"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Marks, Serena D.",
+    "category": "",
+    "reference": "Ref 6409",
+    "currency": "EUR",
+    "amount": 109.54,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-27 15:43:57"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Buckner, Amanda B.",
+    "category": "",
+    "reference": "Ref 4038",
+    "currency": "EUR",
+    "amount": -429.26,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-27 09:15:38"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Rollins, Amela Y.",
+    "category": "",
+    "reference": "Ref 486",
+    "currency": "EUR",
+    "amount": 492.41,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-27 09:14:10"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Fitzpatrick, Fitzgerald N.",
+    "category": "",
+    "reference": "Ref 999",
+    "currency": "EUR",
+    "amount": -265.14,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-22 17:43:10"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Ratliff, Jamal J.",
+    "category": "",
+    "reference": "Ref 5137",
+    "currency": "EUR",
+    "amount": -171.8,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-21 23:53:08"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Norton, Lawrence U.",
+    "category": "",
+    "reference": "Ref 1537",
+    "currency": "EUR",
+    "amount": 229.58,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-21 22:30:36"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Norton, Lawrence U.",
+    "category": "",
+    "reference": "Ref 8482",
+    "currency": "EUR",
+    "amount": -39.41,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-20 01:49:48"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Patel, Brett H.",
+    "category": "",
+    "reference": "Ref 6615",
+    "currency": "EUR",
+    "amount": -249.48,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-19 13:20:34"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Johnston, Orson O.",
+    "category": "",
+    "reference": "Ref 2918",
+    "currency": "EUR",
+    "amount": -385.1,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-18 01:16:29"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Morrison, Julian J.",
+    "category": "",
+    "reference": "Ref 6580",
+    "currency": "EUR",
+    "amount": 308.85,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-14 15:50:00"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Fitzpatrick, Fitzgerald N.",
+    "category": "",
+    "reference": "Ref 8734",
+    "currency": "EUR",
+    "amount": 316.95,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-12 21:42:06"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Puckett, Jameson I.",
+    "category": "",
+    "reference": "Ref 2110",
+    "currency": "EUR",
+    "amount": 345.51,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-07 08:48:30"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Patrick, Zoe V.",
+    "category": "",
+    "reference": "Ref 476",
+    "currency": "EUR",
+    "amount": 287.3,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-06 03:38:17"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Dudley, Meredith R.",
+    "category": "",
+    "reference": "Ref 8845",
+    "currency": "EUR",
+    "amount": -422.2,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-05 02:44:49"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Peters, Calista O.",
+    "category": "",
+    "reference": "Ref 2085",
+    "currency": "EUR",
+    "amount": -488.89,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-04 23:47:33"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Hubbard, Cadman R.",
+    "category": "",
+    "reference": "Ref 3675",
+    "currency": "EUR",
+    "amount": 132.36,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-03 11:44:32"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Holland, Ishmael T.",
+    "category": "",
+    "reference": "Ref 9589",
+    "currency": "EUR",
+    "amount": 464.01,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-02 16:37:27"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Harris, Jana Y.",
+    "category": "",
+    "reference": "Ref 6113",
+    "currency": "EUR",
+    "amount": -59.5,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-25 21:56:14"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Greer, Chadwick P.",
+    "category": "",
+    "reference": "Ref 9299",
+    "currency": "EUR",
+    "amount": 22.27,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-25 20:26:55"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Golden, Hollee X.",
+    "category": "",
+    "reference": "Ref 4651",
+    "currency": "EUR",
+    "amount": -450.53,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-17 07:22:14"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Page, Clarke D.",
+    "category": "",
+    "reference": "Ref 6021",
+    "currency": "EUR",
+    "amount": -166.5,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-13 16:01:25"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Ratliff, Jamal J.",
+    "category": "",
+    "reference": "Ref 8100",
+    "currency": "EUR",
+    "amount": -210.64,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-10 17:18:38"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Lindsay, Quynn M.",
+    "category": "",
+    "reference": "Ref 9440",
+    "currency": "EUR",
+    "amount": 272.05,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-30 13:32:37"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Mcintyre, Fulton R.",
+    "category": "Another One",
+    "reference": "Ref 8842",
+    "currency": "EUR",
+    "amount": 441.82,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-11 02:51:31"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Robinson, Tashya W.",
+    "category": "Another One",
+    "reference": "Ref 7705",
+    "currency": "EUR",
+    "amount": 424.5,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-10 21:41:37"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Tucker, Nell T.",
+    "category": "Sample",
+    "reference": "Ref 1227",
+    "currency": "EUR",
+    "amount": -345.64,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-10 08:28:53"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Lawrence, Emmanuel M.",
+    "category": "Sample",
+    "reference": "Ref 6558",
+    "currency": "EUR",
+    "amount": -115.39,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-06 16:44:51"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Harding, Michael Y.",
+    "category": "Sample",
+    "reference": "Ref 2244",
+    "currency": "EUR",
+    "amount": -90.9,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-02 20:44:00"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Yates, Yoshi Y.",
+    "category": "Sample",
+    "reference": "Ref 9126",
+    "currency": "EUR",
+    "amount": 56.82,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-31 01:44:45"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Wooten, Xenos T.",
+    "category": "",
+    "reference": "Ref 559",
+    "currency": "EUR",
+    "amount": -393.14,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-30 04:30:46"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Johnston, Orson O.",
+    "category": "",
+    "reference": "Ref 174",
+    "currency": "EUR",
+    "amount": -193.43,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-29 13:30:20"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Morse, Lev C.",
+    "category": "",
+    "reference": "Ref 4692",
+    "currency": "EUR",
+    "amount": 449.48,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-29 03:54:10"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Franklin, Abdul Z.",
+    "category": "",
+    "reference": "Ref 3864",
+    "currency": "EUR",
+    "amount": -134.18,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-26 11:04:27"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Fletcher, Adrian Q.",
+    "category": "",
+    "reference": "Ref 2819",
+    "currency": "EUR",
+    "amount": -395.87,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-26 02:17:33"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Mcintyre, Fulton R.",
+    "category": "",
+    "reference": "Ref 6080",
+    "currency": "EUR",
+    "amount": -441.57,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-26 01:52:46"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Drake, Thor O.",
+    "category": "",
+    "reference": "Ref 1138",
+    "currency": "EUR",
+    "amount": 244.12,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-24 15:19:08"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Henderson, Tyler D.",
+    "category": "",
+    "reference": "Ref 2650",
+    "currency": "EUR",
+    "amount": -130.01,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-24 14:48:06"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Francis, Arthur N.",
+    "category": "",
+    "reference": "Ref 5358",
+    "currency": "EUR",
+    "amount": -377.52,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-22 17:42:09"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Graham, Octavia M.",
+    "category": "",
+    "reference": "Ref 5477",
+    "currency": "EUR",
+    "amount": 259.83,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-22 15:46:04"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Doyle, Pearl U.",
+    "category": "",
+    "reference": "Ref 2051",
+    "currency": "EUR",
+    "amount": 127.26,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-19 18:03:38"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Patel, Brett H.",
+    "category": "",
+    "reference": "Ref 8363",
+    "currency": "EUR",
+    "amount": 38.75,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-18 13:33:44"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Fitzpatrick, Fitzgerald N.",
+    "category": "",
+    "reference": "Ref 7247",
+    "currency": "EUR",
+    "amount": 461,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-15 23:51:44"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Mccray, Zena K.",
+    "category": "",
+    "reference": "Ref 8220",
+    "currency": "EUR",
+    "amount": 349.83,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-13 20:08:35"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Dejesus, Amir O.",
+    "category": "",
+    "reference": "Ref 5748",
+    "currency": "EUR",
+    "amount": 480.81,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-13 06:59:45"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Harris, Jana Y.",
+    "category": "",
+    "reference": "Ref 8145",
+    "currency": "EUR",
+    "amount": 364.33,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-12 13:54:52"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Russell, Simone X.",
+    "category": "",
+    "reference": "Ref 1131",
+    "currency": "EUR",
+    "amount": -354.97,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-12 11:01:14"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Lindsay, Quynn M.",
+    "category": "",
+    "reference": "Ref 6490",
+    "currency": "EUR",
+    "amount": -243.5,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-11 19:14:53"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Peters, Calista O.",
+    "category": "",
+    "reference": "Ref 1876",
+    "currency": "EUR",
+    "amount": 203.42,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-09 22:00:23"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Stone, Tasha D.",
+    "category": "",
+    "reference": "Ref 8075",
+    "currency": "EUR",
+    "amount": -59.66,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-04 06:50:32"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Dudley, Shelby U.",
+    "category": "",
+    "reference": "Ref 4972",
+    "currency": "EUR",
+    "amount": -204.93,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-02 12:13:01"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Soto, Imogene T.",
+    "category": "",
+    "reference": "Ref 7557",
+    "currency": "EUR",
+    "amount": 59.01,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-02 11:29:09"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Hubbard, Cadman R.",
+    "category": "",
+    "reference": "Ref 6069",
+    "currency": "EUR",
+    "amount": 229.73,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-30 12:39:55"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Puckett, Jameson I.",
+    "category": "",
+    "reference": "Ref 8285",
+    "currency": "EUR",
+    "amount": -20.07,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-30 01:12:22"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Mcintyre, Fulton R.",
+    "category": "",
+    "reference": "Ref 3584",
+    "currency": "EUR",
+    "amount": -185.8,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-29 05:53:32"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Morse, Lev C.",
+    "category": "",
+    "reference": "Ref 4765",
+    "currency": "EUR",
+    "amount": -111.72,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-25 11:27:45"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Puckett, Jameson I.",
+    "category": "",
+    "reference": "Ref 2512",
+    "currency": "EUR",
+    "amount": -217.66,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-25 08:39:21"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Glenn, Bernard C.",
+    "category": "",
+    "reference": "Ref 2304",
+    "currency": "EUR",
+    "amount": 425.12,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-24 13:17:36"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Blackwell, Alisa T.",
+    "category": "",
+    "reference": "Ref 3893",
+    "currency": "EUR",
+    "amount": -255.38,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-23 13:43:49"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Mcleod, Kellie I.",
+    "category": "",
+    "reference": "Ref 3915",
+    "currency": "EUR",
+    "amount": 73.41,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-23 06:41:49"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Henry, Jonas Y.",
+    "category": "",
+    "reference": "Ref 4096",
+    "currency": "EUR",
+    "amount": -273.53,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-22 13:57:14"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Dudley, Meredith R.",
+    "category": "",
+    "reference": "Ref 580",
+    "currency": "EUR",
+    "amount": 432.13,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-21 21:48:15"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Page, Clarke D.",
+    "category": "",
+    "reference": "Ref 6182",
+    "currency": "EUR",
+    "amount": -171.12,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-20 07:02:28"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Henry, Jonas Y.",
+    "category": "",
+    "reference": "Ref 7603",
+    "currency": "EUR",
+    "amount": -175.09,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-18 21:03:56"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Vasquez, Nichole F.",
+    "category": "",
+    "reference": "Ref 5664",
+    "currency": "EUR",
+    "amount": -19.59,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-11 16:29:50"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Hubbard, Cadman R.",
+    "category": "",
+    "reference": "Ref 4154",
+    "currency": "EUR",
+    "amount": -105.36,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-11 00:18:22"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Robinson, Tashya W.",
+    "category": "",
+    "reference": "Ref 4148",
+    "currency": "EUR",
+    "amount": -368.22,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-10 17:17:54"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Marks, Serena D.",
+    "category": "",
+    "reference": "Ref 7790",
+    "currency": "EUR",
+    "amount": -414.28,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-10 08:55:47"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Patrick, Zoe V.",
+    "category": "",
+    "reference": "Ref 8845",
+    "currency": "EUR",
+    "amount": 24.93,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-08 04:07:10"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Glover, Lara R.",
+    "category": "",
+    "reference": "Ref 6745",
+    "currency": "EUR",
+    "amount": 23.82,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-05 21:28:26"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Foster, Germaine Q.",
+    "category": "",
+    "reference": "Ref 9328",
+    "currency": "EUR",
+    "amount": -51.31,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-05 11:48:48"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Dudley, Meredith R.",
+    "category": "",
+    "reference": "Ref 3118",
+    "currency": "EUR",
+    "amount": -251.39,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-03 11:11:58"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Burch, Bruno K.",
+    "category": "",
+    "reference": "Ref 3278",
+    "currency": "EUR",
+    "amount": 430.16,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-03 03:38:40"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Harding, Michael Y.",
+    "category": "Another One",
+    "reference": "Ref 7836",
+    "currency": "EUR",
+    "amount": -474.49,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-16 04:43:32"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Hernandez, Emmanuel M.",
+    "category": "Another One",
+    "reference": "Ref 5277",
+    "currency": "EUR",
+    "amount": -380.25,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-13 08:20:07"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Drake, Thor O.",
+    "category": "",
+    "reference": "Ref 9817",
+    "currency": "EUR",
+    "amount": 324.02,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-02 15:31:01"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Norton, Lawrence U.",
+    "category": "",
+    "reference": "Ref 7693",
+    "currency": "EUR",
+    "amount": 139.84,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-02 10:41:04"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Lamb, Rashad O.",
+    "category": "",
+    "reference": "Ref 2162",
+    "currency": "EUR",
+    "amount": -114.69,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-02 06:39:51"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Henderson, Tyler D.",
+    "category": "",
+    "reference": "Ref 6133",
+    "currency": "EUR",
+    "amount": -442.23,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-02 01:27:07"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Dudley, Shelby U.",
+    "category": "",
+    "reference": "Ref 879",
+    "currency": "EUR",
+    "amount": 258.36,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-30 14:07:26"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Tucker, Nell T.",
+    "category": "",
+    "reference": "Ref 4524",
+    "currency": "EUR",
+    "amount": -119.44,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-29 15:57:05"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Riley, Colleen O.",
+    "category": "",
+    "reference": "Ref 4331",
+    "currency": "EUR",
+    "amount": -142.63,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-29 14:11:28"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Farmer, Eve C.",
+    "category": "",
+    "reference": "Ref 4113",
+    "currency": "EUR",
+    "amount": 238.14,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-29 04:54:12"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Valencia, Dara N.",
+    "category": "",
+    "reference": "Ref 7799",
+    "currency": "EUR",
+    "amount": -80.57,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-28 17:50:58"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Vinson, Hyatt I.",
+    "category": "",
+    "reference": "Ref 9330",
+    "currency": "EUR",
+    "amount": -318.24,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-14 13:03:35"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Dudley, Meredith R.",
+    "category": "",
+    "reference": "Ref 3033",
+    "currency": "EUR",
+    "amount": 253.42,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-14 02:23:34"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Brennan, Quentin H.",
+    "category": "",
+    "reference": "Ref 5912",
+    "currency": "EUR",
+    "amount": -190.81,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-13 15:12:52"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Mcleod, Kellie I.",
+    "category": "",
+    "reference": "Ref 7566",
+    "currency": "EUR",
+    "amount": -362.97,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-13 14:22:42"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Byers, Raymond G.",
+    "category": "",
+    "reference": "Ref 3511",
+    "currency": "EUR",
+    "amount": 461.78,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-12 10:52:53"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Valencia, Dara N.",
+    "category": "",
+    "reference": "Ref 6415",
+    "currency": "EUR",
+    "amount": -370.55,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-11 16:34:58"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Dudley, Meredith R.",
+    "category": "",
+    "reference": "Ref 7329",
+    "currency": "EUR",
+    "amount": 371.53,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-10 09:30:37"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Pollard, Leila E.",
+    "category": "",
+    "reference": "Ref 4003",
+    "currency": "EUR",
+    "amount": -329.51,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-10 02:06:29"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Robinson, Tashya W.",
+    "category": "",
+    "reference": "Ref 8671",
+    "currency": "EUR",
+    "amount": 403.75,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-09 11:35:19"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Farmer, Eve C.",
+    "category": "Sample",
+    "reference": "Ref 9112",
+    "currency": "EUR",
+    "amount": -497.29,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-19 17:57:30"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Montoya, Adrienne E.",
+    "category": "Sample",
+    "reference": "Ref 3230",
+    "currency": "EUR",
+    "amount": 53.27,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-18 11:58:02"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Hernandez, Emmanuel M.",
+    "category": "Sample",
+    "reference": "Ref 7980",
+    "currency": "EUR",
+    "amount": -332.12,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-17 15:41:56"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Lindsay, Quynn M.",
+    "category": "Sample",
+    "reference": "Ref 5388",
+    "currency": "EUR",
+    "amount": 377.45,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-15 13:59:43"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Snider, Linda L.",
+    "category": "",
+    "reference": "Ref 7563",
+    "currency": "EUR",
+    "amount": 236.88,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-06 10:40:35"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Cummings, Madaline H.",
+    "category": "",
+    "reference": "Ref 6775",
+    "currency": "EUR",
+    "amount": -57.62,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-06 07:04:39"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Franklin, Abdul Z.",
+    "category": "",
+    "reference": "Ref 3939",
+    "currency": "EUR",
+    "amount": 25.19,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-05 19:23:39"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Byers, Raymond G.",
+    "category": "",
+    "reference": "Ref 8566",
+    "currency": "EUR",
+    "amount": 56.7,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-05 01:26:24"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Lindsay, Quynn M.",
+    "category": "",
+    "reference": "Ref 4195",
+    "currency": "EUR",
+    "amount": 19.99,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-04 03:54:42"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Austin, Dieter I.",
+    "category": "",
+    "reference": "Ref 8455",
+    "currency": "EUR",
+    "amount": 409.31,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-02 10:20:27"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Doyle, Pearl U.",
+    "category": "",
+    "reference": "Ref 9663",
+    "currency": "GBP",
+    "amount": -481.88,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-27 21:00:11"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Barnes, Odette W.",
+    "category": "",
+    "reference": "Ref 1816",
+    "currency": "GBP",
+    "amount": -151.69,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-26 20:36:26"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Mendez, Mariam R.",
+    "category": "",
+    "reference": "Ref 8179",
+    "currency": "GBP",
+    "amount": -80.75,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-22 00:05:41"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Roberson, Acton Z.",
+    "category": "",
+    "reference": "Ref 8509",
+    "currency": "GBP",
+    "amount": 166.62,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-21 21:01:04"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Montoya, Adrienne E.",
+    "category": "",
+    "reference": "Ref 8706",
+    "currency": "GBP",
+    "amount": 97.67,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-20 14:56:54"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Burch, Bruno K.",
+    "category": "",
+    "reference": "Ref 8286",
+    "currency": "GBP",
+    "amount": -12,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-18 09:49:27"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Brennan, Quentin H.",
+    "category": "",
+    "reference": "Ref 4557",
+    "currency": "GBP",
+    "amount": 138.65,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-15 22:07:28"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Dudley, Meredith R.",
+    "category": "",
+    "reference": "Ref 6134",
+    "currency": "GBP",
+    "amount": -42.83,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-15 00:08:32"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Lawrence, Emmanuel M.",
+    "category": "",
+    "reference": "Ref 8551",
+    "currency": "GBP",
+    "amount": -157.91,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-12 09:03:21"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Byers, Raymond G.",
+    "category": "",
+    "reference": "Ref 4028",
+    "currency": "GBP",
+    "amount": -221.24,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-06 08:08:48"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Montoya, Adrienne E.",
+    "category": "",
+    "reference": "Ref 738",
+    "currency": "GBP",
+    "amount": -15.12,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-04 00:15:21"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Mccray, Zena K.",
+    "category": "",
+    "reference": "Ref 315",
+    "currency": "GBP",
+    "amount": -66.68,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-25 20:11:04"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Cummings, Madaline H.",
+    "category": "",
+    "reference": "Ref 4307",
+    "currency": "GBP",
+    "amount": 441.99,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-25 11:06:02"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Dudley, Shelby U.",
+    "category": "",
+    "reference": "Ref 5890",
+    "currency": "GBP",
+    "amount": -462.4,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-20 11:44:02"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Graham, Octavia M.",
+    "category": "",
+    "reference": "Ref 844",
+    "currency": "GBP",
+    "amount": 60.77,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-19 10:14:37"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Glover, Lara R.",
+    "category": "",
+    "reference": "Ref 5471",
+    "currency": "GBP",
+    "amount": 218.98,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-16 10:39:08"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Graham, Octavia M.",
+    "category": "",
+    "reference": "Ref 6416",
+    "currency": "GBP",
+    "amount": -63.28,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-08 03:41:49"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Gonzales, Wylie D.",
+    "category": "",
+    "reference": "Ref 4175",
+    "currency": "GBP",
+    "amount": -370.29,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-07 19:47:39"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Gilliam, Kelsey G.",
+    "category": "",
+    "reference": "Ref 6385",
+    "currency": "GBP",
+    "amount": 283.16,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-07 19:11:37"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Byers, Raymond G.",
+    "category": "",
+    "reference": "Ref 7905",
+    "currency": "GBP",
+    "amount": 177.38,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-06 20:52:04"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Doyle, Pearl U.",
+    "category": "",
+    "reference": "Ref 5655",
+    "currency": "GBP",
+    "amount": -201.62,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-06 17:57:21"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Montoya, Adrienne E.",
+    "category": "",
+    "reference": "Ref 9702",
+    "currency": "GBP",
+    "amount": -335,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-31 02:00:38"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Workman, Quail L.",
+    "category": "",
+    "reference": "Ref 2222",
+    "currency": "GBP",
+    "amount": -260.24,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-28 01:27:03"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Henry, Jonas Y.",
+    "category": "",
+    "reference": "Ref 7763",
+    "currency": "GBP",
+    "amount": 78.61,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-27 17:40:07"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Brennan, Quentin H.",
+    "category": "",
+    "reference": "Ref 211",
+    "currency": "GBP",
+    "amount": -325.74,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-25 01:42:09"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Nielsen, Yeo P.",
+    "category": "",
+    "reference": "Ref 1169",
+    "currency": "GBP",
+    "amount": 72.3,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-22 23:25:16"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Mcintyre, Fulton R.",
+    "category": "",
+    "reference": "Ref 7987",
+    "currency": "GBP",
+    "amount": -362.18,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-21 18:52:24"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Soto, Imogene T.",
+    "category": "",
+    "reference": "Ref 1496",
+    "currency": "GBP",
+    "amount": 414.97,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-21 09:19:40"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Roach, Cleo D.",
+    "category": "",
+    "reference": "Ref 180",
+    "currency": "GBP",
+    "amount": 267.03,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-19 22:06:47"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Dickerson, Keith O.",
+    "category": "",
+    "reference": "Ref 3966",
+    "currency": "GBP",
+    "amount": -67.53,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-18 22:34:34"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Sykes, Unity E.",
+    "category": "",
+    "reference": "Ref 2707",
+    "currency": "GBP",
+    "amount": 80.72,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-18 18:36:37"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Dejesus, Amir O.",
+    "category": "",
+    "reference": "Ref 3179",
+    "currency": "GBP",
+    "amount": -105.52,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-18 05:51:47"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Morrison, Julian J.",
+    "category": "",
+    "reference": "Ref 3778",
+    "currency": "GBP",
+    "amount": 432.7,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-16 19:14:58"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Austin, Dieter I.",
+    "category": "",
+    "reference": "Ref 3680",
+    "currency": "GBP",
+    "amount": 320.23,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-16 08:00:43"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Mccray, Zena K.",
+    "category": "",
+    "reference": "Ref 9061",
+    "currency": "GBP",
+    "amount": 481.57,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-14 04:28:11"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Stone, Tasha D.",
+    "category": "",
+    "reference": "Ref 9647",
+    "currency": "GBP",
+    "amount": -18.55,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-12 17:20:31"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Dunn, Knox T.",
+    "category": "Sample",
+    "reference": "Ref 3856",
+    "currency": "GBP",
+    "amount": -489.02,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-22 12:33:48"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Burch, Bruno K.",
+    "category": "Sample",
+    "reference": "Ref 7365",
+    "currency": "GBP",
+    "amount": -417.61,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-19 06:16:35"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Hubbard, Cadman R.",
+    "category": "",
+    "reference": "Ref 8272",
+    "currency": "GBP",
+    "amount": 468.73,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-11 13:10:20"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Key, Lesley X.",
+    "category": "",
+    "reference": "Ref 8220",
+    "currency": "GBP",
+    "amount": 315.98,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-09 14:59:40"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Brennan, Quentin H.",
+    "category": "",
+    "reference": "Ref 815",
+    "currency": "GBP",
+    "amount": -116.69,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-08 11:15:15"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Byers, Raymond G.",
+    "category": "",
+    "reference": "Ref 8832",
+    "currency": "GBP",
+    "amount": -175.01,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-08 06:30:37"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Lamb, Rashad O.",
+    "category": "",
+    "reference": "Ref 8747",
+    "currency": "GBP",
+    "amount": 451.4,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-05 21:03:40"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Sykes, Unity E.",
+    "category": "",
+    "reference": "Ref 7219",
+    "currency": "GBP",
+    "amount": -13.13,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-05 12:11:39"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Mcmahon, Kendall N.",
+    "category": "",
+    "reference": "Ref 4309",
+    "currency": "GBP",
+    "amount": -141.6,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-01 23:17:03"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Goodman, Jescie C.",
+    "category": "",
+    "reference": "Ref 5392",
+    "currency": "GBP",
+    "amount": 65.24,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-29 21:01:25"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Rollins, Amela Y.",
+    "category": "",
+    "reference": "Ref 3161",
+    "currency": "GBP",
+    "amount": -368.35,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-28 11:57:28"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Mccray, Zena K.",
+    "category": "",
+    "reference": "Ref 8579",
+    "currency": "GBP",
+    "amount": 289.19,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-25 01:53:01"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Barnes, Odette W.",
+    "category": "",
+    "reference": "Ref 556",
+    "currency": "GBP",
+    "amount": 85.57,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-22 03:13:15"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Francis, Arthur N.",
+    "category": "",
+    "reference": "Ref 5452",
+    "currency": "GBP",
+    "amount": 191.36,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-20 02:48:52"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Harris, Jana Y.",
+    "category": "",
+    "reference": "Ref 2961",
+    "currency": "GBP",
+    "amount": -22.23,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-19 06:19:09"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Roberson, Acton Z.",
+    "category": "",
+    "reference": "Ref 6035",
+    "currency": "GBP",
+    "amount": 315.88,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-19 03:19:33"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Lara, Tashya V.",
+    "category": "",
+    "reference": "Ref 4925",
+    "currency": "GBP",
+    "amount": 376.31,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-18 21:30:18"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Dunn, Knox T.",
+    "category": "",
+    "reference": "Ref 2395",
+    "currency": "GBP",
+    "amount": -205.41,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-18 12:55:01"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Buckner, Amanda B.",
+    "category": "",
+    "reference": "Ref 5067",
+    "currency": "GBP",
+    "amount": 258.45,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-17 22:43:04"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Dawson, Kenneth M.",
+    "category": "",
+    "reference": "Ref 1423",
+    "currency": "GBP",
+    "amount": 392.12,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-15 10:39:41"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Snider, Linda L.",
+    "category": "",
+    "reference": "Ref 5623",
+    "currency": "GBP",
+    "amount": 44.34,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-14 01:36:18"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Hubbard, Cadman R.",
+    "category": "Sample",
+    "reference": "Ref 1537",
+    "currency": "GBP",
+    "amount": -92.46,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-23 05:10:08"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Quinn, Xantha B.",
+    "category": "Sample",
+    "reference": "Ref 5090",
+    "currency": "GBP",
+    "amount": 319.59,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-22 03:07:52"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Burch, Bruno K.",
+    "category": "Sample",
+    "reference": "Ref 5644",
+    "currency": "GBP",
+    "amount": 229.49,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-21 16:50:47"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Rollins, Amela Y.",
+    "category": "",
+    "reference": "Ref 224",
+    "currency": "GBP",
+    "amount": -429.15,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-07 19:38:25"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Snider, Zeus W.",
+    "category": "",
+    "reference": "Ref 6223",
+    "currency": "GBP",
+    "amount": -92.6,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-05 03:54:24"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Drake, Thor O.",
+    "category": "",
+    "reference": "Ref 5383",
+    "currency": "GBP",
+    "amount": -156.45,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-03 08:26:50"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Golden, Hollee X.",
+    "category": "",
+    "reference": "Ref 4800",
+    "currency": "GBP",
+    "amount": 467.66,
+    "status": "BOOKED",
+    "transactionDate": "2020-11-02 00:26:51"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Burch, Bruno K.",
+    "category": "",
+    "reference": "Ref 8418",
+    "currency": "GBP",
+    "amount": 127.34,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-31 06:46:37"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Mccray, Zena K.",
+    "category": "",
+    "reference": "Ref 9921",
+    "currency": "GBP",
+    "amount": 276.57,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-27 11:17:52"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Robinson, Tashya W.",
+    "category": "",
+    "reference": "Ref 1155",
+    "currency": "GBP",
+    "amount": -265.57,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-25 12:30:25"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Hubbard, Cadman R.",
+    "category": "",
+    "reference": "Ref 3722",
+    "currency": "GBP",
+    "amount": 34.47,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-21 08:45:25"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Bass, Nicholas D.",
+    "category": "",
+    "reference": "Ref 5011",
+    "currency": "GBP",
+    "amount": -413.55,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-21 02:19:37"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Vasquez, Nichole F.",
+    "category": "",
+    "reference": "Ref 3935",
+    "currency": "GBP",
+    "amount": -243.89,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-20 03:08:22"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Sykes, Unity E.",
+    "category": "",
+    "reference": "Ref 3346",
+    "currency": "GBP",
+    "amount": -327.55,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-19 13:55:53"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Patrick, Zoe V.",
+    "category": "",
+    "reference": "Ref 1344",
+    "currency": "GBP",
+    "amount": -424.69,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-18 00:46:49"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Sawyer, Ryder T.",
+    "category": "",
+    "reference": "Ref 4816",
+    "currency": "GBP",
+    "amount": 327.24,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-15 14:32:15"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Johnston, Orson O.",
+    "category": "",
+    "reference": "Ref 785",
+    "currency": "GBP",
+    "amount": 134.69,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-14 00:02:07"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Hubbard, Cadman R.",
+    "category": "",
+    "reference": "Ref 1937",
+    "currency": "GBP",
+    "amount": 139.55,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-11 05:26:46"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Tyson, Colorado N.",
+    "category": "",
+    "reference": "Ref 1208",
+    "currency": "GBP",
+    "amount": 318.72,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-08 22:23:04"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Glenn, Bernard C.",
+    "category": "",
+    "reference": "Ref 4204",
+    "currency": "GBP",
+    "amount": 135.28,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-29 18:33:49"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Lara, Tashya V.",
+    "category": "",
+    "reference": "Ref 660",
+    "currency": "GBP",
+    "amount": 97.07,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-29 07:37:33"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Riley, Colleen O.",
+    "category": "",
+    "reference": "Ref 4308",
+    "currency": "GBP",
+    "amount": 96.73,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-28 23:44:22"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Sawyer, Ryder T.",
+    "category": "",
+    "reference": "Ref 2430",
+    "currency": "GBP",
+    "amount": -109.35,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-28 17:04:07"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Barnes, Odette W.",
+    "category": "",
+    "reference": "Ref 7062",
+    "currency": "GBP",
+    "amount": -256.53,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-28 01:04:42"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Quinn, Xantha B.",
+    "category": "",
+    "reference": "Ref 9048",
+    "currency": "GBP",
+    "amount": 332.04,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-24 12:41:45"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Dawson, Kenneth M.",
+    "category": "",
+    "reference": "Ref 6858",
+    "currency": "GBP",
+    "amount": -114.93,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-22 20:59:17"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Dawson, Kenneth M.",
+    "category": "",
+    "reference": "Ref 9151",
+    "currency": "GBP",
+    "amount": -320.34,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-22 06:06:10"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Dudley, Meredith R.",
+    "category": "",
+    "reference": "Ref 7754",
+    "currency": "GBP",
+    "amount": 459.74,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-21 20:23:28"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Juarez, Jenna M.",
+    "category": "",
+    "reference": "Ref 433",
+    "currency": "GBP",
+    "amount": -49.71,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-21 16:27:43"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Oneil, Shelley Y.",
+    "category": "",
+    "reference": "Ref 2670",
+    "currency": "GBP",
+    "amount": -132.53,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-21 06:35:04"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Roach, Cleo D.",
+    "category": "",
+    "reference": "Ref 2425",
+    "currency": "GBP",
+    "amount": -335.76,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-17 15:47:32"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Holland, Ishmael T.",
+    "category": "",
+    "reference": "Ref 9334",
+    "currency": "GBP",
+    "amount": -90.69,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-16 15:37:11"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Bass, Nicholas D.",
+    "category": "",
+    "reference": "Ref 9531",
+    "currency": "GBP",
+    "amount": 396.3,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-15 15:34:54"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Decker, Diana Y.",
+    "category": "",
+    "reference": "Ref 6915",
+    "currency": "GBP",
+    "amount": 131.99,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-15 01:17:56"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Mcleod, Kellie I.",
+    "category": "",
+    "reference": "Ref 4004",
+    "currency": "GBP",
+    "amount": 410.19,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-13 13:06:10"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Byers, Raymond G.",
+    "category": "",
+    "reference": "Ref 7799",
+    "currency": "GBP",
+    "amount": -102.08,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-11 14:47:33"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Buck, Ignacia O.",
+    "category": "",
+    "reference": "Ref 3459",
+    "currency": "GBP",
+    "amount": 379.2,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-11 09:51:04"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Lara, Tashya V.",
+    "category": "",
+    "reference": "Ref 1284",
+    "currency": "GBP",
+    "amount": -10.59,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-09 14:49:47"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Vasquez, Nichole F.",
+    "category": "",
+    "reference": "Ref 9109",
+    "currency": "GBP",
+    "amount": -127.42,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-08 20:30:32"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Tyson, Colorado N.",
+    "category": "",
+    "reference": "Ref 878",
+    "currency": "GBP",
+    "amount": -325.06,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-05 15:45:15"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Henry, Jonas Y.",
+    "category": "",
+    "reference": "Ref 1237",
+    "currency": "GBP",
+    "amount": 240.43,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-05 07:28:43"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Gonzales, Wylie D.",
+    "category": "",
+    "reference": "Ref 5645",
+    "currency": "GBP",
+    "amount": -472.21,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-04 07:17:19"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Francis, Arthur N.",
+    "category": "",
+    "reference": "Ref 8956",
+    "currency": "GBP",
+    "amount": 432.19,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-03 20:49:08"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Marks, Serena D.",
+    "category": "",
+    "reference": "Ref 3355",
+    "currency": "GBP",
+    "amount": 179.57,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-03 14:19:57"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Snider, Linda L.",
+    "category": "",
+    "reference": "Ref 3687",
+    "currency": "GBP",
+    "amount": 161.02,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-02 10:07:32"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Hernandez, Emmanuel M.",
+    "category": "",
+    "reference": "Ref 2028",
+    "currency": "GBP",
+    "amount": 244.87,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-01 20:21:42"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Farmer, Eve C.",
+    "category": "",
+    "reference": "Ref 5711",
+    "currency": "GBP",
+    "amount": -122.01,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-31 00:30:05"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Marks, Serena D.",
+    "category": "",
+    "reference": "Ref 6504",
+    "currency": "GBP",
+    "amount": 38.94,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-28 23:18:02"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Cummings, Madaline H.",
+    "category": "",
+    "reference": "Ref 8537",
+    "currency": "GBP",
+    "amount": 377.39,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-28 18:13:03"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Oneil, Shelley Y.",
+    "category": "",
+    "reference": "Ref 7853",
+    "currency": "GBP",
+    "amount": 320.41,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-28 03:09:39"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Roberson, Acton Z.",
+    "category": "",
+    "reference": "Ref 3286",
+    "currency": "GBP",
+    "amount": 213.69,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-25 20:52:08"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Strong, Hunter A.",
+    "category": "",
+    "reference": "Ref 9061",
+    "currency": "GBP",
+    "amount": -445.16,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-25 16:09:51"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Barnes, Odette W.",
+    "category": "",
+    "reference": "Ref 2859",
+    "currency": "GBP",
+    "amount": 327.77,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-24 22:38:47"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Tyson, Colorado N.",
+    "category": "",
+    "reference": "Ref 2647",
+    "currency": "GBP",
+    "amount": -174.87,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-24 18:20:29"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Tyson, Colorado N.",
+    "category": "",
+    "reference": "Ref 3118",
+    "currency": "GBP",
+    "amount": 147.91,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-24 14:25:06"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Franklin, Abdul Z.",
+    "category": "",
+    "reference": "Ref 6150",
+    "currency": "GBP",
+    "amount": 45.47,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-19 23:21:35"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Russell, Simone X.",
+    "category": "",
+    "reference": "Ref 4742",
+    "currency": "GBP",
+    "amount": -234.02,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-18 22:09:13"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Holland, Ishmael T.",
+    "category": "",
+    "reference": "Ref 1615",
+    "currency": "GBP",
+    "amount": 29.85,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-18 02:17:31"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Sykes, Unity E.",
+    "category": "",
+    "reference": "Ref 5340",
+    "currency": "GBP",
+    "amount": 338.08,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-17 19:04:40"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Nielsen, Yeo P.",
+    "category": "",
+    "reference": "Ref 2604",
+    "currency": "GBP",
+    "amount": 346.71,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-17 11:14:28"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Quinn, Xantha B.",
+    "category": "",
+    "reference": "Ref 2718",
+    "currency": "GBP",
+    "amount": 474.21,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-17 05:08:57"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Mcclure, Kristen S.",
+    "category": "",
+    "reference": "Ref 6908",
+    "currency": "GBP",
+    "amount": 417.76,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-15 18:30:03"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Hebert, Cally W.",
+    "category": "",
+    "reference": "Ref 776",
+    "currency": "GBP",
+    "amount": 181.83,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-13 22:46:41"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Patel, Brett H.",
+    "category": "",
+    "reference": "Ref 1884",
+    "currency": "GBP",
+    "amount": 157.4,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-12 15:25:27"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Snider, Zeus W.",
+    "category": "",
+    "reference": "Ref 2202",
+    "currency": "GBP",
+    "amount": -141.16,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-09 20:56:25"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Patel, Brett H.",
+    "category": "",
+    "reference": "Ref 5872",
+    "currency": "GBP",
+    "amount": 127.13,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-08 13:47:04"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Buckner, Amanda B.",
+    "category": "",
+    "reference": "Ref 1541",
+    "currency": "GBP",
+    "amount": -314.56,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-05 16:58:00"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Brennan, Quentin H.",
+    "category": "",
+    "reference": "Ref 4387",
+    "currency": "GBP",
+    "amount": -366.78,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-05 06:36:45"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Roman, Daphne P.",
+    "category": "",
+    "reference": "Ref 4422",
+    "currency": "GBP",
+    "amount": -197.26,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-05 02:09:25"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Stone, Tasha D.",
+    "category": "",
+    "reference": "Ref 8168",
+    "currency": "GBP",
+    "amount": 478.76,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-03 22:07:51"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Fletcher, Adrian Q.",
+    "category": "",
+    "reference": "Ref 2838",
+    "currency": "GBP",
+    "amount": -418.06,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-02 20:20:05"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Morse, Lev C.",
+    "category": "",
+    "reference": "Ref 4815",
+    "currency": "GBP",
+    "amount": -74.55,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-02 04:19:20"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Nielsen, Yeo P.",
+    "category": "",
+    "reference": "Ref 9534",
+    "currency": "GBP",
+    "amount": -116.83,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-01 22:28:34"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Henderson, Tyler D.",
+    "category": "",
+    "reference": "Ref 7968",
+    "currency": "GBP",
+    "amount": -333.23,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-01 16:00:23"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Bradford, Lacota O.",
+    "category": "",
+    "reference": "Ref 1408",
+    "currency": "GBP",
+    "amount": -50.51,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-30 21:22:35"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Tucker, Nell T.",
+    "category": "",
+    "reference": "Ref 3943",
+    "currency": "GBP",
+    "amount": 80.16,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-25 23:59:13"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Drake, Thor O.",
+    "category": "",
+    "reference": "Ref 7513",
+    "currency": "GBP",
+    "amount": 418.5,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-23 01:55:24"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Valencia, Dara N.",
+    "category": "",
+    "reference": "Ref 5724",
+    "currency": "GBP",
+    "amount": -404.92,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-22 14:15:17"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Dickerson, Keith O.",
+    "category": "",
+    "reference": "Ref 2809",
+    "currency": "GBP",
+    "amount": 67.63,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-20 06:13:00"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Glenn, Bernard C.",
+    "category": "",
+    "reference": "Ref 3488",
+    "currency": "GBP",
+    "amount": 459.41,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-19 20:34:45"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Yates, Yoshi Y.",
+    "category": "",
+    "reference": "Ref 7219",
+    "currency": "GBP",
+    "amount": -356.11,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-16 11:33:45"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Golden, Hollee X.",
+    "category": "",
+    "reference": "Ref 4452",
+    "currency": "GBP",
+    "amount": -298.57,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-15 18:07:43"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Foster, Germaine Q.",
+    "category": "",
+    "reference": "Ref 3863",
+    "currency": "GBP",
+    "amount": 275.7,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-14 11:52:45"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Buckner, Amanda B.",
+    "category": "",
+    "reference": "Ref 453",
+    "currency": "GBP",
+    "amount": -312.05,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-13 00:29:32"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Roberson, Acton Z.",
+    "category": "",
+    "reference": "Ref 7218",
+    "currency": "GBP",
+    "amount": -60.67,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-04 18:37:04"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Lawrence, Emmanuel M.",
+    "category": "",
+    "reference": "Ref 9267",
+    "currency": "GBP",
+    "amount": 116.28,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-30 05:37:32"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Yates, Yoshi Y.",
+    "category": "",
+    "reference": "Ref 1642",
+    "currency": "GBP",
+    "amount": 434.34,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-29 02:28:51"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Riley, Colleen O.",
+    "category": "",
+    "reference": "Ref 900",
+    "currency": "GBP",
+    "amount": 236.36,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-26 15:30:13"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Buckner, Amanda B.",
+    "category": "",
+    "reference": "Ref 1652",
+    "currency": "GBP",
+    "amount": 434.18,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-25 18:15:13"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Brennan, Quentin H.",
+    "category": "",
+    "reference": "Ref 2887",
+    "currency": "GBP",
+    "amount": -465.1,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-24 03:27:27"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Henry, Jonas Y.",
+    "category": "",
+    "reference": "Ref 437",
+    "currency": "GBP",
+    "amount": 252.16,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-22 10:29:22"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Dudley, Meredith R.",
+    "category": "",
+    "reference": "Ref 6369",
+    "currency": "GBP",
+    "amount": -194.74,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-21 10:17:54"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Hebert, Cally W.",
+    "category": "Another One",
+    "reference": "Ref 3480",
+    "currency": "GBP",
+    "amount": 121.43,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-12 22:27:43"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Harding, Michael Y.",
+    "category": "",
+    "reference": "Ref 6989",
+    "currency": "GBP",
+    "amount": 208.36,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-21 09:52:49"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Stone, Tasha D.",
+    "category": "",
+    "reference": "Ref 8169",
+    "currency": "GBP",
+    "amount": 220.45,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-21 06:29:34"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Dudley, Shelby U.",
+    "category": "",
+    "reference": "Ref 2842",
+    "currency": "GBP",
+    "amount": -245.37,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-17 16:43:31"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Bass, Nicholas D.",
+    "category": "",
+    "reference": "Ref 4538",
+    "currency": "GBP",
+    "amount": -367.48,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-14 10:08:24"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Foster, Germaine Q.",
+    "category": "",
+    "reference": "Ref 9260",
+    "currency": "GBP",
+    "amount": 11.65,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-12 10:27:21"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Montoya, Adrienne E.",
+    "category": "",
+    "reference": "Ref 8998",
+    "currency": "GBP",
+    "amount": -293.52,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-10 19:25:20"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Francis, Arthur N.",
+    "category": "",
+    "reference": "Ref 619",
+    "currency": "GBP",
+    "amount": -123.88,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-08 17:44:36"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Strong, Hunter A.",
+    "category": "",
+    "reference": "Ref 1586",
+    "currency": "GBP",
+    "amount": -434.94,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-08 12:40:50"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Dejesus, Amir O.",
+    "category": "",
+    "reference": "Ref 8099",
+    "currency": "GBP",
+    "amount": -94,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-08 04:33:15"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Hardin, Demetrius C.",
+    "category": "",
+    "reference": "Ref 7415",
+    "currency": "GBP",
+    "amount": 231.7,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-07 18:24:59"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Peters, Calista O.",
+    "category": "",
+    "reference": "Ref 9074",
+    "currency": "GBP",
+    "amount": -212.52,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-07 02:13:49"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Marks, Serena D.",
+    "category": "",
+    "reference": "Ref 3271",
+    "currency": "GBP",
+    "amount": 221.32,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-07 00:16:17"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Glover, Lara R.",
+    "category": "",
+    "reference": "Ref 9849",
+    "currency": "GBP",
+    "amount": 47.93,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-05 22:30:30"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Key, Lesley X.",
+    "category": "",
+    "reference": "Ref 9583",
+    "currency": "GBP",
+    "amount": 74.91,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-05 03:26:52"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Mcclure, Kristen S.",
+    "category": "",
+    "reference": "Ref 9544",
+    "currency": "GBP",
+    "amount": -295.27,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-04 18:07:43"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Robinson, Tashya W.",
+    "category": "",
+    "reference": "Ref 8750",
+    "currency": "GBP",
+    "amount": -51.77,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-04 11:09:07"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Franklin, Abdul Z.",
+    "category": "",
+    "reference": "Ref 9002",
+    "currency": "GBP",
+    "amount": -405.46,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-02 17:29:21"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Gonzales, Wylie D.",
+    "category": "",
+    "reference": "Ref 4994",
+    "currency": "GBP",
+    "amount": 113.67,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-02 17:22:31"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Gallagher, Robin X.",
+    "category": "",
+    "reference": "Ref 3076",
+    "currency": "GBP",
+    "amount": -67.82,
+    "status": "BOOKED",
+    "transactionDate": "2020-06-02 13:28:15"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Riley, Colleen O.",
+    "category": "",
+    "reference": "Ref 8149",
+    "currency": "GBP",
+    "amount": 83.11,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-31 05:35:48"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Robinson, Tashya W.",
+    "category": "",
+    "reference": "Ref 7215",
+    "currency": "GBP",
+    "amount": -150.32,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-31 01:37:58"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Snider, Linda L.",
+    "category": "",
+    "reference": "Ref 9177",
+    "currency": "GBP",
+    "amount": -237.86,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-26 12:10:00"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Quinn, Xantha B.",
+    "category": "",
+    "reference": "Ref 2870",
+    "currency": "GBP",
+    "amount": 261.1,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-22 02:15:58"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Foster, Germaine Q.",
+    "category": "",
+    "reference": "Ref 8889",
+    "currency": "GBP",
+    "amount": 238.29,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-16 20:15:14"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Glenn, Bernard C.",
+    "category": "",
+    "reference": "Ref 6015",
+    "currency": "GBP",
+    "amount": -91.75,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-15 16:50:50"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Fitzpatrick, Fitzgerald N.",
+    "category": "",
+    "reference": "Ref 6302",
+    "currency": "GBP",
+    "amount": -44.03,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-15 01:38:18"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Dudley, Meredith R.",
+    "category": "",
+    "reference": "Ref 5581",
+    "currency": "GBP",
+    "amount": -126.97,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-10 19:05:06"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Lamb, Rashad O.",
+    "category": "",
+    "reference": "Ref 7667",
+    "currency": "GBP",
+    "amount": -344.86,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-09 16:18:16"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Morse, Lev C.",
+    "category": "",
+    "reference": "Ref 6617",
+    "currency": "GBP",
+    "amount": 192.97,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-09 06:03:45"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Henderson, Tyler D.",
+    "category": "",
+    "reference": "Ref 3314",
+    "currency": "GBP",
+    "amount": -82.91,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-08 14:28:33"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Peters, Calista O.",
+    "category": "",
+    "reference": "Ref 2296",
+    "currency": "GBP",
+    "amount": 159.91,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-07 18:25:37"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Mcleod, Kellie I.",
+    "category": "",
+    "reference": "Ref 4463",
+    "currency": "GBP",
+    "amount": -441.17,
+    "status": "BOOKED",
+    "transactionDate": "2020-05-07 08:13:18"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Lawrence, Emmanuel M.",
+    "category": "",
+    "reference": "Ref 7882",
+    "currency": "GBP",
+    "amount": -40.33,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-30 13:25:00"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Dickerson, Brenna Q.",
+    "category": "",
+    "reference": "Ref 9068",
+    "currency": "GBP",
+    "amount": -425.56,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-23 21:30:08"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Tyson, Colorado N.",
+    "category": "",
+    "reference": "Ref 4954",
+    "currency": "GBP",
+    "amount": -337.29,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-20 08:08:44"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Quinn, Xantha B.",
+    "category": "",
+    "reference": "Ref 1117",
+    "currency": "GBP",
+    "amount": -240.87,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-18 22:53:08"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Mcleod, Kellie I.",
+    "category": "",
+    "reference": "Ref 4073",
+    "currency": "GBP",
+    "amount": 432.82,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-18 22:31:35"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Hebert, Cally W.",
+    "category": "",
+    "reference": "Ref 536",
+    "currency": "GBP",
+    "amount": -30.3,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-15 06:19:48"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Tyson, Colorado N.",
+    "category": "",
+    "reference": "Ref 6303",
+    "currency": "GBP",
+    "amount": -227.16,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-14 23:22:48"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Rollins, Amela Y.",
+    "category": "",
+    "reference": "Ref 5321",
+    "currency": "GBP",
+    "amount": 269.74,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-13 01:14:27"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Oneil, Shelley Y.",
+    "category": "",
+    "reference": "Ref 6994",
+    "currency": "GBP",
+    "amount": -96.8,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-10 07:53:08"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Quinn, Xantha B.",
+    "category": "",
+    "reference": "Ref 6656",
+    "currency": "GBP",
+    "amount": 187.36,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-09 17:17:33"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Oneil, Shelley Y.",
+    "category": "",
+    "reference": "Ref 5405",
+    "currency": "GBP",
+    "amount": 423.26,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-02 22:31:45"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Roberson, Acton Z.",
+    "category": "",
+    "reference": "Ref 8738",
+    "currency": "GBP",
+    "amount": 371.06,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-02 02:45:30"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Pollard, Leila E.",
+    "category": "Another One",
+    "reference": "Ref 401",
+    "currency": "GBP",
+    "amount": 179.88,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-28 12:14:23"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Oneil, Shelley Y.",
+    "category": "",
+    "reference": "Ref 4119",
+    "currency": "GBP",
+    "amount": -307.83,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-12 19:30:52"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Nielsen, Yeo P.",
+    "category": "",
+    "reference": "Ref 4093",
+    "currency": "GBP",
+    "amount": 279.75,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-11 19:33:56"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Blackwell, Alisa T.",
+    "category": "",
+    "reference": "Ref 5609",
+    "currency": "GBP",
+    "amount": -325.65,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-06 00:21:59"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Barnes, Odette W.",
+    "category": "Sample",
+    "reference": "Ref 3174",
+    "currency": "GBP",
+    "amount": 53.71,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-19 15:54:45"
+  },
+  {
+    "account": "Household",
+    "description": "Cash to Dejesus, Amir O.",
+    "category": "Another One",
+    "reference": "Ref 2541",
+    "currency": "GBP",
+    "amount": -20.14,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-15 22:24:31"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Hodge, Julian J.",
+    "category": "Sample",
+    "reference": "Ref 2900",
+    "currency": "EUR",
+    "amount": 397.12,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-14 20:56:49"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Fletcher, Adrian Q.",
+    "category": "Sample",
+    "reference": "Ref 4628",
+    "currency": "EUR",
+    "amount": 231.44,
+    "status": "BOOKED",
+    "transactionDate": "2021-01-27 20:41:26"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Gilliam, Kelsey G.",
+    "category": "Another One",
+    "reference": "Ref 6942",
+    "currency": "EUR",
+    "amount": -101.51,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-06 18:29:19"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash to Norton, Lawrence U.",
+    "category": "Sample",
+    "reference": "Ref 1345",
+    "currency": "EUR",
+    "amount": -418.74,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-16 01:32:34"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Hebert, Cally W.",
+    "category": "Sample",
+    "reference": "Ref 717",
+    "currency": "EUR",
+    "amount": 341.64,
+    "status": "BOOKED",
+    "transactionDate": "2020-10-11 03:13:12"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Dudley, Meredith R.",
+    "category": "Another One",
+    "reference": "Ref 9585",
+    "currency": "EUR",
+    "amount": 175.87,
+    "status": "BOOKED",
+    "transactionDate": "2020-09-16 09:56:22"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Farmer, Eve C.",
+    "category": "Another One",
+    "reference": "Ref 4497",
+    "currency": "EUR",
+    "amount": 402.2,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-17 19:56:42"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Morrison, Julian J.",
+    "category": "Another One",
+    "reference": "Ref 4979",
+    "currency": "EUR",
+    "amount": 446.66,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-16 08:04:07"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Dudley, Shelby U.",
+    "category": "Sample",
+    "reference": "Ref 4998",
+    "currency": "EUR",
+    "amount": 292.87,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-19 18:30:52"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Quinn, Xantha B.",
+    "category": "Another One",
+    "reference": "Ref 6876",
+    "currency": "GBP",
+    "amount": 456.63,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-21 15:16:53"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Roberson, Acton Z.",
+    "category": "Sample",
+    "reference": "Ref 5299",
+    "currency": "GBP",
+    "amount": 225.03,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-31 05:15:07"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Dudley, Meredith R.",
+    "category": "Another One",
+    "reference": "Ref 6420",
+    "currency": "GBP",
+    "amount": -158.85,
+    "status": "BOOKED",
+    "transactionDate": "2020-12-02 17:03:50"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Byers, Raymond G.",
+    "category": "Another One",
+    "reference": "Ref 7885",
+    "currency": "GBP",
+    "amount": 476.08,
+    "status": "BOOKED",
+    "transactionDate": "2020-08-17 08:29:04"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Workman, Quail L.",
+    "category": "Another One",
+    "reference": "Ref 2295",
+    "currency": "GBP",
+    "amount": 383.83,
+    "status": "BOOKED",
+    "transactionDate": "2020-07-22 00:41:19"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Roberson, Acton Z.",
+    "category": "Another One",
+    "reference": "Ref 9337",
+    "currency": "GBP",
+    "amount": -424.49,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-25 18:42:20"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Henry, Jonas Y.",
+    "category": "Another One",
+    "reference": "Ref 8810",
+    "currency": "GBP",
+    "amount": -220.32,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-23 22:32:36"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash to Holland, Ishmael T.",
+    "category": "Another One",
+    "reference": "Ref 84",
+    "currency": "GBP",
+    "amount": -190.47,
+    "status": "BOOKED",
+    "transactionDate": "2020-04-02 01:46:01"
+  },
+  {
+    "account": "UK Bills",
+    "description": "Cash from Strong, Hunter A.",
+    "category": "Another One",
+    "reference": "Ref 2340",
+    "currency": "GBP",
+    "amount": 232.31,
+    "status": "BOOKED",
+    "transactionDate": "2020-03-28 02:41:57"
+  },
+  {
+    "account": "Sydney Beard",
+    "description": "Monthly savings",
+    "category": "",
+    "reference": "",
+    "currency": "GBP",
+    "amount": 250,
+    "status": "BOOKED",
+    "transactionDate": "2021-04-06 19:38:00"
+  },
+  {
+    "account": "FR Bills",
+    "description": "Cash from Vinson, Hyatt I.",
+    "category": "",
+    "reference": "Ref 6483",
+    "currency": "EUR",
+    "amount": 55.16,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-14 12:45:00"
+  },
+  {
+    "account": "Household",
+    "description": "Cash from Greer, Chadwick P.",
+    "category": "",
+    "reference": "Ref 8361",
+    "currency": "GBP",
+    "amount": 342.75,
+    "status": "BOOKED",
+    "transactionDate": "2021-02-07 18:49:45"
+  }
+]

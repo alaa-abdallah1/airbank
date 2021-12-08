@@ -1,0 +1,41 @@
+generator client {
+  provider = "prisma-client-js"
+  output   = "../node_modules/.prisma/client"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Category {
+  id           String        @id @default(uuid())
+  name         String
+  transactions Transaction[]
+}
+
+model Account {
+  id           String        @id @default(uuid())
+  name         String
+  transactions Transaction[]
+}
+
+model Transaction {
+  id              String    @id @default(uuid())
+  account         Account   @relation(fields: [accountId], references: [id])
+  accountId       String
+  description     String?
+  category        Category? @relation(fields: [categoryId], references: [id])
+  categoryId      String?
+  reference       String?
+  currency        String    @db.VarChar(3)
+  amount          Float
+  status          Status    @default(BOOKED)
+  transactionDate DateTime
+  createdAt       DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
+}
+
+enum Status {
+  BOOKED
+}
