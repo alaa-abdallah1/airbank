@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "serve:backend": "cd backend && npm install && cp .env.example .env && npx prisma migrate reset && npm run dev",
+    "serve:backend": "cd backend && npm install && cp .env.example .env && npx prisma migrate reset --force && npm run dev",
     "serve:frontend": "cd frontend && npm install && npm run dev"
   }
 }
