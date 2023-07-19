@@ -7,7 +7,7 @@
     "currency": "GBP",
     "amount": -23,
     "status": "BOOKED",
-    "transactionDate": "2021-06-22 12:55:26"
+    "transactionDate": "2023-06-22 12:55:26"
   },
   {
     "account": "Sydney Beard",
@@ -17,7 +17,7 @@
     "currency": "GBP",
     "amount": -1,
     "status": "BOOKED",
-    "transactionDate": "2021-06-16 17:45:54"
+    "transactionDate": "2023-06-16 17:45:54"
   },
   {
     "account": "FR Bills",
@@ -27,7 +27,7 @@
     "currency": "EUR",
     "amount": 57.23,
     "status": "BOOKED",
-    "transactionDate": "2021-02-21 07:15:17"
+    "transactionDate": "2023-02-21 07:15:17"
   },
   {
     "account": "FR Bills",
@@ -37,7 +37,7 @@
     "currency": "EUR",
     "amount": 13.9,
     "status": "BOOKED",
-    "transactionDate": "2021-02-16 02:18:18"
+    "transactionDate": "2023-02-16 02:18:18"
   },
   {
     "account": "Household",
@@ -47,7 +47,7 @@
     "currency": "GBP",
     "amount": 304.35,
     "status": "BOOKED",
-    "transactionDate": "2021-02-19 12:07:48"
+    "transactionDate": "2023-02-19 12:07:48"
   },
   {
     "account": "Household",
@@ -57,7 +57,7 @@
     "currency": "GBP",
     "amount": -487.84,
     "status": "BOOKED",
-    "transactionDate": "2021-01-02 06:38:50"
+    "transactionDate": "2023-01-02 06:38:50"
   },
   {
     "account": "Household",
@@ -67,7 +67,7 @@
     "currency": "GBP",
     "amount": -498.09,
     "status": "BOOKED",
-    "transactionDate": "2020-12-03 09:34:44"
+    "transactionDate": "2022-12-03 09:34:44"
   },
   {
     "account": "Household",
@@ -77,7 +77,7 @@
     "currency": "GBP",
     "amount": 92.56,
     "status": "BOOKED",
-    "transactionDate": "2020-10-18 02:41:36"
+    "transactionDate": "2022-10-18 02:41:36"
   },
   {
     "account": "Sydney Beard",
@@ -87,7 +87,7 @@
     "currency": "GBP",
     "amount": -1,
     "status": "BOOKED",
-    "transactionDate": "2021-06-23 07:09:58"
+    "transactionDate": "2023-06-23 07:09:58"
   },
   {
     "account": "Sydney Beard",
@@ -97,7 +97,7 @@
     "currency": "GBP",
     "amount": -1,
     "status": "BOOKED",
-    "transactionDate": "2021-06-23 06:57:59"
+    "transactionDate": "2023-06-23 06:57:59"
   },
   {
     "account": "Sydney Beard",
@@ -107,7 +107,7 @@
     "currency": "GBP",
     "amount": -40,
     "status": "BOOKED",
-    "transactionDate": "2021-06-16 16:55:28"
+    "transactionDate": "2023-06-16 16:55:28"
   },
   {
     "account": "Sydney Beard",
@@ -117,7 +117,7 @@
     "currency": "GBP",
     "amount": -40,
     "status": "BOOKED",
-    "transactionDate": "2021-06-12 16:06:39"
+    "transactionDate": "2023-06-12 16:06:39"
   },
   {
     "account": "Sydney Beard",
@@ -127,7 +127,7 @@
     "currency": "GBP",
     "amount": -40,
     "status": "BOOKED",
-    "transactionDate": "2021-06-12 06:48:28"
+    "transactionDate": "2023-06-12 06:48:28"
   },
   {
     "account": "Sydney Beard",
@@ -137,7 +137,7 @@
     "currency": "GBP",
     "amount": -40,
     "status": "BOOKED",
-    "transactionDate": "2021-06-12 06:45:47"
+    "transactionDate": "2023-06-12 06:45:47"
   },
   {
     "account": "Sydney Beard",
@@ -147,7 +147,7 @@
     "currency": "GBP",
     "amount": -45,
     "status": "BOOKED",
-    "transactionDate": "2021-05-28 14:08:55"
+    "transactionDate": "2023-05-28 14:08:55"
   },
   {
     "account": "Sydney Beard",
@@ -157,7 +157,7 @@
     "currency": "GBP",
     "amount": -8.7,
     "status": "BOOKED",
-    "transactionDate": "2021-05-27 12:32:00"
+    "transactionDate": "2023-05-27 12:32:00"
   },
   {
     "account": "Sydney Beard",
@@ -167,7 +167,7 @@
     "currency": "GBP",
     "amount": -26.48,
     "status": "BOOKED",
-    "transactionDate": "2021-06-21 19:40:34"
+    "transactionDate": "2023-06-21 19:40:34"
   },
   {
     "account": "Sydney Beard",
@@ -177,7 +177,7 @@
     "currency": "GBP",
     "amount": -30,
     "status": "BOOKED",
-    "transactionDate": "2021-06-17 15:44:36"
+    "transactionDate": "2023-06-17 15:44:36"
   },
   {
     "account": "Sydney Beard",
@@ -187,7 +187,7 @@
     "currency": "GBP",
     "amount": -26.48,
     "status": "BOOKED",
-    "transactionDate": "2021-06-14 19:38:41"
+    "transactionDate": "2023-06-14 19:38:41"
   },
   {
     "account": "Household",
@@ -197,7 +197,7 @@
     "currency": "GBP",
     "amount": -112.48,
     "status": "BOOKED",
-    "transactionDate": "2020-09-04 17:10:14"
+    "transactionDate": "2022-09-04 17:10:14"
   },
   {
     "account": "Sydney Beard",
@@ -207,7 +207,7 @@
     "currency": "GBP",
     "amount": -26.48,
     "status": "BOOKED",
-    "transactionDate": "2021-06-10 19:42:28"
+    "transactionDate": "2023-06-10 19:42:28"
   },
   {
     "account": "Sydney Beard",
@@ -217,7 +217,7 @@
     "currency": "GBP",
     "amount": -26.48,
     "status": "BOOKED",
-    "transactionDate": "2021-06-07 19:41:23"
+    "transactionDate": "2023-06-07 19:41:23"
   },
   {
     "account": "Sydney Beard",
@@ -227,7 +227,7 @@
     "currency": "GBP",
     "amount": -26.48,
     "status": "BOOKED",
-    "transactionDate": "2021-05-31 19:42:02"
+    "transactionDate": "2023-05-31 19:42:02"
   },
   {
     "account": "Sydney Beard",
@@ -237,7 +237,7 @@
     "currency": "GBP",
     "amount": -26.48,
     "status": "BOOKED",
-    "transactionDate": "2021-05-24 19:41:17"
+    "transactionDate": "2023-05-24 19:41:17"
   },
   {
     "account": "Sydney Beard",
@@ -247,7 +247,7 @@
     "currency": "GBP",
     "amount": -30,
     "status": "BOOKED",
-    "transactionDate": "2021-05-18 12:46:05"
+    "transactionDate": "2023-05-18 12:46:05"
   },
   {
     "account": "Sydney Beard",
@@ -257,7 +257,7 @@
     "currency": "GBP",
     "amount": -26.48,
     "status": "BOOKED",
-    "transactionDate": "2021-05-17 19:41:05"
+    "transactionDate": "2023-05-17 19:41:05"
   },
   {
     "account": "Sydney Beard",
@@ -267,7 +267,7 @@
     "currency": "GBP",
     "amount": -30,
     "status": "BOOKED",
-    "transactionDate": "2021-05-14 12:24:37"
+    "transactionDate": "2023-05-14 12:24:37"
   },
   {
     "account": "Sydney Beard",
@@ -277,7 +277,7 @@
     "currency": "GBP",
     "amount": -75,
     "status": "BOOKED",
-    "transactionDate": "2021-05-14 12:05:51"
+    "transactionDate": "2023-05-14 12:05:51"
   },
   {
     "account": "Sydney Beard",
@@ -287,7 +287,7 @@
     "currency": "GBP",
     "amount": -26.48,
     "status": "BOOKED",
-    "transactionDate": "2021-05-10 19:42:03"
+    "transactionDate": "2023-05-10 19:42:03"
   },
   {
     "account": "Sydney Beard",
@@ -297,7 +297,7 @@
     "currency": "GBP",
     "amount": -26.48,
     "status": "BOOKED",
-    "transactionDate": "2021-05-03 19:42:23"
+    "transactionDate": "2023-05-03 19:42:23"
   },
   {
     "account": "Sydney Beard",
@@ -307,7 +307,7 @@
     "currency": "GBP",
     "amount": -26.48,
     "status": "BOOKED",
-    "transactionDate": "2021-04-26 19:40:40"
+    "transactionDate": "2023-04-26 19:40:40"
   },
   {
     "account": "Sydney Beard",
@@ -317,7 +317,7 @@
     "currency": "GBP",
     "amount": -26.48,
     "status": "BOOKED",
-    "transactionDate": "2021-04-19 19:38:52"
+    "transactionDate": "2023-04-19 19:38:52"
   },
   {
     "account": "Sydney Beard",
@@ -327,7 +327,7 @@
     "currency": "GBP",
     "amount": -13.37,
     "status": "BOOKED",
-    "transactionDate": "2021-04-16 19:40:37"
+    "transactionDate": "2023-04-16 19:40:37"
   },
   {
     "account": "Sydney Beard",
@@ -337,7 +337,7 @@
     "currency": "GBP",
     "amount": -26.48,
     "status": "BOOKED",
-    "transactionDate": "2021-04-14 19:40:05"
+    "transactionDate": "2023-04-14 19:40:05"
   },
   {
     "account": "Sydney Beard",
@@ -347,7 +347,7 @@
     "currency": "GBP",
     "amount": -26.48,
     "status": "BOOKED",
-    "transactionDate": "2021-04-14 19:40:05"
+    "transactionDate": "2023-04-14 19:40:05"
   },
   {
     "account": "Sydney Beard",
@@ -357,7 +357,7 @@
     "currency": "GBP",
     "amount": -8.7,
     "status": "BOOKED",
-    "transactionDate": "2021-04-13 23:36:36"
+    "transactionDate": "2023-04-13 23:36:36"
   },
   {
     "account": "Sydney Beard",
@@ -367,7 +367,7 @@
     "currency": "GBP",
     "amount": -72.14,
     "status": "BOOKED",
-    "transactionDate": "2021-04-08 19:38:00"
+    "transactionDate": "2023-04-08 19:38:00"
   },
   {
     "account": "Sydney Beard",
@@ -377,7 +377,7 @@
     "currency": "GBP",
     "amount": -250,
     "status": "BOOKED",
-    "transactionDate": "2021-04-06 19:38:00"
+    "transactionDate": "2023-04-06 19:38:00"
   },
   {
     "account": "Sydney Beard",
@@ -387,7 +387,7 @@
     "currency": "GBP",
     "amount": -42,
     "status": "BOOKED",
-    "transactionDate": "2021-05-13 19:42:39"
+    "transactionDate": "2023-05-13 19:42:39"
   },
   {
     "account": "Sydney Beard",
@@ -397,7 +397,7 @@
     "currency": "GBP",
     "amount": -26.48,
     "status": "BOOKED",
-    "transactionDate": "2021-05-10 19:42:03"
+    "transactionDate": "2023-05-10 19:42:03"
   },
   {
     "account": "Household",
@@ -407,7 +407,7 @@
     "currency": "GBP",
     "amount": -431.21,
     "status": "BOOKED",
-    "transactionDate": "2021-02-25 10:26:15"
+    "transactionDate": "2023-02-25 10:26:15"
   },
   {
     "account": "Household",
@@ -417,7 +417,7 @@
     "currency": "GBP",
     "amount": 311.61,
     "status": "BOOKED",
-    "transactionDate": "2020-07-26 14:45:21"
+    "transactionDate": "2022-07-26 14:45:21"
   },
   {
     "account": "Household",
@@ -427,7 +427,7 @@
     "currency": "GBP",
     "amount": 188.05,
     "status": "BOOKED",
-    "transactionDate": "2021-02-06 20:00:26"
+    "transactionDate": "2023-02-06 20:00:26"
   },
   {
     "account": "Household",
@@ -437,7 +437,7 @@
     "currency": "GBP",
     "amount": 379.69,
     "status": "BOOKED",
-    "transactionDate": "2021-02-16 07:52:58"
+    "transactionDate": "2023-02-16 07:52:58"
   },
   {
     "account": "Household",
@@ -447,7 +447,7 @@
     "currency": "GBP",
     "amount": 405.36,
     "status": "BOOKED",
-    "transactionDate": "2021-02-15 15:50:47"
+    "transactionDate": "2023-02-15 15:50:47"
   },
   {
     "account": "Household",
@@ -457,7 +457,7 @@
     "currency": "GBP",
     "amount": -71.37,
     "status": "BOOKED",
-    "transactionDate": "2021-02-05 16:07:00"
+    "transactionDate": "2023-02-05 16:07:00"
   },
   {
     "account": "Household",
@@ -467,7 +467,7 @@
     "currency": "GBP",
     "amount": -198.39,
     "status": "BOOKED",
-    "transactionDate": "2021-02-03 18:29:30"
+    "transactionDate": "2023-02-03 18:29:30"
   },
   {
     "account": "Household",
@@ -477,7 +477,7 @@
     "currency": "GBP",
     "amount": -335.22,
     "status": "BOOKED",
-    "transactionDate": "2021-01-29 09:13:16"
+    "transactionDate": "2023-01-29 09:13:16"
   },
   {
     "account": "Household",
@@ -487,7 +487,7 @@
     "currency": "GBP",
     "amount": -481.29,
     "status": "BOOKED",
-    "transactionDate": "2021-01-27 16:35:54"
+    "transactionDate": "2023-01-27 16:35:54"
   },
   {
     "account": "Household",
@@ -497,7 +497,7 @@
     "currency": "GBP",
     "amount": -213.19,
     "status": "BOOKED",
-    "transactionDate": "2021-01-26 18:20:58"
+    "transactionDate": "2023-01-26 18:20:58"
   },
   {
     "account": "Household",
@@ -507,7 +507,7 @@
     "currency": "GBP",
     "amount": -283.77,
     "status": "BOOKED",
-    "transactionDate": "2021-01-26 04:18:31"
+    "transactionDate": "2023-01-26 04:18:31"
   },
   {
     "account": "Household",
@@ -517,7 +517,7 @@
     "currency": "GBP",
     "amount": -492.07,
     "status": "BOOKED",
-    "transactionDate": "2021-01-24 04:23:31"
+    "transactionDate": "2023-01-24 04:23:31"
   },
   {
     "account": "Household",
@@ -527,7 +527,7 @@
     "currency": "GBP",
     "amount": -405.45,
     "status": "BOOKED",
-    "transactionDate": "2021-01-22 19:16:16"
+    "transactionDate": "2023-01-22 19:16:16"
   },
   {
     "account": "Household",
@@ -537,7 +537,7 @@
     "currency": "GBP",
     "amount": -468.39,
     "status": "BOOKED",
-    "transactionDate": "2021-01-20 12:37:53"
+    "transactionDate": "2023-01-20 12:37:53"
   },
   {
     "account": "Household",
@@ -547,7 +547,7 @@
     "currency": "GBP",
     "amount": 485.49,
     "status": "BOOKED",
-    "transactionDate": "2021-01-20 01:05:24"
+    "transactionDate": "2023-01-20 01:05:24"
   },
   {
     "account": "Household",
@@ -557,7 +557,7 @@
     "currency": "GBP",
     "amount": 494.2,
     "status": "BOOKED",
-    "transactionDate": "2021-01-19 13:18:14"
+    "transactionDate": "2023-01-19 13:18:14"
   },
   {
     "account": "Household",
@@ -567,7 +567,7 @@
     "currency": "GBP",
     "amount": 461.29,
     "status": "BOOKED",
-    "transactionDate": "2021-01-17 10:53:18"
+    "transactionDate": "2023-01-17 10:53:18"
   },
   {
     "account": "Household",
@@ -577,7 +577,7 @@
     "currency": "GBP",
     "amount": -259.09,
     "status": "BOOKED",
-    "transactionDate": "2021-01-15 13:55:07"
+    "transactionDate": "2023-01-15 13:55:07"
   },
   {
     "account": "Household",
@@ -587,7 +587,7 @@
     "currency": "GBP",
     "amount": -28.15,
     "status": "BOOKED",
-    "transactionDate": "2021-01-14 02:22:15"
+    "transactionDate": "2023-01-14 02:22:15"
   },
   {
     "account": "Household",
@@ -597,7 +597,7 @@
     "currency": "GBP",
     "amount": -291.9,
     "status": "BOOKED",
-    "transactionDate": "2021-01-08 18:00:02"
+    "transactionDate": "2023-01-08 18:00:02"
   },
   {
     "account": "Household",
@@ -607,7 +607,7 @@
     "currency": "GBP",
     "amount": -56.3,
     "status": "BOOKED",
-    "transactionDate": "2021-02-19 05:26:29"
+    "transactionDate": "2023-02-19 05:26:29"
   },
   {
     "account": "Household",
@@ -617,7 +617,7 @@
     "currency": "GBP",
     "amount": -395.55,
     "status": "BOOKED",
-    "transactionDate": "2021-02-16 08:57:08"
+    "transactionDate": "2023-02-16 08:57:08"
   },
   {
     "account": "Household",
@@ -627,7 +627,7 @@
     "currency": "GBP",
     "amount": -402.84,
     "status": "BOOKED",
-    "transactionDate": "2021-01-21 22:18:20"
+    "transactionDate": "2023-01-21 22:18:20"
   },
   {
     "account": "Household",
@@ -637,7 +637,7 @@
     "currency": "GBP",
     "amount": -257.21,
     "status": "BOOKED",
-    "transactionDate": "2021-01-21 07:35:48"
+    "transactionDate": "2023-01-21 07:35:48"
   },
   {
     "account": "Household",
@@ -647,7 +647,7 @@
     "currency": "GBP",
     "amount": -178.49,
     "status": "BOOKED",
-    "transactionDate": "2021-01-21 05:22:54"
+    "transactionDate": "2023-01-21 05:22:54"
   },
   {
     "account": "Household",
@@ -657,7 +657,7 @@
     "currency": "GBP",
     "amount": 92.53,
     "status": "BOOKED",
-    "transactionDate": "2021-01-07 05:59:52"
+    "transactionDate": "2023-01-07 05:59:52"
   },
   {
     "account": "Household",
@@ -667,7 +667,7 @@
     "currency": "GBP",
     "amount": -326.15,
     "status": "BOOKED",
-    "transactionDate": "2021-01-06 06:08:55"
+    "transactionDate": "2023-01-06 06:08:55"
   },
   {
     "account": "Household",
@@ -677,7 +677,7 @@
     "currency": "GBP",
     "amount": 187.08,
     "status": "BOOKED",
-    "transactionDate": "2020-12-30 01:06:15"
+    "transactionDate": "2022-12-30 01:06:15"
   },
   {
     "account": "Household",
@@ -687,7 +687,7 @@
     "currency": "GBP",
     "amount": 286.51,
     "status": "BOOKED",
-    "transactionDate": "2020-12-28 20:13:06"
+    "transactionDate": "2022-12-28 20:13:06"
   },
   {
     "account": "Household",
@@ -697,7 +697,7 @@
     "currency": "GBP",
     "amount": -478.87,
     "status": "BOOKED",
-    "transactionDate": "2020-12-28 00:53:55"
+    "transactionDate": "2022-12-28 00:53:55"
   },
   {
     "account": "Household",
@@ -707,7 +707,7 @@
     "currency": "GBP",
     "amount": 177.96,
     "status": "BOOKED",
-    "transactionDate": "2020-12-21 15:26:34"
+    "transactionDate": "2022-12-21 15:26:34"
   },
   {
     "account": "Household",
@@ -717,7 +717,7 @@
     "currency": "GBP",
     "amount": 445.42,
     "status": "BOOKED",
-    "transactionDate": "2020-12-19 15:05:59"
+    "transactionDate": "2022-12-19 15:05:59"
   },
   {
     "account": "Household",
@@ -727,7 +727,7 @@
     "currency": "GBP",
     "amount": 425.03,
     "status": "BOOKED",
-    "transactionDate": "2020-12-16 21:28:56"
+    "transactionDate": "2022-12-16 21:28:56"
   },
   {
     "account": "Household",
@@ -737,7 +737,7 @@
     "currency": "GBP",
     "amount": 480.78,
     "status": "BOOKED",
-    "transactionDate": "2020-12-15 22:33:52"
+    "transactionDate": "2022-12-15 22:33:52"
   },
   {
     "account": "Household",
@@ -747,7 +747,7 @@
     "currency": "GBP",
     "amount": 263.38,
     "status": "BOOKED",
-    "transactionDate": "2020-12-13 11:52:13"
+    "transactionDate": "2022-12-13 11:52:13"
   },
   {
     "account": "Household",
@@ -757,7 +757,7 @@
     "currency": "GBP",
     "amount": 182.9,
     "status": "BOOKED",
-    "transactionDate": "2020-12-13 05:04:37"
+    "transactionDate": "2022-12-13 05:04:37"
   },
   {
     "account": "Household",
@@ -767,7 +767,7 @@
     "currency": "GBP",
     "amount": 339.68,
     "status": "BOOKED",
-    "transactionDate": "2020-12-12 09:24:33"
+    "transactionDate": "2022-12-12 09:24:33"
   },
   {
     "account": "Household",
@@ -777,7 +777,7 @@
     "currency": "GBP",
     "amount": 108.47,
     "status": "BOOKED",
-    "transactionDate": "2020-12-11 21:05:23"
+    "transactionDate": "2022-12-11 21:05:23"
   },
   {
     "account": "Household",
@@ -787,7 +787,7 @@
     "currency": "GBP",
     "amount": 347.08,
     "status": "BOOKED",
-    "transactionDate": "2020-12-11 05:56:57"
+    "transactionDate": "2022-12-11 05:56:57"
   },
   {
     "account": "Household",
@@ -797,7 +797,7 @@
     "currency": "GBP",
     "amount": -461.04,
     "status": "BOOKED",
-    "transactionDate": "2020-12-09 14:01:48"
+    "transactionDate": "2022-12-09 14:01:48"
   },
   {
     "account": "Household",
@@ -807,7 +807,7 @@
     "currency": "GBP",
     "amount": 27.84,
     "status": "BOOKED",
-    "transactionDate": "2020-12-07 08:22:33"
+    "transactionDate": "2022-12-07 08:22:33"
   },
   {
     "account": "Household",
@@ -817,7 +817,7 @@
     "currency": "GBP",
     "amount": -364.91,
     "status": "BOOKED",
-    "transactionDate": "2020-12-06 06:23:52"
+    "transactionDate": "2022-12-06 06:23:52"
   },
   {
     "account": "Household",
@@ -827,7 +827,7 @@
     "currency": "GBP",
     "amount": 107.93,
     "status": "BOOKED",
-    "transactionDate": "2020-12-05 21:55:30"
+    "transactionDate": "2022-12-05 21:55:30"
   },
   {
     "account": "Household",
@@ -837,7 +837,7 @@
     "currency": "GBP",
     "amount": -448.05,
     "status": "BOOKED",
-    "transactionDate": "2020-12-05 21:27:56"
+    "transactionDate": "2022-12-05 21:27:56"
   },
   {
     "account": "Household",
@@ -847,7 +847,7 @@
     "currency": "GBP",
     "amount": 459.22,
     "status": "BOOKED",
-    "transactionDate": "2020-12-04 11:57:47"
+    "transactionDate": "2022-12-04 11:57:47"
   },
   {
     "account": "Household",
@@ -857,7 +857,7 @@
     "currency": "GBP",
     "amount": 403.61,
     "status": "BOOKED",
-    "transactionDate": "2020-12-29 17:30:58"
+    "transactionDate": "2022-12-29 17:30:58"
   },
   {
     "account": "Household",
@@ -867,7 +867,7 @@
     "currency": "GBP",
     "amount": -341.07,
     "status": "BOOKED",
-    "transactionDate": "2020-12-21 05:36:48"
+    "transactionDate": "2022-12-21 05:36:48"
   },
   {
     "account": "Household",
@@ -877,7 +877,7 @@
     "currency": "GBP",
     "amount": 249.15,
     "status": "BOOKED",
-    "transactionDate": "2020-12-04 06:50:52"
+    "transactionDate": "2022-12-04 06:50:52"
   },
   {
     "account": "Household",
@@ -887,7 +887,7 @@
     "currency": "GBP",
     "amount": 395.2,
     "status": "BOOKED",
-    "transactionDate": "2020-12-03 20:29:47"
+    "transactionDate": "2022-12-03 20:29:47"
   },
   {
     "account": "Household",
@@ -897,7 +897,7 @@
     "currency": "GBP",
     "amount": 48.44,
     "status": "BOOKED",
-    "transactionDate": "2020-11-28 15:28:34"
+    "transactionDate": "2022-11-28 15:28:34"
   },
   {
     "account": "Household",
@@ -907,7 +907,7 @@
     "currency": "GBP",
     "amount": 173.25,
     "status": "BOOKED",
-    "transactionDate": "2020-11-27 16:24:47"
+    "transactionDate": "2022-11-27 16:24:47"
   },
   {
     "account": "Household",
@@ -917,7 +917,7 @@
     "currency": "GBP",
     "amount": 251.67,
     "status": "BOOKED",
-    "transactionDate": "2020-11-26 11:58:36"
+    "transactionDate": "2022-11-26 11:58:36"
   },
   {
     "account": "Household",
@@ -927,7 +927,7 @@
     "currency": "GBP",
     "amount": -165.48,
     "status": "BOOKED",
-    "transactionDate": "2020-11-25 08:54:05"
+    "transactionDate": "2022-11-25 08:54:05"
   },
   {
     "account": "Household",
@@ -937,7 +937,7 @@
     "currency": "GBP",
     "amount": 446.66,
     "status": "BOOKED",
-    "transactionDate": "2020-11-23 04:18:22"
+    "transactionDate": "2022-11-23 04:18:22"
   },
   {
     "account": "Household",
@@ -947,7 +947,7 @@
     "currency": "GBP",
     "amount": -417.52,
     "status": "BOOKED",
-    "transactionDate": "2020-11-14 22:16:35"
+    "transactionDate": "2022-11-14 22:16:35"
   },
   {
     "account": "Household",
@@ -957,7 +957,7 @@
     "currency": "GBP",
     "amount": 95.41,
     "status": "BOOKED",
-    "transactionDate": "2020-11-14 09:11:38"
+    "transactionDate": "2022-11-14 09:11:38"
   },
   {
     "account": "Household",
@@ -967,7 +967,7 @@
     "currency": "GBP",
     "amount": 67.08,
     "status": "BOOKED",
-    "transactionDate": "2020-11-14 08:14:41"
+    "transactionDate": "2022-11-14 08:14:41"
   },
   {
     "account": "Household",
@@ -977,7 +977,7 @@
     "currency": "GBP",
     "amount": 279.7,
     "status": "BOOKED",
-    "transactionDate": "2020-11-13 11:51:55"
+    "transactionDate": "2022-11-13 11:51:55"
   },
   {
     "account": "Household",
@@ -987,7 +987,7 @@
     "currency": "GBP",
     "amount": 305.22,
     "status": "BOOKED",
-    "transactionDate": "2020-11-11 14:48:58"
+    "transactionDate": "2022-11-11 14:48:58"
   },
   {
     "account": "Household",
@@ -997,7 +997,7 @@
     "currency": "GBP",
     "amount": -118.53,
     "status": "BOOKED",
-    "transactionDate": "2020-11-11 14:31:55"
+    "transactionDate": "2022-11-11 14:31:55"
   },
   {
     "account": "Household",
@@ -1007,7 +1007,7 @@
     "currency": "GBP",
     "amount": -392.42,
     "status": "BOOKED",
-    "transactionDate": "2020-11-08 18:02:17"
+    "transactionDate": "2022-11-08 18:02:17"
   },
   {
     "account": "Household",
@@ -1017,7 +1017,7 @@
     "currency": "GBP",
     "amount": -267.71,
     "status": "BOOKED",
-    "transactionDate": "2020-11-08 13:15:24"
+    "transactionDate": "2022-11-08 13:15:24"
   },
   {
     "account": "Household",
@@ -1027,7 +1027,7 @@
     "currency": "GBP",
     "amount": -200.46,
     "status": "BOOKED",
-    "transactionDate": "2020-11-05 13:30:56"
+    "transactionDate": "2022-11-05 13:30:56"
   },
   {
     "account": "Household",
@@ -1037,7 +1037,7 @@
     "currency": "GBP",
     "amount": 47.58,
     "status": "BOOKED",
-    "transactionDate": "2020-11-02 05:58:24"
+    "transactionDate": "2022-11-02 05:58:24"
   },
   {
     "account": "Household",
@@ -1047,7 +1047,7 @@
     "currency": "GBP",
     "amount": -353.37,
     "status": "BOOKED",
-    "transactionDate": "2020-10-27 21:18:31"
+    "transactionDate": "2022-10-27 21:18:31"
   },
   {
     "account": "Household",
@@ -1057,7 +1057,7 @@
     "currency": "GBP",
     "amount": -10.27,
     "status": "BOOKED",
-    "transactionDate": "2020-10-27 19:26:45"
+    "transactionDate": "2022-10-27 19:26:45"
   },
   {
     "account": "Household",
@@ -1067,7 +1067,7 @@
     "currency": "GBP",
     "amount": 458.81,
     "status": "BOOKED",
-    "transactionDate": "2020-10-27 12:35:43"
+    "transactionDate": "2022-10-27 12:35:43"
   },
   {
     "account": "Household",
@@ -1077,7 +1077,7 @@
     "currency": "GBP",
     "amount": -223.44,
     "status": "BOOKED",
-    "transactionDate": "2020-12-03 05:58:12"
+    "transactionDate": "2022-12-03 05:58:12"
   },
   {
     "account": "Household",
@@ -1087,7 +1087,7 @@
     "currency": "GBP",
     "amount": -321.37,
     "status": "BOOKED",
-    "transactionDate": "2020-12-02 00:59:02"
+    "transactionDate": "2022-12-02 00:59:02"
   },
   {
     "account": "Household",
@@ -1097,7 +1097,7 @@
     "currency": "GBP",
     "amount": -321.71,
     "status": "BOOKED",
-    "transactionDate": "2020-10-25 15:28:20"
+    "transactionDate": "2022-10-25 15:28:20"
   },
   {
     "account": "Household",
@@ -1107,7 +1107,7 @@
     "currency": "GBP",
     "amount": -322.24,
     "status": "BOOKED",
-    "transactionDate": "2020-10-23 13:29:22"
+    "transactionDate": "2022-10-23 13:29:22"
   },
   {
     "account": "Household",
@@ -1117,7 +1117,7 @@
     "currency": "GBP",
     "amount": -216.06,
     "status": "BOOKED",
-    "transactionDate": "2020-10-20 18:47:17"
+    "transactionDate": "2022-10-20 18:47:17"
   },
   {
     "account": "Household",
@@ -1127,7 +1127,7 @@
     "currency": "GBP",
     "amount": -187.16,
     "status": "BOOKED",
-    "transactionDate": "2020-10-19 04:47:54"
+    "transactionDate": "2022-10-19 04:47:54"
   },
   {
     "account": "Household",
@@ -1137,7 +1137,7 @@
     "currency": "GBP",
     "amount": 185.94,
     "status": "BOOKED",
-    "transactionDate": "2020-10-18 21:27:39"
+    "transactionDate": "2022-10-18 21:27:39"
   },
   {
     "account": "Household",
@@ -1147,7 +1147,7 @@
     "currency": "GBP",
     "amount": -345.8,
     "status": "BOOKED",
-    "transactionDate": "2020-10-15 16:29:03"
+    "transactionDate": "2022-10-15 16:29:03"
   },
   {
     "account": "Household",
@@ -1157,7 +1157,7 @@
     "currency": "GBP",
     "amount": 203.96,
     "status": "BOOKED",
-    "transactionDate": "2020-10-15 16:12:16"
+    "transactionDate": "2022-10-15 16:12:16"
   },
   {
     "account": "Household",
@@ -1167,7 +1167,7 @@
     "currency": "GBP",
     "amount": 440.92,
     "status": "BOOKED",
-    "transactionDate": "2020-10-14 17:57:20"
+    "transactionDate": "2022-10-14 17:57:20"
   },
   {
     "account": "Household",
@@ -1177,7 +1177,7 @@
     "currency": "GBP",
     "amount": -473.05,
     "status": "BOOKED",
-    "transactionDate": "2020-10-11 06:50:49"
+    "transactionDate": "2022-10-11 06:50:49"
   },
   {
     "account": "Household",
@@ -1187,7 +1187,7 @@
     "currency": "GBP",
     "amount": -453.63,
     "status": "BOOKED",
-    "transactionDate": "2020-10-10 17:33:31"
+    "transactionDate": "2022-10-10 17:33:31"
   },
   {
     "account": "Household",
@@ -1197,7 +1197,7 @@
     "currency": "GBP",
     "amount": -156.36,
     "status": "BOOKED",
-    "transactionDate": "2020-10-09 01:18:04"
+    "transactionDate": "2022-10-09 01:18:04"
   },
   {
     "account": "Household",
@@ -1207,7 +1207,7 @@
     "currency": "GBP",
     "amount": -288.99,
     "status": "BOOKED",
-    "transactionDate": "2020-10-07 05:04:17"
+    "transactionDate": "2022-10-07 05:04:17"
   },
   {
     "account": "Household",
@@ -1217,7 +1217,7 @@
     "currency": "GBP",
     "amount": 443.94,
     "status": "BOOKED",
-    "transactionDate": "2020-10-07 00:49:56"
+    "transactionDate": "2022-10-07 00:49:56"
   },
   {
     "account": "Household",
@@ -1227,7 +1227,7 @@
     "currency": "GBP",
     "amount": 130.05,
     "status": "BOOKED",
-    "transactionDate": "2020-10-03 01:47:12"
+    "transactionDate": "2022-10-03 01:47:12"
   },
   {
     "account": "Household",
@@ -1237,7 +1237,7 @@
     "currency": "GBP",
     "amount": -208.87,
     "status": "BOOKED",
-    "transactionDate": "2020-09-29 13:44:42"
+    "transactionDate": "2022-09-29 13:44:42"
   },
   {
     "account": "Household",
@@ -1247,7 +1247,7 @@
     "currency": "GBP",
     "amount": 115.99,
     "status": "BOOKED",
-    "transactionDate": "2020-09-25 17:33:13"
+    "transactionDate": "2022-09-25 17:33:13"
   },
   {
     "account": "Household",
@@ -1257,7 +1257,7 @@
     "currency": "GBP",
     "amount": 123.86,
     "status": "BOOKED",
-    "transactionDate": "2020-09-23 07:42:09"
+    "transactionDate": "2022-09-23 07:42:09"
   },
   {
     "account": "Household",
@@ -1267,7 +1267,7 @@
     "currency": "GBP",
     "amount": -101.21,
     "status": "BOOKED",
-    "transactionDate": "2020-09-21 07:36:26"
+    "transactionDate": "2022-09-21 07:36:26"
   },
   {
     "account": "Household",
@@ -1277,7 +1277,7 @@
     "currency": "GBP",
     "amount": -391.05,
     "status": "BOOKED",
-    "transactionDate": "2020-09-20 11:44:20"
+    "transactionDate": "2022-09-20 11:44:20"
   },
   {
     "account": "Household",
@@ -1287,7 +1287,7 @@
     "currency": "GBP",
     "amount": -208.94,
     "status": "BOOKED",
-    "transactionDate": "2020-09-19 17:04:33"
+    "transactionDate": "2022-09-19 17:04:33"
   },
   {
     "account": "Household",
@@ -1297,7 +1297,7 @@
     "currency": "GBP",
     "amount": 239.09,
     "status": "BOOKED",
-    "transactionDate": "2020-09-17 17:07:29"
+    "transactionDate": "2022-09-17 17:07:29"
   },
   {
     "account": "Household",
@@ -1307,7 +1307,7 @@
     "currency": "GBP",
     "amount": -84.37,
     "status": "BOOKED",
-    "transactionDate": "2020-09-23 08:52:02"
+    "transactionDate": "2022-09-23 08:52:02"
   },
   {
     "account": "Household",
@@ -1317,7 +1317,7 @@
     "currency": "GBP",
     "amount": 85.8,
     "status": "BOOKED",
-    "transactionDate": "2020-09-17 00:24:45"
+    "transactionDate": "2022-09-17 00:24:45"
   },
   {
     "account": "Household",
@@ -1327,7 +1327,7 @@
     "currency": "GBP",
     "amount": -66.65,
     "status": "BOOKED",
-    "transactionDate": "2020-09-11 21:21:47"
+    "transactionDate": "2022-09-11 21:21:47"
   },
   {
     "account": "Household",
@@ -1337,7 +1337,7 @@
     "currency": "GBP",
     "amount": -145.39,
     "status": "BOOKED",
-    "transactionDate": "2020-09-09 15:03:58"
+    "transactionDate": "2022-09-09 15:03:58"
   },
   {
     "account": "Household",
@@ -1347,7 +1347,7 @@
     "currency": "GBP",
     "amount": 254.11,
     "status": "BOOKED",
-    "transactionDate": "2020-08-24 21:04:42"
+    "transactionDate": "2022-08-24 21:04:42"
   },
   {
     "account": "Household",
@@ -1357,7 +1357,7 @@
     "currency": "GBP",
     "amount": -494.03,
     "status": "BOOKED",
-    "transactionDate": "2020-08-24 05:51:01"
+    "transactionDate": "2022-08-24 05:51:01"
   },
   {
     "account": "Household",
@@ -1367,7 +1367,7 @@
     "currency": "GBP",
     "amount": -224.56,
     "status": "BOOKED",
-    "transactionDate": "2020-08-23 08:54:47"
+    "transactionDate": "2022-08-23 08:54:47"
   },
   {
     "account": "Household",
@@ -1377,7 +1377,7 @@
     "currency": "GBP",
     "amount": 35.78,
     "status": "BOOKED",
-    "transactionDate": "2020-08-20 19:50:17"
+    "transactionDate": "2022-08-20 19:50:17"
   },
   {
     "account": "Household",
@@ -1387,7 +1387,7 @@
     "currency": "GBP",
     "amount": 283.69,
     "status": "BOOKED",
-    "transactionDate": "2020-08-19 00:52:31"
+    "transactionDate": "2022-08-19 00:52:31"
   },
   {
     "account": "Household",
@@ -1397,7 +1397,7 @@
     "currency": "GBP",
     "amount": 392.1,
     "status": "BOOKED",
-    "transactionDate": "2020-08-16 20:47:27"
+    "transactionDate": "2022-08-16 20:47:27"
   },
   {
     "account": "Household",
@@ -1407,7 +1407,7 @@
     "currency": "GBP",
     "amount": -311.36,
     "status": "BOOKED",
-    "transactionDate": "2020-08-16 06:45:39"
+    "transactionDate": "2022-08-16 06:45:39"
   },
   {
     "account": "Household",
@@ -1417,7 +1417,7 @@
     "currency": "GBP",
     "amount": -497.76,
     "status": "BOOKED",
-    "transactionDate": "2020-08-13 17:09:36"
+    "transactionDate": "2022-08-13 17:09:36"
   },
   {
     "account": "Household",
@@ -1427,7 +1427,7 @@
     "currency": "GBP",
     "amount": -181.49,
     "status": "BOOKED",
-    "transactionDate": "2020-08-10 21:52:06"
+    "transactionDate": "2022-08-10 21:52:06"
   },
   {
     "account": "Household",
@@ -1437,7 +1437,7 @@
     "currency": "GBP",
     "amount": 377.9,
     "status": "BOOKED",
-    "transactionDate": "2020-08-10 09:59:09"
+    "transactionDate": "2022-08-10 09:59:09"
   },
   {
     "account": "Household",
@@ -1447,7 +1447,7 @@
     "currency": "GBP",
     "amount": -248.73,
     "status": "BOOKED",
-    "transactionDate": "2020-08-09 09:38:05"
+    "transactionDate": "2022-08-09 09:38:05"
   },
   {
     "account": "Household",
@@ -1457,7 +1457,7 @@
     "currency": "GBP",
     "amount": 124.52,
     "status": "BOOKED",
-    "transactionDate": "2020-08-06 18:08:56"
+    "transactionDate": "2022-08-06 18:08:56"
   },
   {
     "account": "Household",
@@ -1467,7 +1467,7 @@
     "currency": "GBP",
     "amount": 134.85,
     "status": "BOOKED",
-    "transactionDate": "2020-08-06 03:25:21"
+    "transactionDate": "2022-08-06 03:25:21"
   },
   {
     "account": "Household",
@@ -1477,7 +1477,7 @@
     "currency": "GBP",
     "amount": 288.23,
     "status": "BOOKED",
-    "transactionDate": "2020-08-30 13:16:31"
+    "transactionDate": "2022-08-30 13:16:31"
   },
   {
     "account": "Household",
@@ -1487,7 +1487,7 @@
     "currency": "GBP",
     "amount": 498.72,
     "status": "BOOKED",
-    "transactionDate": "2020-08-26 18:00:30"
+    "transactionDate": "2022-08-26 18:00:30"
   },
   {
     "account": "Household",
@@ -1497,7 +1497,7 @@
     "currency": "GBP",
     "amount": 174,
     "status": "BOOKED",
-    "transactionDate": "2020-08-24 08:15:26"
+    "transactionDate": "2022-08-24 08:15:26"
   },
   {
     "account": "Household",
@@ -1507,7 +1507,7 @@
     "currency": "GBP",
     "amount": 206.84,
     "status": "BOOKED",
-    "transactionDate": "2020-08-02 13:22:34"
+    "transactionDate": "2022-08-02 13:22:34"
   },
   {
     "account": "Household",
@@ -1517,7 +1517,7 @@
     "currency": "GBP",
     "amount": -410.13,
     "status": "BOOKED",
-    "transactionDate": "2020-08-02 05:01:02"
+    "transactionDate": "2022-08-02 05:01:02"
   },
   {
     "account": "Household",
@@ -1527,7 +1527,7 @@
     "currency": "GBP",
     "amount": -396.6,
     "status": "BOOKED",
-    "transactionDate": "2020-07-29 00:46:33"
+    "transactionDate": "2022-07-29 00:46:33"
   },
   {
     "account": "Household",
@@ -1537,7 +1537,7 @@
     "currency": "GBP",
     "amount": 480.78,
     "status": "BOOKED",
-    "transactionDate": "2020-07-25 09:43:58"
+    "transactionDate": "2022-07-25 09:43:58"
   },
   {
     "account": "Household",
@@ -1547,7 +1547,7 @@
     "currency": "GBP",
     "amount": -493.65,
     "status": "BOOKED",
-    "transactionDate": "2020-07-25 07:51:23"
+    "transactionDate": "2022-07-25 07:51:23"
   },
   {
     "account": "Household",
@@ -1557,7 +1557,7 @@
     "currency": "GBP",
     "amount": 406.54,
     "status": "BOOKED",
-    "transactionDate": "2020-07-24 16:46:11"
+    "transactionDate": "2022-07-24 16:46:11"
   },
   {
     "account": "Household",
@@ -1567,7 +1567,7 @@
     "currency": "GBP",
     "amount": -208.85,
     "status": "BOOKED",
-    "transactionDate": "2020-07-24 07:08:46"
+    "transactionDate": "2022-07-24 07:08:46"
   },
   {
     "account": "Household",
@@ -1577,7 +1577,7 @@
     "currency": "GBP",
     "amount": 449.55,
     "status": "BOOKED",
-    "transactionDate": "2020-07-19 19:19:09"
+    "transactionDate": "2022-07-19 19:19:09"
   },
   {
     "account": "Household",
@@ -1587,7 +1587,7 @@
     "currency": "GBP",
     "amount": 32.33,
     "status": "BOOKED",
-    "transactionDate": "2020-07-17 14:32:08"
+    "transactionDate": "2022-07-17 14:32:08"
   },
   {
     "account": "Household",
@@ -1597,7 +1597,7 @@
     "currency": "GBP",
     "amount": 54.01,
     "status": "BOOKED",
-    "transactionDate": "2020-07-15 23:19:46"
+    "transactionDate": "2022-07-15 23:19:46"
   },
   {
     "account": "Household",
@@ -1607,7 +1607,7 @@
     "currency": "GBP",
     "amount": -438.23,
     "status": "BOOKED",
-    "transactionDate": "2020-07-14 03:33:29"
+    "transactionDate": "2022-07-14 03:33:29"
   },
   {
     "account": "Household",
@@ -1617,7 +1617,7 @@
     "currency": "GBP",
     "amount": -81.53,
     "status": "BOOKED",
-    "transactionDate": "2020-07-13 12:52:25"
+    "transactionDate": "2022-07-13 12:52:25"
   },
   {
     "account": "Household",
@@ -1627,7 +1627,7 @@
     "currency": "GBP",
     "amount": 281.32,
     "status": "BOOKED",
-    "transactionDate": "2020-07-13 07:21:04"
+    "transactionDate": "2022-07-13 07:21:04"
   },
   {
     "account": "Household",
@@ -1637,7 +1637,7 @@
     "currency": "GBP",
     "amount": -396.83,
     "status": "BOOKED",
-    "transactionDate": "2020-07-13 01:20:23"
+    "transactionDate": "2022-07-13 01:20:23"
   },
   {
     "account": "Household",
@@ -1647,7 +1647,7 @@
     "currency": "GBP",
     "amount": 62.01,
     "status": "BOOKED",
-    "transactionDate": "2020-07-10 13:00:39"
+    "transactionDate": "2022-07-10 13:00:39"
   },
   {
     "account": "Household",
@@ -1657,7 +1657,7 @@
     "currency": "GBP",
     "amount": -287.75,
     "status": "BOOKED",
-    "transactionDate": "2020-07-09 04:34:07"
+    "transactionDate": "2022-07-09 04:34:07"
   },
   {
     "account": "Household",
@@ -1667,7 +1667,7 @@
     "currency": "GBP",
     "amount": 482.67,
     "status": "BOOKED",
-    "transactionDate": "2020-07-09 01:12:24"
+    "transactionDate": "2022-07-09 01:12:24"
   },
   {
     "account": "Household",
@@ -1677,7 +1677,7 @@
     "currency": "GBP",
     "amount": -404.79,
     "status": "BOOKED",
-    "transactionDate": "2020-07-08 15:22:43"
+    "transactionDate": "2022-07-08 15:22:43"
   },
   {
     "account": "Household",
@@ -1687,7 +1687,7 @@
     "currency": "GBP",
     "amount": -387.27,
     "status": "BOOKED",
-    "transactionDate": "2020-07-07 06:56:23"
+    "transactionDate": "2022-07-07 06:56:23"
   },
   {
     "account": "Household",
@@ -1697,7 +1697,7 @@
     "currency": "GBP",
     "amount": 277.44,
     "status": "BOOKED",
-    "transactionDate": "2020-07-07 00:37:07"
+    "transactionDate": "2022-07-07 00:37:07"
   },
   {
     "account": "Household",
@@ -1707,7 +1707,7 @@
     "currency": "GBP",
     "amount": 22.83,
     "status": "BOOKED",
-    "transactionDate": "2020-07-06 22:29:11"
+    "transactionDate": "2022-07-06 22:29:11"
   },
   {
     "account": "Household",
@@ -1717,7 +1717,7 @@
     "currency": "GBP",
     "amount": -278.9,
     "status": "BOOKED",
-    "transactionDate": "2020-07-05 21:19:40"
+    "transactionDate": "2022-07-05 21:19:40"
   },
   {
     "account": "Household",
@@ -1727,7 +1727,7 @@
     "currency": "GBP",
     "amount": -100.12,
     "status": "BOOKED",
-    "transactionDate": "2020-07-04 09:45:24"
+    "transactionDate": "2022-07-04 09:45:24"
   },
   {
     "account": "Household",
@@ -1737,7 +1737,7 @@
     "currency": "GBP",
     "amount": 313.85,
     "status": "BOOKED",
-    "transactionDate": "2020-07-07 06:20:41"
+    "transactionDate": "2022-07-07 06:20:41"
   },
   {
     "account": "Household",
@@ -1747,7 +1747,7 @@
     "currency": "GBP",
     "amount": -275.99,
     "status": "BOOKED",
-    "transactionDate": "2020-07-05 13:01:36"
+    "transactionDate": "2022-07-05 13:01:36"
   },
   {
     "account": "Household",
@@ -1757,7 +1757,7 @@
     "currency": "GBP",
     "amount": -403.15,
     "status": "BOOKED",
-    "transactionDate": "2020-07-04 09:30:16"
+    "transactionDate": "2022-07-04 09:30:16"
   },
   {
     "account": "Household",
@@ -1767,7 +1767,7 @@
     "currency": "GBP",
     "amount": -420.92,
     "status": "BOOKED",
-    "transactionDate": "2020-07-03 09:51:35"
+    "transactionDate": "2022-07-03 09:51:35"
   },
   {
     "account": "Household",
@@ -1777,7 +1777,7 @@
     "currency": "GBP",
     "amount": 370.14,
     "status": "BOOKED",
-    "transactionDate": "2020-07-03 08:46:39"
+    "transactionDate": "2022-07-03 08:46:39"
   },
   {
     "account": "Household",
@@ -1787,7 +1787,7 @@
     "currency": "GBP",
     "amount": 387.83,
     "status": "BOOKED",
-    "transactionDate": "2020-06-30 05:46:13"
+    "transactionDate": "2022-06-30 05:46:13"
   },
   {
     "account": "Household",
@@ -1797,7 +1797,7 @@
     "currency": "GBP",
     "amount": 191.07,
     "status": "BOOKED",
-    "transactionDate": "2020-06-30 00:21:10"
+    "transactionDate": "2022-06-30 00:21:10"
   },
   {
     "account": "Household",
@@ -1807,7 +1807,7 @@
     "currency": "GBP",
     "amount": -474.53,
     "status": "BOOKED",
-    "transactionDate": "2020-06-29 06:14:31"
+    "transactionDate": "2022-06-29 06:14:31"
   },
   {
     "account": "Household",
@@ -1817,7 +1817,7 @@
     "currency": "GBP",
     "amount": 454.79,
     "status": "BOOKED",
-    "transactionDate": "2020-06-28 22:12:08"
+    "transactionDate": "2022-06-28 22:12:08"
   },
   {
     "account": "Household",
@@ -1827,7 +1827,7 @@
     "currency": "GBP",
     "amount": -311.11,
     "status": "BOOKED",
-    "transactionDate": "2020-06-28 07:22:23"
+    "transactionDate": "2022-06-28 07:22:23"
   },
   {
     "account": "Household",
@@ -1837,7 +1837,7 @@
     "currency": "GBP",
     "amount": -446.45,
     "status": "BOOKED",
-    "transactionDate": "2020-06-27 01:09:37"
+    "transactionDate": "2022-06-27 01:09:37"
   },
   {
     "account": "Household",
@@ -1847,7 +1847,7 @@
     "currency": "GBP",
     "amount": 122.53,
     "status": "BOOKED",
-    "transactionDate": "2020-06-26 17:11:10"
+    "transactionDate": "2022-06-26 17:11:10"
   },
   {
     "account": "Household",
@@ -1857,7 +1857,7 @@
     "currency": "GBP",
     "amount": -337.93,
     "status": "BOOKED",
-    "transactionDate": "2020-06-26 14:04:46"
+    "transactionDate": "2022-06-26 14:04:46"
   },
   {
     "account": "Household",
@@ -1867,7 +1867,7 @@
     "currency": "GBP",
     "amount": -79.4,
     "status": "BOOKED",
-    "transactionDate": "2020-06-21 16:08:49"
+    "transactionDate": "2022-06-21 16:08:49"
   },
   {
     "account": "Household",
@@ -1877,7 +1877,7 @@
     "currency": "GBP",
     "amount": -65.55,
     "status": "BOOKED",
-    "transactionDate": "2020-06-20 05:06:58"
+    "transactionDate": "2022-06-20 05:06:58"
   },
   {
     "account": "Household",
@@ -1887,7 +1887,7 @@
     "currency": "GBP",
     "amount": 301.3,
     "status": "BOOKED",
-    "transactionDate": "2020-06-16 14:07:00"
+    "transactionDate": "2022-06-16 14:07:00"
   },
   {
     "account": "Household",
@@ -1897,7 +1897,7 @@
     "currency": "GBP",
     "amount": -34.4,
     "status": "BOOKED",
-    "transactionDate": "2020-06-14 07:23:06"
+    "transactionDate": "2022-06-14 07:23:06"
   },
   {
     "account": "Household",
@@ -1907,7 +1907,7 @@
     "currency": "GBP",
     "amount": -149.79,
     "status": "BOOKED",
-    "transactionDate": "2020-06-11 21:03:19"
+    "transactionDate": "2022-06-11 21:03:19"
   },
   {
     "account": "Household",
@@ -1917,7 +1917,7 @@
     "currency": "GBP",
     "amount": 240.33,
     "status": "BOOKED",
-    "transactionDate": "2020-06-10 08:00:25"
+    "transactionDate": "2022-06-10 08:00:25"
   },
   {
     "account": "Household",
@@ -1927,7 +1927,7 @@
     "currency": "GBP",
     "amount": -453.29,
     "status": "BOOKED",
-    "transactionDate": "2020-06-08 10:53:43"
+    "transactionDate": "2022-06-08 10:53:43"
   },
   {
     "account": "Household",
@@ -1937,7 +1937,7 @@
     "currency": "GBP",
     "amount": -136.1,
     "status": "BOOKED",
-    "transactionDate": "2020-06-05 00:49:28"
+    "transactionDate": "2022-06-05 00:49:28"
   },
   {
     "account": "Household",
@@ -1947,7 +1947,7 @@
     "currency": "GBP",
     "amount": -32.34,
     "status": "BOOKED",
-    "transactionDate": "2020-06-02 07:32:02"
+    "transactionDate": "2022-06-02 07:32:02"
   },
   {
     "account": "Household",
@@ -1957,7 +1957,7 @@
     "currency": "GBP",
     "amount": 81.24,
     "status": "BOOKED",
-    "transactionDate": "2020-05-29 13:49:55"
+    "transactionDate": "2022-05-29 13:49:55"
   },
   {
     "account": "Household",
@@ -1967,7 +1967,7 @@
     "currency": "GBP",
     "amount": -312.86,
     "status": "BOOKED",
-    "transactionDate": "2020-06-20 21:17:34"
+    "transactionDate": "2022-06-20 21:17:34"
   },
   {
     "account": "Household",
@@ -1977,7 +1977,7 @@
     "currency": "GBP",
     "amount": -271.13,
     "status": "BOOKED",
-    "transactionDate": "2020-05-29 05:20:12"
+    "transactionDate": "2022-05-29 05:20:12"
   },
   {
     "account": "Household",
@@ -1987,7 +1987,7 @@
     "currency": "GBP",
     "amount": 85.03,
     "status": "BOOKED",
-    "transactionDate": "2020-05-28 23:14:32"
+    "transactionDate": "2022-05-28 23:14:32"
   },
   {
     "account": "Household",
@@ -1997,7 +1997,7 @@
     "currency": "GBP",
     "amount": 187.07,
     "status": "BOOKED",
-    "transactionDate": "2020-05-27 04:44:59"
+    "transactionDate": "2022-05-27 04:44:59"
   },
   {
     "account": "Household",
@@ -2007,7 +2007,7 @@
     "currency": "GBP",
     "amount": -148.34,
     "status": "BOOKED",
-    "transactionDate": "2020-05-26 01:24:17"
+    "transactionDate": "2022-05-26 01:24:17"
   },
   {
     "account": "Household",
@@ -2017,7 +2017,7 @@
     "currency": "GBP",
     "amount": -322.59,
     "status": "BOOKED",
-    "transactionDate": "2020-05-22 05:37:31"
+    "transactionDate": "2022-05-22 05:37:31"
   },
   {
     "account": "Household",
@@ -2027,7 +2027,7 @@
     "currency": "GBP",
     "amount": -114.76,
     "status": "BOOKED",
-    "transactionDate": "2020-05-15 12:42:38"
+    "transactionDate": "2022-05-15 12:42:38"
   },
   {
     "account": "Household",
@@ -2037,7 +2037,7 @@
     "currency": "GBP",
     "amount": -321.14,
     "status": "BOOKED",
-    "transactionDate": "2020-05-11 16:09:39"
+    "transactionDate": "2022-05-11 16:09:39"
   },
   {
     "account": "Household",
@@ -2047,7 +2047,7 @@
     "currency": "GBP",
     "amount": 185.37,
     "status": "BOOKED",
-    "transactionDate": "2020-05-09 12:28:18"
+    "transactionDate": "2022-05-09 12:28:18"
   },
   {
     "account": "Household",
@@ -2057,7 +2057,7 @@
     "currency": "GBP",
     "amount": -15.29,
     "status": "BOOKED",
-    "transactionDate": "2020-05-08 09:25:22"
+    "transactionDate": "2022-05-08 09:25:22"
   },
   {
     "account": "Household",
@@ -2067,7 +2067,7 @@
     "currency": "GBP",
     "amount": -102.82,
     "status": "BOOKED",
-    "transactionDate": "2020-04-23 17:45:22"
+    "transactionDate": "2022-04-23 17:45:22"
   },
   {
     "account": "Household",
@@ -2077,7 +2077,7 @@
     "currency": "GBP",
     "amount": 288.78,
     "status": "BOOKED",
-    "transactionDate": "2020-04-21 22:33:14"
+    "transactionDate": "2022-04-21 22:33:14"
   },
   {
     "account": "Household",
@@ -2087,7 +2087,7 @@
     "currency": "GBP",
     "amount": 445.04,
     "status": "BOOKED",
-    "transactionDate": "2020-04-20 09:06:53"
+    "transactionDate": "2022-04-20 09:06:53"
   },
   {
     "account": "Household",
@@ -2097,7 +2097,7 @@
     "currency": "GBP",
     "amount": -330.33,
     "status": "BOOKED",
-    "transactionDate": "2020-04-15 21:28:29"
+    "transactionDate": "2022-04-15 21:28:29"
   },
   {
     "account": "Household",
@@ -2107,7 +2107,7 @@
     "currency": "GBP",
     "amount": 14.44,
     "status": "BOOKED",
-    "transactionDate": "2020-04-15 19:58:09"
+    "transactionDate": "2022-04-15 19:58:09"
   },
   {
     "account": "Household",
@@ -2117,7 +2117,7 @@
     "currency": "GBP",
     "amount": -379.41,
     "status": "BOOKED",
-    "transactionDate": "2020-04-15 19:57:24"
+    "transactionDate": "2022-04-15 19:57:24"
   },
   {
     "account": "Household",
@@ -2127,7 +2127,7 @@
     "currency": "GBP",
     "amount": 261.31,
     "status": "BOOKED",
-    "transactionDate": "2020-04-09 20:55:28"
+    "transactionDate": "2022-04-09 20:55:28"
   },
   {
     "account": "Household",
@@ -2137,7 +2137,7 @@
     "currency": "GBP",
     "amount": 287.21,
     "status": "BOOKED",
-    "transactionDate": "2020-04-09 20:18:16"
+    "transactionDate": "2022-04-09 20:18:16"
   },
   {
     "account": "Household",
@@ -2147,7 +2147,7 @@
     "currency": "GBP",
     "amount": -308.27,
     "status": "BOOKED",
-    "transactionDate": "2020-04-06 21:08:41"
+    "transactionDate": "2022-04-06 21:08:41"
   },
   {
     "account": "Household",
@@ -2157,7 +2157,7 @@
     "currency": "GBP",
     "amount": 495.76,
     "status": "BOOKED",
-    "transactionDate": "2020-04-06 19:18:32"
+    "transactionDate": "2022-04-06 19:18:32"
   },
   {
     "account": "Household",
@@ -2167,7 +2167,7 @@
     "currency": "GBP",
     "amount": 142.4,
     "status": "BOOKED",
-    "transactionDate": "2020-04-06 18:11:54"
+    "transactionDate": "2022-04-06 18:11:54"
   },
   {
     "account": "Household",
@@ -2177,7 +2177,7 @@
     "currency": "GBP",
     "amount": -251.97,
     "status": "BOOKED",
-    "transactionDate": "2020-03-29 11:15:53"
+    "transactionDate": "2022-03-29 11:15:53"
   },
   {
     "account": "Household",
@@ -2187,7 +2187,7 @@
     "currency": "GBP",
     "amount": 256.69,
     "status": "BOOKED",
-    "transactionDate": "2020-03-31 07:29:49"
+    "transactionDate": "2022-03-31 07:29:49"
   },
   {
     "account": "Household",
@@ -2197,7 +2197,7 @@
     "currency": "GBP",
     "amount": 205.32,
     "status": "BOOKED",
-    "transactionDate": "2020-03-27 21:19:59"
+    "transactionDate": "2022-03-27 21:19:59"
   },
   {
     "account": "Household",
@@ -2207,7 +2207,7 @@
     "currency": "GBP",
     "amount": 163.4,
     "status": "BOOKED",
-    "transactionDate": "2020-03-24 10:55:37"
+    "transactionDate": "2022-03-24 10:55:37"
   },
   {
     "account": "Household",
@@ -2217,7 +2217,7 @@
     "currency": "GBP",
     "amount": -311.27,
     "status": "BOOKED",
-    "transactionDate": "2020-03-19 17:51:13"
+    "transactionDate": "2022-03-19 17:51:13"
   },
   {
     "account": "Household",
@@ -2227,7 +2227,7 @@
     "currency": "GBP",
     "amount": -422.56,
     "status": "BOOKED",
-    "transactionDate": "2020-03-17 17:51:19"
+    "transactionDate": "2022-03-17 17:51:19"
   },
   {
     "account": "Household",
@@ -2237,7 +2237,7 @@
     "currency": "GBP",
     "amount": -370.25,
     "status": "BOOKED",
-    "transactionDate": "2020-03-17 14:54:10"
+    "transactionDate": "2022-03-17 14:54:10"
   },
   {
     "account": "Household",
@@ -2247,7 +2247,7 @@
     "currency": "GBP",
     "amount": 493.42,
     "status": "BOOKED",
-    "transactionDate": "2020-03-17 08:37:41"
+    "transactionDate": "2022-03-17 08:37:41"
   },
   {
     "account": "Household",
@@ -2257,7 +2257,7 @@
     "currency": "GBP",
     "amount": -369.66,
     "status": "BOOKED",
-    "transactionDate": "2020-03-15 15:32:45"
+    "transactionDate": "2022-03-15 15:32:45"
   },
   {
     "account": "Household",
@@ -2267,7 +2267,7 @@
     "currency": "GBP",
     "amount": -283.69,
     "status": "BOOKED",
-    "transactionDate": "2020-03-14 16:39:00"
+    "transactionDate": "2022-03-14 16:39:00"
   },
   {
     "account": "Household",
@@ -2277,7 +2277,7 @@
     "currency": "GBP",
     "amount": -332.37,
     "status": "BOOKED",
-    "transactionDate": "2020-03-12 16:57:51"
+    "transactionDate": "2022-03-12 16:57:51"
   },
   {
     "account": "Household",
@@ -2287,7 +2287,7 @@
     "currency": "GBP",
     "amount": 46.82,
     "status": "BOOKED",
-    "transactionDate": "2020-03-12 09:01:38"
+    "transactionDate": "2022-03-12 09:01:38"
   },
   {
     "account": "Household",
@@ -2297,7 +2297,7 @@
     "currency": "GBP",
     "amount": 366.75,
     "status": "BOOKED",
-    "transactionDate": "2020-03-12 00:53:09"
+    "transactionDate": "2022-03-12 00:53:09"
   },
   {
     "account": "Household",
@@ -2307,7 +2307,7 @@
     "currency": "GBP",
     "amount": -135.46,
     "status": "BOOKED",
-    "transactionDate": "2020-03-10 16:01:32"
+    "transactionDate": "2022-03-10 16:01:32"
   },
   {
     "account": "Household",
@@ -2317,7 +2317,7 @@
     "currency": "GBP",
     "amount": 407.93,
     "status": "BOOKED",
-    "transactionDate": "2020-03-10 09:13:08"
+    "transactionDate": "2022-03-10 09:13:08"
   },
   {
     "account": "Household",
@@ -2327,7 +2327,7 @@
     "currency": "GBP",
     "amount": -483.79,
     "status": "BOOKED",
-    "transactionDate": "2020-03-09 21:17:52"
+    "transactionDate": "2022-03-09 21:17:52"
   },
   {
     "account": "Household",
@@ -2337,7 +2337,7 @@
     "currency": "GBP",
     "amount": -300.31,
     "status": "BOOKED",
-    "transactionDate": "2020-03-09 13:14:25"
+    "transactionDate": "2022-03-09 13:14:25"
   },
   {
     "account": "Household",
@@ -2347,7 +2347,7 @@
     "currency": "GBP",
     "amount": 222.42,
     "status": "BOOKED",
-    "transactionDate": "2020-03-08 00:01:28"
+    "transactionDate": "2022-03-08 00:01:28"
   },
   {
     "account": "Household",
@@ -2357,7 +2357,7 @@
     "currency": "GBP",
     "amount": 26.88,
     "status": "BOOKED",
-    "transactionDate": "2020-03-07 22:59:28"
+    "transactionDate": "2022-03-07 22:59:28"
   },
   {
     "account": "Household",
@@ -2367,7 +2367,7 @@
     "currency": "GBP",
     "amount": 281.83,
     "status": "BOOKED",
-    "transactionDate": "2020-03-06 02:56:42"
+    "transactionDate": "2022-03-06 02:56:42"
   },
   {
     "account": "Household",
@@ -2377,7 +2377,7 @@
     "currency": "GBP",
     "amount": -176.12,
     "status": "BOOKED",
-    "transactionDate": "2020-03-05 07:15:42"
+    "transactionDate": "2022-03-05 07:15:42"
   },
   {
     "account": "Household",
@@ -2387,7 +2387,7 @@
     "currency": "GBP",
     "amount": 185.08,
     "status": "BOOKED",
-    "transactionDate": "2020-03-04 04:51:10"
+    "transactionDate": "2022-03-04 04:51:10"
   },
   {
     "account": "Household",
@@ -2397,7 +2397,7 @@
     "currency": "GBP",
     "amount": 385.24,
     "status": "BOOKED",
-    "transactionDate": "2020-03-02 14:42:51"
+    "transactionDate": "2022-03-02 14:42:51"
   },
   {
     "account": "FR Bills",
@@ -2407,7 +2407,7 @@
     "currency": "EUR",
     "amount": -66.45,
     "status": "BOOKED",
-    "transactionDate": "2021-02-27 12:08:19"
+    "transactionDate": "2023-02-27 12:08:19"
   },
   {
     "account": "FR Bills",
@@ -2417,7 +2417,7 @@
     "currency": "EUR",
     "amount": -367.82,
     "status": "BOOKED",
-    "transactionDate": "2021-02-25 05:04:20"
+    "transactionDate": "2023-02-25 05:04:20"
   },
   {
     "account": "FR Bills",
@@ -2427,7 +2427,7 @@
     "currency": "EUR",
     "amount": -327.42,
     "status": "BOOKED",
-    "transactionDate": "2021-02-24 06:28:49"
+    "transactionDate": "2023-02-24 06:28:49"
   },
   {
     "account": "FR Bills",
@@ -2437,7 +2437,7 @@
     "currency": "EUR",
     "amount": -413.5,
     "status": "BOOKED",
-    "transactionDate": "2021-02-23 04:05:47"
+    "transactionDate": "2023-02-23 04:05:47"
   },
   {
     "account": "FR Bills",
@@ -2447,7 +2447,7 @@
     "currency": "EUR",
     "amount": -114.72,
     "status": "BOOKED",
-    "transactionDate": "2021-02-22 18:43:09"
+    "transactionDate": "2023-02-22 18:43:09"
   },
   {
     "account": "FR Bills",
@@ -2457,7 +2457,7 @@
     "currency": "EUR",
     "amount": -229.66,
     "status": "BOOKED",
-    "transactionDate": "2021-02-21 21:18:14"
+    "transactionDate": "2023-02-21 21:18:14"
   },
   {
     "account": "FR Bills",
@@ -2467,7 +2467,7 @@
     "currency": "EUR",
     "amount": 29.55,
     "status": "BOOKED",
-    "transactionDate": "2021-02-20 07:31:28"
+    "transactionDate": "2023-02-20 07:31:28"
   },
   {
     "account": "FR Bills",
@@ -2477,7 +2477,7 @@
     "currency": "EUR",
     "amount": 207.78,
     "status": "BOOKED",
-    "transactionDate": "2021-02-20 05:55:38"
+    "transactionDate": "2023-02-20 05:55:38"
   },
   {
     "account": "FR Bills",
@@ -2487,7 +2487,7 @@
     "currency": "EUR",
     "amount": 28.13,
     "status": "BOOKED",
-    "transactionDate": "2021-02-19 13:36:54"
+    "transactionDate": "2023-02-19 13:36:54"
   },
   {
     "account": "FR Bills",
@@ -2497,7 +2497,7 @@
     "currency": "EUR",
     "amount": -234.22,
     "status": "BOOKED",
-    "transactionDate": "2021-02-17 12:32:52"
+    "transactionDate": "2023-02-17 12:32:52"
   },
   {
     "account": "FR Bills",
@@ -2507,7 +2507,7 @@
     "currency": "EUR",
     "amount": -109.46,
     "status": "BOOKED",
-    "transactionDate": "2021-02-15 00:29:02"
+    "transactionDate": "2023-02-15 00:29:02"
   },
   {
     "account": "FR Bills",
@@ -2517,7 +2517,7 @@
     "currency": "EUR",
     "amount": 77,
     "status": "BOOKED",
-    "transactionDate": "2021-02-14 00:01:01"
+    "transactionDate": "2023-02-14 00:01:01"
   },
   {
     "account": "FR Bills",
@@ -2527,7 +2527,7 @@
     "currency": "EUR",
     "amount": -22.92,
     "status": "BOOKED",
-    "transactionDate": "2021-02-12 11:25:43"
+    "transactionDate": "2023-02-12 11:25:43"
   },
   {
     "account": "FR Bills",
@@ -2537,7 +2537,7 @@
     "currency": "EUR",
     "amount": 438.66,
     "status": "BOOKED",
-    "transactionDate": "2021-02-11 15:00:34"
+    "transactionDate": "2023-02-11 15:00:34"
   },
   {
     "account": "FR Bills",
@@ -2547,7 +2547,7 @@
     "currency": "EUR",
     "amount": -13.11,
     "status": "BOOKED",
-    "transactionDate": "2021-02-11 12:31:38"
+    "transactionDate": "2023-02-11 12:31:38"
   },
   {
     "account": "FR Bills",
@@ -2557,7 +2557,7 @@
     "currency": "EUR",
     "amount": -456.54,
     "status": "BOOKED",
-    "transactionDate": "2021-02-09 08:46:05"
+    "transactionDate": "2023-02-09 08:46:05"
   },
   {
     "account": "FR Bills",
@@ -2567,7 +2567,7 @@
     "currency": "EUR",
     "amount": 452.23,
     "status": "BOOKED",
-    "transactionDate": "2021-02-08 14:22:26"
+    "transactionDate": "2023-02-08 14:22:26"
   },
   {
     "account": "FR Bills",
@@ -2577,7 +2577,7 @@
     "currency": "EUR",
     "amount": -441.8,
     "status": "BOOKED",
-    "transactionDate": "2021-02-07 15:28:36"
+    "transactionDate": "2023-02-07 15:28:36"
   },
   {
     "account": "FR Bills",
@@ -2587,7 +2587,7 @@
     "currency": "EUR",
     "amount": -137.7,
     "status": "BOOKED",
-    "transactionDate": "2021-02-05 09:01:17"
+    "transactionDate": "2023-02-05 09:01:17"
   },
   {
     "account": "FR Bills",
@@ -2597,7 +2597,7 @@
     "currency": "EUR",
     "amount": -140.08,
     "status": "BOOKED",
-    "transactionDate": "2021-02-05 07:47:47"
+    "transactionDate": "2023-02-05 07:47:47"
   },
   {
     "account": "FR Bills",
@@ -2607,7 +2607,7 @@
     "currency": "EUR",
     "amount": -208.31,
     "status": "BOOKED",
-    "transactionDate": "2021-02-01 18:55:24"
+    "transactionDate": "2023-02-01 18:55:24"
   },
   {
     "account": "FR Bills",
@@ -2617,7 +2617,7 @@
     "currency": "EUR",
     "amount": -472.16,
     "status": "BOOKED",
-    "transactionDate": "2021-02-01 17:24:46"
+    "transactionDate": "2023-02-01 17:24:46"
   },
   {
     "account": "FR Bills",
@@ -2627,7 +2627,7 @@
     "currency": "EUR",
     "amount": -326.52,
     "status": "BOOKED",
-    "transactionDate": "2021-02-08 00:25:36"
+    "transactionDate": "2023-02-08 00:25:36"
   },
   {
     "account": "FR Bills",
@@ -2637,7 +2637,7 @@
     "currency": "EUR",
     "amount": 98.47,
     "status": "BOOKED",
-    "transactionDate": "2021-01-31 12:44:43"
+    "transactionDate": "2023-01-31 12:44:43"
   },
   {
     "account": "FR Bills",
@@ -2647,7 +2647,7 @@
     "currency": "EUR",
     "amount": 308.99,
     "status": "BOOKED",
-    "transactionDate": "2021-01-31 06:57:16"
+    "transactionDate": "2023-01-31 06:57:16"
   },
   {
     "account": "FR Bills",
@@ -2657,7 +2657,7 @@
     "currency": "EUR",
     "amount": 335.06,
     "status": "BOOKED",
-    "transactionDate": "2021-01-30 14:30:39"
+    "transactionDate": "2023-01-30 14:30:39"
   },
   {
     "account": "FR Bills",
@@ -2667,7 +2667,7 @@
     "currency": "EUR",
     "amount": -253.85,
     "status": "BOOKED",
-    "transactionDate": "2021-01-29 20:56:15"
+    "transactionDate": "2023-01-29 20:56:15"
   },
   {
     "account": "FR Bills",
@@ -2677,7 +2677,7 @@
     "currency": "EUR",
     "amount": 266,
     "status": "BOOKED",
-    "transactionDate": "2021-01-28 12:55:32"
+    "transactionDate": "2023-01-28 12:55:32"
   },
   {
     "account": "Household",
@@ -2687,7 +2687,7 @@
     "currency": "GBP",
     "amount": -474.76,
     "status": "BOOKED",
-    "transactionDate": "2020-06-20 23:50:03"
+    "transactionDate": "2022-06-20 23:50:03"
   },
   {
     "account": "FR Bills",
@@ -2697,7 +2697,7 @@
     "currency": "EUR",
     "amount": -267.6,
     "status": "BOOKED",
-    "transactionDate": "2021-01-28 11:31:05"
+    "transactionDate": "2023-01-28 11:31:05"
   },
   {
     "account": "FR Bills",
@@ -2707,7 +2707,7 @@
     "currency": "EUR",
     "amount": 379.29,
     "status": "BOOKED",
-    "transactionDate": "2021-01-26 19:30:45"
+    "transactionDate": "2023-01-26 19:30:45"
   },
   {
     "account": "FR Bills",
@@ -2717,7 +2717,7 @@
     "currency": "EUR",
     "amount": -77.33,
     "status": "BOOKED",
-    "transactionDate": "2021-01-24 05:42:14"
+    "transactionDate": "2023-01-24 05:42:14"
   },
   {
     "account": "FR Bills",
@@ -2727,7 +2727,7 @@
     "currency": "EUR",
     "amount": 375.49,
     "status": "BOOKED",
-    "transactionDate": "2021-01-21 23:10:47"
+    "transactionDate": "2023-01-21 23:10:47"
   },
   {
     "account": "FR Bills",
@@ -2737,7 +2737,7 @@
     "currency": "EUR",
     "amount": 154.29,
     "status": "BOOKED",
-    "transactionDate": "2021-01-21 04:42:44"
+    "transactionDate": "2023-01-21 04:42:44"
   },
   {
     "account": "FR Bills",
@@ -2747,7 +2747,7 @@
     "currency": "EUR",
     "amount": -29.81,
     "status": "BOOKED",
-    "transactionDate": "2021-01-18 07:33:38"
+    "transactionDate": "2023-01-18 07:33:38"
   },
   {
     "account": "FR Bills",
@@ -2757,7 +2757,7 @@
     "currency": "EUR",
     "amount": -144.48,
     "status": "BOOKED",
-    "transactionDate": "2021-01-17 06:55:13"
+    "transactionDate": "2023-01-17 06:55:13"
   },
   {
     "account": "FR Bills",
@@ -2767,7 +2767,7 @@
     "currency": "EUR",
     "amount": 149.93,
     "status": "BOOKED",
-    "transactionDate": "2021-01-16 19:46:15"
+    "transactionDate": "2023-01-16 19:46:15"
   },
   {
     "account": "FR Bills",
@@ -2777,7 +2777,7 @@
     "currency": "EUR",
     "amount": 219.16,
     "status": "BOOKED",
-    "transactionDate": "2021-01-16 03:03:12"
+    "transactionDate": "2023-01-16 03:03:12"
   },
   {
     "account": "FR Bills",
@@ -2787,7 +2787,7 @@
     "currency": "EUR",
     "amount": -249.46,
     "status": "BOOKED",
-    "transactionDate": "2021-01-14 12:27:23"
+    "transactionDate": "2023-01-14 12:27:23"
   },
   {
     "account": "FR Bills",
@@ -2797,7 +2797,7 @@
     "currency": "EUR",
     "amount": -394.69,
     "status": "BOOKED",
-    "transactionDate": "2021-01-13 03:02:38"
+    "transactionDate": "2023-01-13 03:02:38"
   },
   {
     "account": "FR Bills",
@@ -2807,7 +2807,7 @@
     "currency": "EUR",
     "amount": 460.38,
     "status": "BOOKED",
-    "transactionDate": "2021-01-12 12:55:41"
+    "transactionDate": "2023-01-12 12:55:41"
   },
   {
     "account": "FR Bills",
@@ -2817,7 +2817,7 @@
     "currency": "EUR",
     "amount": -468.45,
     "status": "BOOKED",
-    "transactionDate": "2021-01-12 03:39:51"
+    "transactionDate": "2023-01-12 03:39:51"
   },
   {
     "account": "FR Bills",
@@ -2827,7 +2827,7 @@
     "currency": "EUR",
     "amount": -218.71,
     "status": "BOOKED",
-    "transactionDate": "2021-01-10 14:29:15"
+    "transactionDate": "2023-01-10 14:29:15"
   },
   {
     "account": "FR Bills",
@@ -2837,7 +2837,7 @@
     "currency": "EUR",
     "amount": 288.33,
     "status": "BOOKED",
-    "transactionDate": "2021-01-27 19:32:10"
+    "transactionDate": "2023-01-27 19:32:10"
   },
   {
     "account": "FR Bills",
@@ -2847,7 +2847,7 @@
     "currency": "EUR",
     "amount": -439.93,
     "status": "BOOKED",
-    "transactionDate": "2021-01-27 07:58:49"
+    "transactionDate": "2023-01-27 07:58:49"
   },
   {
     "account": "FR Bills",
@@ -2857,7 +2857,7 @@
     "currency": "EUR",
     "amount": -261.38,
     "status": "BOOKED",
-    "transactionDate": "2021-01-05 06:58:27"
+    "transactionDate": "2023-01-05 06:58:27"
   },
   {
     "account": "FR Bills",
@@ -2867,7 +2867,7 @@
     "currency": "EUR",
     "amount": 221.62,
     "status": "BOOKED",
-    "transactionDate": "2021-01-04 20:04:18"
+    "transactionDate": "2023-01-04 20:04:18"
   },
   {
     "account": "FR Bills",
@@ -2877,7 +2877,7 @@
     "currency": "EUR",
     "amount": -330.76,
     "status": "BOOKED",
-    "transactionDate": "2021-01-03 06:31:37"
+    "transactionDate": "2023-01-03 06:31:37"
   },
   {
     "account": "FR Bills",
@@ -2887,7 +2887,7 @@
     "currency": "EUR",
     "amount": 335.69,
     "status": "BOOKED",
-    "transactionDate": "2020-12-28 08:11:16"
+    "transactionDate": "2022-12-28 08:11:16"
   },
   {
     "account": "FR Bills",
@@ -2897,7 +2897,7 @@
     "currency": "EUR",
     "amount": -464.95,
     "status": "BOOKED",
-    "transactionDate": "2020-12-27 23:52:54"
+    "transactionDate": "2022-12-27 23:52:54"
   },
   {
     "account": "FR Bills",
@@ -2907,7 +2907,7 @@
     "currency": "EUR",
     "amount": -474.76,
     "status": "BOOKED",
-    "transactionDate": "2020-12-25 10:14:52"
+    "transactionDate": "2022-12-25 10:14:52"
   },
   {
     "account": "FR Bills",
@@ -2917,7 +2917,7 @@
     "currency": "EUR",
     "amount": 496.87,
     "status": "BOOKED",
-    "transactionDate": "2020-12-24 15:37:34"
+    "transactionDate": "2022-12-24 15:37:34"
   },
   {
     "account": "FR Bills",
@@ -2927,7 +2927,7 @@
     "currency": "EUR",
     "amount": 292.9,
     "status": "BOOKED",
-    "transactionDate": "2020-12-21 00:52:20"
+    "transactionDate": "2022-12-21 00:52:20"
   },
   {
     "account": "FR Bills",
@@ -2937,7 +2937,7 @@
     "currency": "EUR",
     "amount": 22.39,
     "status": "BOOKED",
-    "transactionDate": "2020-12-13 04:46:45"
+    "transactionDate": "2022-12-13 04:46:45"
   },
   {
     "account": "FR Bills",
@@ -2947,7 +2947,7 @@
     "currency": "EUR",
     "amount": -385.9,
     "status": "BOOKED",
-    "transactionDate": "2020-12-10 18:36:02"
+    "transactionDate": "2022-12-10 18:36:02"
   },
   {
     "account": "FR Bills",
@@ -2957,7 +2957,7 @@
     "currency": "EUR",
     "amount": 215.97,
     "status": "BOOKED",
-    "transactionDate": "2020-12-08 12:36:46"
+    "transactionDate": "2022-12-08 12:36:46"
   },
   {
     "account": "FR Bills",
@@ -2967,7 +2967,7 @@
     "currency": "EUR",
     "amount": -147.16,
     "status": "BOOKED",
-    "transactionDate": "2020-12-07 12:03:49"
+    "transactionDate": "2022-12-07 12:03:49"
   },
   {
     "account": "FR Bills",
@@ -2977,7 +2977,7 @@
     "currency": "EUR",
     "amount": 497.63,
     "status": "BOOKED",
-    "transactionDate": "2020-12-06 19:47:29"
+    "transactionDate": "2022-12-06 19:47:29"
   },
   {
     "account": "FR Bills",
@@ -2987,7 +2987,7 @@
     "currency": "EUR",
     "amount": -407.66,
     "status": "BOOKED",
-    "transactionDate": "2020-12-02 01:33:56"
+    "transactionDate": "2022-12-02 01:33:56"
   },
   {
     "account": "FR Bills",
@@ -2997,7 +2997,7 @@
     "currency": "EUR",
     "amount": 412.25,
     "status": "BOOKED",
-    "transactionDate": "2020-11-29 19:26:55"
+    "transactionDate": "2022-11-29 19:26:55"
   },
   {
     "account": "FR Bills",
@@ -3007,7 +3007,7 @@
     "currency": "EUR",
     "amount": -179.07,
     "status": "BOOKED",
-    "transactionDate": "2020-11-24 13:34:30"
+    "transactionDate": "2022-11-24 13:34:30"
   },
   {
     "account": "FR Bills",
@@ -3017,7 +3017,7 @@
     "currency": "EUR",
     "amount": -221.29,
     "status": "BOOKED",
-    "transactionDate": "2020-11-20 23:56:26"
+    "transactionDate": "2022-11-20 23:56:26"
   },
   {
     "account": "FR Bills",
@@ -3027,7 +3027,7 @@
     "currency": "EUR",
     "amount": -240.02,
     "status": "BOOKED",
-    "transactionDate": "2020-11-20 17:18:19"
+    "transactionDate": "2022-11-20 17:18:19"
   },
   {
     "account": "FR Bills",
@@ -3037,7 +3037,7 @@
     "currency": "EUR",
     "amount": -103.95,
     "status": "BOOKED",
-    "transactionDate": "2020-11-17 15:02:13"
+    "transactionDate": "2022-11-17 15:02:13"
   },
   {
     "account": "FR Bills",
@@ -3047,7 +3047,7 @@
     "currency": "EUR",
     "amount": 241.95,
     "status": "BOOKED",
-    "transactionDate": "2020-11-15 09:28:57"
+    "transactionDate": "2022-11-15 09:28:57"
   },
   {
     "account": "FR Bills",
@@ -3057,7 +3057,7 @@
     "currency": "EUR",
     "amount": -387.19,
     "status": "BOOKED",
-    "transactionDate": "2020-11-14 11:56:57"
+    "transactionDate": "2022-11-14 11:56:57"
   },
   {
     "account": "FR Bills",
@@ -3067,7 +3067,7 @@
     "currency": "EUR",
     "amount": 336.07,
     "status": "BOOKED",
-    "transactionDate": "2020-11-12 23:07:27"
+    "transactionDate": "2022-11-12 23:07:27"
   },
   {
     "account": "FR Bills",
@@ -3077,7 +3077,7 @@
     "currency": "EUR",
     "amount": 134.56,
     "status": "BOOKED",
-    "transactionDate": "2020-11-12 14:21:28"
+    "transactionDate": "2022-11-12 14:21:28"
   },
   {
     "account": "FR Bills",
@@ -3087,7 +3087,7 @@
     "currency": "EUR",
     "amount": 335.46,
     "status": "BOOKED",
-    "transactionDate": "2020-11-08 19:55:14"
+    "transactionDate": "2022-11-08 19:55:14"
   },
   {
     "account": "FR Bills",
@@ -3097,7 +3097,7 @@
     "currency": "EUR",
     "amount": 50.77,
     "status": "BOOKED",
-    "transactionDate": "2020-11-07 22:05:49"
+    "transactionDate": "2022-11-07 22:05:49"
   },
   {
     "account": "FR Bills",
@@ -3107,7 +3107,7 @@
     "currency": "EUR",
     "amount": -263.75,
     "status": "BOOKED",
-    "transactionDate": "2020-11-06 17:23:07"
+    "transactionDate": "2022-11-06 17:23:07"
   },
   {
     "account": "FR Bills",
@@ -3117,7 +3117,7 @@
     "currency": "EUR",
     "amount": 414.84,
     "status": "BOOKED",
-    "transactionDate": "2020-11-05 09:49:12"
+    "transactionDate": "2022-11-05 09:49:12"
   },
   {
     "account": "FR Bills",
@@ -3127,7 +3127,7 @@
     "currency": "EUR",
     "amount": -240.4,
     "status": "BOOKED",
-    "transactionDate": "2020-11-05 07:52:32"
+    "transactionDate": "2022-11-05 07:52:32"
   },
   {
     "account": "FR Bills",
@@ -3137,7 +3137,7 @@
     "currency": "EUR",
     "amount": 193.51,
     "status": "BOOKED",
-    "transactionDate": "2020-11-03 22:47:40"
+    "transactionDate": "2022-11-03 22:47:40"
   },
   {
     "account": "FR Bills",
@@ -3147,7 +3147,7 @@
     "currency": "EUR",
     "amount": 109.91,
     "status": "BOOKED",
-    "transactionDate": "2020-11-02 16:42:38"
+    "transactionDate": "2022-11-02 16:42:38"
   },
   {
     "account": "FR Bills",
@@ -3157,7 +3157,7 @@
     "currency": "EUR",
     "amount": -462.84,
     "status": "BOOKED",
-    "transactionDate": "2020-10-31 08:14:39"
+    "transactionDate": "2022-10-31 08:14:39"
   },
   {
     "account": "FR Bills",
@@ -3167,7 +3167,7 @@
     "currency": "EUR",
     "amount": -161.76,
     "status": "BOOKED",
-    "transactionDate": "2020-10-30 04:37:42"
+    "transactionDate": "2022-10-30 04:37:42"
   },
   {
     "account": "FR Bills",
@@ -3177,7 +3177,7 @@
     "currency": "EUR",
     "amount": -70.32,
     "status": "BOOKED",
-    "transactionDate": "2020-10-29 22:27:08"
+    "transactionDate": "2022-10-29 22:27:08"
   },
   {
     "account": "FR Bills",
@@ -3187,7 +3187,7 @@
     "currency": "EUR",
     "amount": -407.58,
     "status": "BOOKED",
-    "transactionDate": "2020-10-29 19:33:57"
+    "transactionDate": "2022-10-29 19:33:57"
   },
   {
     "account": "FR Bills",
@@ -3197,7 +3197,7 @@
     "currency": "EUR",
     "amount": -72.17,
     "status": "BOOKED",
-    "transactionDate": "2020-10-28 03:56:19"
+    "transactionDate": "2022-10-28 03:56:19"
   },
   {
     "account": "FR Bills",
@@ -3207,7 +3207,7 @@
     "currency": "EUR",
     "amount": 243.31,
     "status": "BOOKED",
-    "transactionDate": "2020-10-26 10:06:58"
+    "transactionDate": "2022-10-26 10:06:58"
   },
   {
     "account": "FR Bills",
@@ -3217,7 +3217,7 @@
     "currency": "EUR",
     "amount": 124.69,
     "status": "BOOKED",
-    "transactionDate": "2020-10-26 07:51:02"
+    "transactionDate": "2022-10-26 07:51:02"
   },
   {
     "account": "FR Bills",
@@ -3227,7 +3227,7 @@
     "currency": "EUR",
     "amount": -75.11,
     "status": "BOOKED",
-    "transactionDate": "2020-10-26 01:56:13"
+    "transactionDate": "2022-10-26 01:56:13"
   },
   {
     "account": "FR Bills",
@@ -3237,7 +3237,7 @@
     "currency": "EUR",
     "amount": 165.47,
     "status": "BOOKED",
-    "transactionDate": "2020-10-23 05:07:42"
+    "transactionDate": "2022-10-23 05:07:42"
   },
   {
     "account": "FR Bills",
@@ -3247,7 +3247,7 @@
     "currency": "EUR",
     "amount": 294.73,
     "status": "BOOKED",
-    "transactionDate": "2020-10-21 04:45:55"
+    "transactionDate": "2022-10-21 04:45:55"
   },
   {
     "account": "FR Bills",
@@ -3257,7 +3257,7 @@
     "currency": "EUR",
     "amount": 240.73,
     "status": "BOOKED",
-    "transactionDate": "2020-10-19 04:24:03"
+    "transactionDate": "2022-10-19 04:24:03"
   },
   {
     "account": "FR Bills",
@@ -3267,7 +3267,7 @@
     "currency": "EUR",
     "amount": -218.6,
     "status": "BOOKED",
-    "transactionDate": "2020-10-18 23:37:25"
+    "transactionDate": "2022-10-18 23:37:25"
   },
   {
     "account": "FR Bills",
@@ -3277,7 +3277,7 @@
     "currency": "EUR",
     "amount": 334.9,
     "status": "BOOKED",
-    "transactionDate": "2020-10-17 11:49:00"
+    "transactionDate": "2022-10-17 11:49:00"
   },
   {
     "account": "FR Bills",
@@ -3287,7 +3287,7 @@
     "currency": "EUR",
     "amount": -484.87,
     "status": "BOOKED",
-    "transactionDate": "2020-10-16 04:49:03"
+    "transactionDate": "2022-10-16 04:49:03"
   },
   {
     "account": "FR Bills",
@@ -3297,7 +3297,7 @@
     "currency": "EUR",
     "amount": -107.64,
     "status": "BOOKED",
-    "transactionDate": "2020-10-15 12:13:05"
+    "transactionDate": "2022-10-15 12:13:05"
   },
   {
     "account": "FR Bills",
@@ -3307,7 +3307,7 @@
     "currency": "EUR",
     "amount": 428.21,
     "status": "BOOKED",
-    "transactionDate": "2020-10-12 20:11:37"
+    "transactionDate": "2022-10-12 20:11:37"
   },
   {
     "account": "FR Bills",
@@ -3317,7 +3317,7 @@
     "currency": "EUR",
     "amount": -466.43,
     "status": "BOOKED",
-    "transactionDate": "2020-10-10 11:13:35"
+    "transactionDate": "2022-10-10 11:13:35"
   },
   {
     "account": "FR Bills",
@@ -3327,7 +3327,7 @@
     "currency": "EUR",
     "amount": -286.47,
     "status": "BOOKED",
-    "transactionDate": "2020-10-10 07:28:53"
+    "transactionDate": "2022-10-10 07:28:53"
   },
   {
     "account": "FR Bills",
@@ -3337,7 +3337,7 @@
     "currency": "EUR",
     "amount": 320.95,
     "status": "BOOKED",
-    "transactionDate": "2020-10-08 08:34:15"
+    "transactionDate": "2022-10-08 08:34:15"
   },
   {
     "account": "FR Bills",
@@ -3347,7 +3347,7 @@
     "currency": "EUR",
     "amount": 136.5,
     "status": "BOOKED",
-    "transactionDate": "2020-10-08 01:33:21"
+    "transactionDate": "2022-10-08 01:33:21"
   },
   {
     "account": "FR Bills",
@@ -3357,7 +3357,7 @@
     "currency": "EUR",
     "amount": 408.41,
     "status": "BOOKED",
-    "transactionDate": "2020-10-07 06:18:13"
+    "transactionDate": "2022-10-07 06:18:13"
   },
   {
     "account": "FR Bills",
@@ -3367,7 +3367,7 @@
     "currency": "EUR",
     "amount": -253.94,
     "status": "BOOKED",
-    "transactionDate": "2020-10-06 11:08:34"
+    "transactionDate": "2022-10-06 11:08:34"
   },
   {
     "account": "FR Bills",
@@ -3377,7 +3377,7 @@
     "currency": "EUR",
     "amount": 86.55,
     "status": "BOOKED",
-    "transactionDate": "2020-10-03 22:10:16"
+    "transactionDate": "2022-10-03 22:10:16"
   },
   {
     "account": "FR Bills",
@@ -3387,7 +3387,7 @@
     "currency": "EUR",
     "amount": -473.43,
     "status": "BOOKED",
-    "transactionDate": "2020-10-02 23:03:03"
+    "transactionDate": "2022-10-02 23:03:03"
   },
   {
     "account": "FR Bills",
@@ -3397,7 +3397,7 @@
     "currency": "EUR",
     "amount": 10.25,
     "status": "BOOKED",
-    "transactionDate": "2020-10-02 21:22:18"
+    "transactionDate": "2022-10-02 21:22:18"
   },
   {
     "account": "FR Bills",
@@ -3407,7 +3407,7 @@
     "currency": "EUR",
     "amount": 433.43,
     "status": "BOOKED",
-    "transactionDate": "2020-09-29 15:51:38"
+    "transactionDate": "2022-09-29 15:51:38"
   },
   {
     "account": "FR Bills",
@@ -3417,7 +3417,7 @@
     "currency": "EUR",
     "amount": -127.82,
     "status": "BOOKED",
-    "transactionDate": "2020-09-28 15:30:24"
+    "transactionDate": "2022-09-28 15:30:24"
   },
   {
     "account": "FR Bills",
@@ -3427,7 +3427,7 @@
     "currency": "EUR",
     "amount": -189.81,
     "status": "BOOKED",
-    "transactionDate": "2020-09-26 18:38:45"
+    "transactionDate": "2022-09-26 18:38:45"
   },
   {
     "account": "FR Bills",
@@ -3437,7 +3437,7 @@
     "currency": "EUR",
     "amount": -38.19,
     "status": "BOOKED",
-    "transactionDate": "2020-09-26 18:04:01"
+    "transactionDate": "2022-09-26 18:04:01"
   },
   {
     "account": "FR Bills",
@@ -3447,7 +3447,7 @@
     "currency": "EUR",
     "amount": 166.67,
     "status": "BOOKED",
-    "transactionDate": "2020-09-25 20:15:57"
+    "transactionDate": "2022-09-25 20:15:57"
   },
   {
     "account": "FR Bills",
@@ -3457,7 +3457,7 @@
     "currency": "EUR",
     "amount": -37.73,
     "status": "BOOKED",
-    "transactionDate": "2020-09-24 09:13:46"
+    "transactionDate": "2022-09-24 09:13:46"
   },
   {
     "account": "FR Bills",
@@ -3467,7 +3467,7 @@
     "currency": "EUR",
     "amount": 491.85,
     "status": "BOOKED",
-    "transactionDate": "2020-09-24 03:54:19"
+    "transactionDate": "2022-09-24 03:54:19"
   },
   {
     "account": "FR Bills",
@@ -3477,7 +3477,7 @@
     "currency": "EUR",
     "amount": 12.92,
     "status": "BOOKED",
-    "transactionDate": "2020-09-23 20:20:16"
+    "transactionDate": "2022-09-23 20:20:16"
   },
   {
     "account": "FR Bills",
@@ -3487,7 +3487,7 @@
     "currency": "EUR",
     "amount": -303.01,
     "status": "BOOKED",
-    "transactionDate": "2020-09-22 14:10:40"
+    "transactionDate": "2022-09-22 14:10:40"
   },
   {
     "account": "FR Bills",
@@ -3497,7 +3497,7 @@
     "currency": "EUR",
     "amount": -109.05,
     "status": "BOOKED",
-    "transactionDate": "2020-09-22 08:30:24"
+    "transactionDate": "2022-09-22 08:30:24"
   },
   {
     "account": "FR Bills",
@@ -3507,7 +3507,7 @@
     "currency": "EUR",
     "amount": 119.04,
     "status": "BOOKED",
-    "transactionDate": "2020-09-21 22:05:48"
+    "transactionDate": "2022-09-21 22:05:48"
   },
   {
     "account": "FR Bills",
@@ -3517,7 +3517,7 @@
     "currency": "EUR",
     "amount": -93.51,
     "status": "BOOKED",
-    "transactionDate": "2020-09-21 14:01:31"
+    "transactionDate": "2022-09-21 14:01:31"
   },
   {
     "account": "FR Bills",
@@ -3527,7 +3527,7 @@
     "currency": "EUR",
     "amount": 148.21,
     "status": "BOOKED",
-    "transactionDate": "2020-09-19 14:53:36"
+    "transactionDate": "2022-09-19 14:53:36"
   },
   {
     "account": "FR Bills",
@@ -3537,7 +3537,7 @@
     "currency": "EUR",
     "amount": 241.51,
     "status": "BOOKED",
-    "transactionDate": "2020-09-19 11:08:00"
+    "transactionDate": "2022-09-19 11:08:00"
   },
   {
     "account": "FR Bills",
@@ -3547,7 +3547,7 @@
     "currency": "EUR",
     "amount": 285.88,
     "status": "BOOKED",
-    "transactionDate": "2020-09-18 18:30:44"
+    "transactionDate": "2022-09-18 18:30:44"
   },
   {
     "account": "FR Bills",
@@ -3557,7 +3557,7 @@
     "currency": "EUR",
     "amount": -340.94,
     "status": "BOOKED",
-    "transactionDate": "2020-09-18 05:28:25"
+    "transactionDate": "2022-09-18 05:28:25"
   },
   {
     "account": "FR Bills",
@@ -3567,7 +3567,7 @@
     "currency": "EUR",
     "amount": -296.01,
     "status": "BOOKED",
-    "transactionDate": "2020-09-17 02:18:24"
+    "transactionDate": "2022-09-17 02:18:24"
   },
   {
     "account": "FR Bills",
@@ -3577,7 +3577,7 @@
     "currency": "EUR",
     "amount": 422.37,
     "status": "BOOKED",
-    "transactionDate": "2020-09-15 16:01:03"
+    "transactionDate": "2022-09-15 16:01:03"
   },
   {
     "account": "FR Bills",
@@ -3587,7 +3587,7 @@
     "currency": "EUR",
     "amount": -197.5,
     "status": "BOOKED",
-    "transactionDate": "2020-09-15 01:34:58"
+    "transactionDate": "2022-09-15 01:34:58"
   },
   {
     "account": "FR Bills",
@@ -3597,7 +3597,7 @@
     "currency": "EUR",
     "amount": 345.37,
     "status": "BOOKED",
-    "transactionDate": "2020-09-12 16:22:01"
+    "transactionDate": "2022-09-12 16:22:01"
   },
   {
     "account": "FR Bills",
@@ -3607,7 +3607,7 @@
     "currency": "EUR",
     "amount": 236.95,
     "status": "BOOKED",
-    "transactionDate": "2020-09-12 05:10:41"
+    "transactionDate": "2022-09-12 05:10:41"
   },
   {
     "account": "FR Bills",
@@ -3617,7 +3617,7 @@
     "currency": "EUR",
     "amount": -65.22,
     "status": "BOOKED",
-    "transactionDate": "2020-09-08 11:37:56"
+    "transactionDate": "2022-09-08 11:37:56"
   },
   {
     "account": "FR Bills",
@@ -3627,7 +3627,7 @@
     "currency": "EUR",
     "amount": -148.4,
     "status": "BOOKED",
-    "transactionDate": "2020-09-07 17:25:22"
+    "transactionDate": "2022-09-07 17:25:22"
   },
   {
     "account": "FR Bills",
@@ -3637,7 +3637,7 @@
     "currency": "EUR",
     "amount": 55.47,
     "status": "BOOKED",
-    "transactionDate": "2020-09-05 15:12:53"
+    "transactionDate": "2022-09-05 15:12:53"
   },
   {
     "account": "FR Bills",
@@ -3647,7 +3647,7 @@
     "currency": "EUR",
     "amount": 161.02,
     "status": "BOOKED",
-    "transactionDate": "2020-08-27 07:26:21"
+    "transactionDate": "2022-08-27 07:26:21"
   },
   {
     "account": "FR Bills",
@@ -3657,7 +3657,7 @@
     "currency": "EUR",
     "amount": 437.98,
     "status": "BOOKED",
-    "transactionDate": "2020-08-27 03:49:08"
+    "transactionDate": "2022-08-27 03:49:08"
   },
   {
     "account": "FR Bills",
@@ -3667,7 +3667,7 @@
     "currency": "EUR",
     "amount": 243.92,
     "status": "BOOKED",
-    "transactionDate": "2020-08-25 10:08:14"
+    "transactionDate": "2022-08-25 10:08:14"
   },
   {
     "account": "FR Bills",
@@ -3677,7 +3677,7 @@
     "currency": "EUR",
     "amount": -314.04,
     "status": "BOOKED",
-    "transactionDate": "2020-08-23 21:13:16"
+    "transactionDate": "2022-08-23 21:13:16"
   },
   {
     "account": "FR Bills",
@@ -3687,7 +3687,7 @@
     "currency": "EUR",
     "amount": 89.57,
     "status": "BOOKED",
-    "transactionDate": "2020-08-22 12:59:17"
+    "transactionDate": "2022-08-22 12:59:17"
   },
   {
     "account": "FR Bills",
@@ -3697,7 +3697,7 @@
     "currency": "EUR",
     "amount": -400.63,
     "status": "BOOKED",
-    "transactionDate": "2020-08-21 20:53:11"
+    "transactionDate": "2022-08-21 20:53:11"
   },
   {
     "account": "FR Bills",
@@ -3707,7 +3707,7 @@
     "currency": "EUR",
     "amount": -483.89,
     "status": "BOOKED",
-    "transactionDate": "2020-08-20 21:30:50"
+    "transactionDate": "2022-08-20 21:30:50"
   },
   {
     "account": "FR Bills",
@@ -3717,7 +3717,7 @@
     "currency": "EUR",
     "amount": -180.73,
     "status": "BOOKED",
-    "transactionDate": "2020-09-15 05:53:30"
+    "transactionDate": "2022-09-15 05:53:30"
   },
   {
     "account": "FR Bills",
@@ -3727,7 +3727,7 @@
     "currency": "EUR",
     "amount": -119.64,
     "status": "BOOKED",
-    "transactionDate": "2020-09-12 16:29:56"
+    "transactionDate": "2022-09-12 16:29:56"
   },
   {
     "account": "FR Bills",
@@ -3737,7 +3737,7 @@
     "currency": "EUR",
     "amount": -151.82,
     "status": "BOOKED",
-    "transactionDate": "2020-08-18 23:24:29"
+    "transactionDate": "2022-08-18 23:24:29"
   },
   {
     "account": "FR Bills",
@@ -3747,7 +3747,7 @@
     "currency": "EUR",
     "amount": -26.3,
     "status": "BOOKED",
-    "transactionDate": "2020-08-15 02:50:28"
+    "transactionDate": "2022-08-15 02:50:28"
   },
   {
     "account": "FR Bills",
@@ -3757,7 +3757,7 @@
     "currency": "EUR",
     "amount": 266.25,
     "status": "BOOKED",
-    "transactionDate": "2020-08-14 02:34:39"
+    "transactionDate": "2022-08-14 02:34:39"
   },
   {
     "account": "FR Bills",
@@ -3767,7 +3767,7 @@
     "currency": "EUR",
     "amount": 398.05,
     "status": "BOOKED",
-    "transactionDate": "2020-08-12 11:15:41"
+    "transactionDate": "2022-08-12 11:15:41"
   },
   {
     "account": "FR Bills",
@@ -3777,7 +3777,7 @@
     "currency": "EUR",
     "amount": -74.89,
     "status": "BOOKED",
-    "transactionDate": "2020-08-08 00:19:45"
+    "transactionDate": "2022-08-08 00:19:45"
   },
   {
     "account": "FR Bills",
@@ -3787,7 +3787,7 @@
     "currency": "EUR",
     "amount": -128.61,
     "status": "BOOKED",
-    "transactionDate": "2020-08-08 00:14:28"
+    "transactionDate": "2022-08-08 00:14:28"
   },
   {
     "account": "FR Bills",
@@ -3797,7 +3797,7 @@
     "currency": "EUR",
     "amount": -77.04,
     "status": "BOOKED",
-    "transactionDate": "2020-08-04 17:36:45"
+    "transactionDate": "2022-08-04 17:36:45"
   },
   {
     "account": "FR Bills",
@@ -3807,7 +3807,7 @@
     "currency": "EUR",
     "amount": 301.53,
     "status": "BOOKED",
-    "transactionDate": "2020-08-03 06:42:27"
+    "transactionDate": "2022-08-03 06:42:27"
   },
   {
     "account": "FR Bills",
@@ -3817,7 +3817,7 @@
     "currency": "EUR",
     "amount": 427.36,
     "status": "BOOKED",
-    "transactionDate": "2020-08-02 18:47:46"
+    "transactionDate": "2022-08-02 18:47:46"
   },
   {
     "account": "FR Bills",
@@ -3827,7 +3827,7 @@
     "currency": "EUR",
     "amount": 27.9,
     "status": "BOOKED",
-    "transactionDate": "2020-08-02 08:37:01"
+    "transactionDate": "2022-08-02 08:37:01"
   },
   {
     "account": "FR Bills",
@@ -3837,7 +3837,7 @@
     "currency": "EUR",
     "amount": -363.9,
     "status": "BOOKED",
-    "transactionDate": "2020-07-30 11:00:59"
+    "transactionDate": "2022-07-30 11:00:59"
   },
   {
     "account": "FR Bills",
@@ -3847,7 +3847,7 @@
     "currency": "EUR",
     "amount": -479.17,
     "status": "BOOKED",
-    "transactionDate": "2020-07-29 22:53:50"
+    "transactionDate": "2022-07-29 22:53:50"
   },
   {
     "account": "FR Bills",
@@ -3857,7 +3857,7 @@
     "currency": "EUR",
     "amount": -285.66,
     "status": "BOOKED",
-    "transactionDate": "2020-07-28 13:13:55"
+    "transactionDate": "2022-07-28 13:13:55"
   },
   {
     "account": "FR Bills",
@@ -3867,7 +3867,7 @@
     "currency": "EUR",
     "amount": -245.07,
     "status": "BOOKED",
-    "transactionDate": "2020-07-28 07:45:07"
+    "transactionDate": "2022-07-28 07:45:07"
   },
   {
     "account": "FR Bills",
@@ -3877,7 +3877,7 @@
     "currency": "EUR",
     "amount": 391.21,
     "status": "BOOKED",
-    "transactionDate": "2020-07-28 00:49:06"
+    "transactionDate": "2022-07-28 00:49:06"
   },
   {
     "account": "FR Bills",
@@ -3887,7 +3887,7 @@
     "currency": "EUR",
     "amount": 226.28,
     "status": "BOOKED",
-    "transactionDate": "2020-07-27 16:31:01"
+    "transactionDate": "2022-07-27 16:31:01"
   },
   {
     "account": "FR Bills",
@@ -3897,7 +3897,7 @@
     "currency": "EUR",
     "amount": 109.54,
     "status": "BOOKED",
-    "transactionDate": "2020-07-27 15:43:57"
+    "transactionDate": "2022-07-27 15:43:57"
   },
   {
     "account": "FR Bills",
@@ -3907,7 +3907,7 @@
     "currency": "EUR",
     "amount": -429.26,
     "status": "BOOKED",
-    "transactionDate": "2020-07-27 09:15:38"
+    "transactionDate": "2022-07-27 09:15:38"
   },
   {
     "account": "FR Bills",
@@ -3917,7 +3917,7 @@
     "currency": "EUR",
     "amount": 492.41,
     "status": "BOOKED",
-    "transactionDate": "2020-07-27 09:14:10"
+    "transactionDate": "2022-07-27 09:14:10"
   },
   {
     "account": "FR Bills",
@@ -3927,7 +3927,7 @@
     "currency": "EUR",
     "amount": -265.14,
     "status": "BOOKED",
-    "transactionDate": "2020-07-22 17:43:10"
+    "transactionDate": "2022-07-22 17:43:10"
   },
   {
     "account": "FR Bills",
@@ -3937,7 +3937,7 @@
     "currency": "EUR",
     "amount": -171.8,
     "status": "BOOKED",
-    "transactionDate": "2020-07-21 23:53:08"
+    "transactionDate": "2022-07-21 23:53:08"
   },
   {
     "account": "FR Bills",
@@ -3947,7 +3947,7 @@
     "currency": "EUR",
     "amount": 229.58,
     "status": "BOOKED",
-    "transactionDate": "2020-07-21 22:30:36"
+    "transactionDate": "2022-07-21 22:30:36"
   },
   {
     "account": "FR Bills",
@@ -3957,7 +3957,7 @@
     "currency": "EUR",
     "amount": -39.41,
     "status": "BOOKED",
-    "transactionDate": "2020-07-20 01:49:48"
+    "transactionDate": "2022-07-20 01:49:48"
   },
   {
     "account": "FR Bills",
@@ -3967,7 +3967,7 @@
     "currency": "EUR",
     "amount": -249.48,
     "status": "BOOKED",
-    "transactionDate": "2020-07-19 13:20:34"
+    "transactionDate": "2022-07-19 13:20:34"
   },
   {
     "account": "FR Bills",
@@ -3977,7 +3977,7 @@
     "currency": "EUR",
     "amount": -385.1,
     "status": "BOOKED",
-    "transactionDate": "2020-07-18 01:16:29"
+    "transactionDate": "2022-07-18 01:16:29"
   },
   {
     "account": "FR Bills",
@@ -3987,7 +3987,7 @@
     "currency": "EUR",
     "amount": 308.85,
     "status": "BOOKED",
-    "transactionDate": "2020-07-14 15:50:00"
+    "transactionDate": "2022-07-14 15:50:00"
   },
   {
     "account": "FR Bills",
@@ -3997,7 +3997,7 @@
     "currency": "EUR",
     "amount": 316.95,
     "status": "BOOKED",
-    "transactionDate": "2020-07-12 21:42:06"
+    "transactionDate": "2022-07-12 21:42:06"
   },
   {
     "account": "FR Bills",
@@ -4007,7 +4007,7 @@
     "currency": "EUR",
     "amount": 345.51,
     "status": "BOOKED",
-    "transactionDate": "2020-07-07 08:48:30"
+    "transactionDate": "2022-07-07 08:48:30"
   },
   {
     "account": "FR Bills",
@@ -4017,7 +4017,7 @@
     "currency": "EUR",
     "amount": 287.3,
     "status": "BOOKED",
-    "transactionDate": "2020-07-06 03:38:17"
+    "transactionDate": "2022-07-06 03:38:17"
   },
   {
     "account": "FR Bills",
@@ -4027,7 +4027,7 @@
     "currency": "EUR",
     "amount": -422.2,
     "status": "BOOKED",
-    "transactionDate": "2020-07-05 02:44:49"
+    "transactionDate": "2022-07-05 02:44:49"
   },
   {
     "account": "FR Bills",
@@ -4037,7 +4037,7 @@
     "currency": "EUR",
     "amount": -488.89,
     "status": "BOOKED",
-    "transactionDate": "2020-07-04 23:47:33"
+    "transactionDate": "2022-07-04 23:47:33"
   },
   {
     "account": "FR Bills",
@@ -4047,7 +4047,7 @@
     "currency": "EUR",
     "amount": 132.36,
     "status": "BOOKED",
-    "transactionDate": "2020-07-03 11:44:32"
+    "transactionDate": "2022-07-03 11:44:32"
   },
   {
     "account": "FR Bills",
@@ -4057,7 +4057,7 @@
     "currency": "EUR",
     "amount": 464.01,
     "status": "BOOKED",
-    "transactionDate": "2020-07-02 16:37:27"
+    "transactionDate": "2022-07-02 16:37:27"
   },
   {
     "account": "FR Bills",
@@ -4067,7 +4067,7 @@
     "currency": "EUR",
     "amount": -59.5,
     "status": "BOOKED",
-    "transactionDate": "2020-06-25 21:56:14"
+    "transactionDate": "2022-06-25 21:56:14"
   },
   {
     "account": "FR Bills",
@@ -4077,7 +4077,7 @@
     "currency": "EUR",
     "amount": 22.27,
     "status": "BOOKED",
-    "transactionDate": "2020-06-25 20:26:55"
+    "transactionDate": "2022-06-25 20:26:55"
   },
   {
     "account": "FR Bills",
@@ -4087,7 +4087,7 @@
     "currency": "EUR",
     "amount": -450.53,
     "status": "BOOKED",
-    "transactionDate": "2020-06-17 07:22:14"
+    "transactionDate": "2022-06-17 07:22:14"
   },
   {
     "account": "FR Bills",
@@ -4097,7 +4097,7 @@
     "currency": "EUR",
     "amount": -166.5,
     "status": "BOOKED",
-    "transactionDate": "2020-06-13 16:01:25"
+    "transactionDate": "2022-06-13 16:01:25"
   },
   {
     "account": "FR Bills",
@@ -4107,7 +4107,7 @@
     "currency": "EUR",
     "amount": -210.64,
     "status": "BOOKED",
-    "transactionDate": "2020-06-10 17:18:38"
+    "transactionDate": "2022-06-10 17:18:38"
   },
   {
     "account": "FR Bills",
@@ -4117,7 +4117,7 @@
     "currency": "EUR",
     "amount": 272.05,
     "status": "BOOKED",
-    "transactionDate": "2020-05-30 13:32:37"
+    "transactionDate": "2022-05-30 13:32:37"
   },
   {
     "account": "FR Bills",
@@ -4127,7 +4127,7 @@
     "currency": "EUR",
     "amount": 441.82,
     "status": "BOOKED",
-    "transactionDate": "2020-07-11 02:51:31"
+    "transactionDate": "2022-07-11 02:51:31"
   },
   {
     "account": "FR Bills",
@@ -4137,7 +4137,7 @@
     "currency": "EUR",
     "amount": 424.5,
     "status": "BOOKED",
-    "transactionDate": "2020-07-10 21:41:37"
+    "transactionDate": "2022-07-10 21:41:37"
   },
   {
     "account": "FR Bills",
@@ -4147,7 +4147,7 @@
     "currency": "EUR",
     "amount": -345.64,
     "status": "BOOKED",
-    "transactionDate": "2020-06-10 08:28:53"
+    "transactionDate": "2022-06-10 08:28:53"
   },
   {
     "account": "FR Bills",
@@ -4157,7 +4157,7 @@
     "currency": "EUR",
     "amount": -115.39,
     "status": "BOOKED",
-    "transactionDate": "2020-06-06 16:44:51"
+    "transactionDate": "2022-06-06 16:44:51"
   },
   {
     "account": "FR Bills",
@@ -4167,7 +4167,7 @@
     "currency": "EUR",
     "amount": -90.9,
     "status": "BOOKED",
-    "transactionDate": "2020-06-02 20:44:00"
+    "transactionDate": "2022-06-02 20:44:00"
   },
   {
     "account": "FR Bills",
@@ -4177,7 +4177,7 @@
     "currency": "EUR",
     "amount": 56.82,
     "status": "BOOKED",
-    "transactionDate": "2020-05-31 01:44:45"
+    "transactionDate": "2022-05-31 01:44:45"
   },
   {
     "account": "FR Bills",
@@ -4187,7 +4187,7 @@
     "currency": "EUR",
     "amount": -393.14,
     "status": "BOOKED",
-    "transactionDate": "2020-05-30 04:30:46"
+    "transactionDate": "2022-05-30 04:30:46"
   },
   {
     "account": "FR Bills",
@@ -4197,7 +4197,7 @@
     "currency": "EUR",
     "amount": -193.43,
     "status": "BOOKED",
-    "transactionDate": "2020-05-29 13:30:20"
+    "transactionDate": "2022-05-29 13:30:20"
   },
   {
     "account": "FR Bills",
@@ -4207,7 +4207,7 @@
     "currency": "EUR",
     "amount": 449.48,
     "status": "BOOKED",
-    "transactionDate": "2020-05-29 03:54:10"
+    "transactionDate": "2022-05-29 03:54:10"
   },
   {
     "account": "FR Bills",
@@ -4217,7 +4217,7 @@
     "currency": "EUR",
     "amount": -134.18,
     "status": "BOOKED",
-    "transactionDate": "2020-05-26 11:04:27"
+    "transactionDate": "2022-05-26 11:04:27"
   },
   {
     "account": "FR Bills",
@@ -4227,7 +4227,7 @@
     "currency": "EUR",
     "amount": -395.87,
     "status": "BOOKED",
-    "transactionDate": "2020-05-26 02:17:33"
+    "transactionDate": "2022-05-26 02:17:33"
   },
   {
     "account": "FR Bills",
@@ -4237,7 +4237,7 @@
     "currency": "EUR",
     "amount": -441.57,
     "status": "BOOKED",
-    "transactionDate": "2020-05-26 01:52:46"
+    "transactionDate": "2022-05-26 01:52:46"
   },
   {
     "account": "FR Bills",
@@ -4247,7 +4247,7 @@
     "currency": "EUR",
     "amount": 244.12,
     "status": "BOOKED",
-    "transactionDate": "2020-05-24 15:19:08"
+    "transactionDate": "2022-05-24 15:19:08"
   },
   {
     "account": "FR Bills",
@@ -4257,7 +4257,7 @@
     "currency": "EUR",
     "amount": -130.01,
     "status": "BOOKED",
-    "transactionDate": "2020-05-24 14:48:06"
+    "transactionDate": "2022-05-24 14:48:06"
   },
   {
     "account": "FR Bills",
@@ -4267,7 +4267,7 @@
     "currency": "EUR",
     "amount": -377.52,
     "status": "BOOKED",
-    "transactionDate": "2020-05-22 17:42:09"
+    "transactionDate": "2022-05-22 17:42:09"
   },
   {
     "account": "FR Bills",
@@ -4277,7 +4277,7 @@
     "currency": "EUR",
     "amount": 259.83,
     "status": "BOOKED",
-    "transactionDate": "2020-05-22 15:46:04"
+    "transactionDate": "2022-05-22 15:46:04"
   },
   {
     "account": "FR Bills",
@@ -4287,7 +4287,7 @@
     "currency": "EUR",
     "amount": 127.26,
     "status": "BOOKED",
-    "transactionDate": "2020-05-19 18:03:38"
+    "transactionDate": "2022-05-19 18:03:38"
   },
   {
     "account": "FR Bills",
@@ -4297,7 +4297,7 @@
     "currency": "EUR",
     "amount": 38.75,
     "status": "BOOKED",
-    "transactionDate": "2020-05-18 13:33:44"
+    "transactionDate": "2022-05-18 13:33:44"
   },
   {
     "account": "FR Bills",
@@ -4307,7 +4307,7 @@
     "currency": "EUR",
     "amount": 461,
     "status": "BOOKED",
-    "transactionDate": "2020-05-15 23:51:44"
+    "transactionDate": "2022-05-15 23:51:44"
   },
   {
     "account": "FR Bills",
@@ -4317,7 +4317,7 @@
     "currency": "EUR",
     "amount": 349.83,
     "status": "BOOKED",
-    "transactionDate": "2020-05-13 20:08:35"
+    "transactionDate": "2022-05-13 20:08:35"
   },
   {
     "account": "FR Bills",
@@ -4327,7 +4327,7 @@
     "currency": "EUR",
     "amount": 480.81,
     "status": "BOOKED",
-    "transactionDate": "2020-05-13 06:59:45"
+    "transactionDate": "2022-05-13 06:59:45"
   },
   {
     "account": "FR Bills",
@@ -4337,7 +4337,7 @@
     "currency": "EUR",
     "amount": 364.33,
     "status": "BOOKED",
-    "transactionDate": "2020-05-12 13:54:52"
+    "transactionDate": "2022-05-12 13:54:52"
   },
   {
     "account": "FR Bills",
@@ -4347,7 +4347,7 @@
     "currency": "EUR",
     "amount": -354.97,
     "status": "BOOKED",
-    "transactionDate": "2020-05-12 11:01:14"
+    "transactionDate": "2022-05-12 11:01:14"
   },
   {
     "account": "FR Bills",
@@ -4357,7 +4357,7 @@
     "currency": "EUR",
     "amount": -243.5,
     "status": "BOOKED",
-    "transactionDate": "2020-05-11 19:14:53"
+    "transactionDate": "2022-05-11 19:14:53"
   },
   {
     "account": "FR Bills",
@@ -4367,7 +4367,7 @@
     "currency": "EUR",
     "amount": 203.42,
     "status": "BOOKED",
-    "transactionDate": "2020-05-09 22:00:23"
+    "transactionDate": "2022-05-09 22:00:23"
   },
   {
     "account": "FR Bills",
@@ -4377,7 +4377,7 @@
     "currency": "EUR",
     "amount": -59.66,
     "status": "BOOKED",
-    "transactionDate": "2020-05-04 06:50:32"
+    "transactionDate": "2022-05-04 06:50:32"
   },
   {
     "account": "FR Bills",
@@ -4387,7 +4387,7 @@
     "currency": "EUR",
     "amount": -204.93,
     "status": "BOOKED",
-    "transactionDate": "2020-05-02 12:13:01"
+    "transactionDate": "2022-05-02 12:13:01"
   },
   {
     "account": "FR Bills",
@@ -4397,7 +4397,7 @@
     "currency": "EUR",
     "amount": 59.01,
     "status": "BOOKED",
-    "transactionDate": "2020-05-02 11:29:09"
+    "transactionDate": "2022-05-02 11:29:09"
   },
   {
     "account": "FR Bills",
@@ -4407,7 +4407,7 @@
     "currency": "EUR",
     "amount": 229.73,
     "status": "BOOKED",
-    "transactionDate": "2020-04-30 12:39:55"
+    "transactionDate": "2022-04-30 12:39:55"
   },
   {
     "account": "FR Bills",
@@ -4417,7 +4417,7 @@
     "currency": "EUR",
     "amount": -20.07,
     "status": "BOOKED",
-    "transactionDate": "2020-04-30 01:12:22"
+    "transactionDate": "2022-04-30 01:12:22"
   },
   {
     "account": "FR Bills",
@@ -4427,7 +4427,7 @@
     "currency": "EUR",
     "amount": -185.8,
     "status": "BOOKED",
-    "transactionDate": "2020-04-29 05:53:32"
+    "transactionDate": "2022-04-29 05:53:32"
   },
   {
     "account": "FR Bills",
@@ -4437,7 +4437,7 @@
     "currency": "EUR",
     "amount": -111.72,
     "status": "BOOKED",
-    "transactionDate": "2020-04-25 11:27:45"
+    "transactionDate": "2022-04-25 11:27:45"
   },
   {
     "account": "FR Bills",
@@ -4447,7 +4447,7 @@
     "currency": "EUR",
     "amount": -217.66,
     "status": "BOOKED",
-    "transactionDate": "2020-04-25 08:39:21"
+    "transactionDate": "2022-04-25 08:39:21"
   },
   {
     "account": "FR Bills",
@@ -4457,7 +4457,7 @@
     "currency": "EUR",
     "amount": 425.12,
     "status": "BOOKED",
-    "transactionDate": "2020-04-24 13:17:36"
+    "transactionDate": "2022-04-24 13:17:36"
   },
   {
     "account": "FR Bills",
@@ -4467,7 +4467,7 @@
     "currency": "EUR",
     "amount": -255.38,
     "status": "BOOKED",
-    "transactionDate": "2020-04-23 13:43:49"
+    "transactionDate": "2022-04-23 13:43:49"
   },
   {
     "account": "FR Bills",
@@ -4477,7 +4477,7 @@
     "currency": "EUR",
     "amount": 73.41,
     "status": "BOOKED",
-    "transactionDate": "2020-04-23 06:41:49"
+    "transactionDate": "2022-04-23 06:41:49"
   },
   {
     "account": "FR Bills",
@@ -4487,7 +4487,7 @@
     "currency": "EUR",
     "amount": -273.53,
     "status": "BOOKED",
-    "transactionDate": "2020-04-22 13:57:14"
+    "transactionDate": "2022-04-22 13:57:14"
   },
   {
     "account": "FR Bills",
@@ -4497,7 +4497,7 @@
     "currency": "EUR",
     "amount": 432.13,
     "status": "BOOKED",
-    "transactionDate": "2020-04-21 21:48:15"
+    "transactionDate": "2022-04-21 21:48:15"
   },
   {
     "account": "FR Bills",
@@ -4507,7 +4507,7 @@
     "currency": "EUR",
     "amount": -171.12,
     "status": "BOOKED",
-    "transactionDate": "2020-04-20 07:02:28"
+    "transactionDate": "2022-04-20 07:02:28"
   },
   {
     "account": "FR Bills",
@@ -4517,7 +4517,7 @@
     "currency": "EUR",
     "amount": -175.09,
     "status": "BOOKED",
-    "transactionDate": "2020-04-18 21:03:56"
+    "transactionDate": "2022-04-18 21:03:56"
   },
   {
     "account": "FR Bills",
@@ -4527,7 +4527,7 @@
     "currency": "EUR",
     "amount": -19.59,
     "status": "BOOKED",
-    "transactionDate": "2020-04-11 16:29:50"
+    "transactionDate": "2022-04-11 16:29:50"
   },
   {
     "account": "FR Bills",
@@ -4537,7 +4537,7 @@
     "currency": "EUR",
     "amount": -105.36,
     "status": "BOOKED",
-    "transactionDate": "2020-04-11 00:18:22"
+    "transactionDate": "2022-04-11 00:18:22"
   },
   {
     "account": "FR Bills",
@@ -4547,7 +4547,7 @@
     "currency": "EUR",
     "amount": -368.22,
     "status": "BOOKED",
-    "transactionDate": "2020-04-10 17:17:54"
+    "transactionDate": "2022-04-10 17:17:54"
   },
   {
     "account": "FR Bills",
@@ -4557,7 +4557,7 @@
     "currency": "EUR",
     "amount": -414.28,
     "status": "BOOKED",
-    "transactionDate": "2020-04-10 08:55:47"
+    "transactionDate": "2022-04-10 08:55:47"
   },
   {
     "account": "FR Bills",
@@ -4567,7 +4567,7 @@
     "currency": "EUR",
     "amount": 24.93,
     "status": "BOOKED",
-    "transactionDate": "2020-04-08 04:07:10"
+    "transactionDate": "2022-04-08 04:07:10"
   },
   {
     "account": "FR Bills",
@@ -4577,7 +4577,7 @@
     "currency": "EUR",
     "amount": 23.82,
     "status": "BOOKED",
-    "transactionDate": "2020-04-05 21:28:26"
+    "transactionDate": "2022-04-05 21:28:26"
   },
   {
     "account": "FR Bills",
@@ -4587,7 +4587,7 @@
     "currency": "EUR",
     "amount": -51.31,
     "status": "BOOKED",
-    "transactionDate": "2020-04-05 11:48:48"
+    "transactionDate": "2022-04-05 11:48:48"
   },
   {
     "account": "FR Bills",
@@ -4597,7 +4597,7 @@
     "currency": "EUR",
     "amount": -251.39,
     "status": "BOOKED",
-    "transactionDate": "2020-04-03 11:11:58"
+    "transactionDate": "2022-04-03 11:11:58"
   },
   {
     "account": "FR Bills",
@@ -4607,7 +4607,7 @@
     "currency": "EUR",
     "amount": 430.16,
     "status": "BOOKED",
-    "transactionDate": "2020-04-03 03:38:40"
+    "transactionDate": "2022-04-03 03:38:40"
   },
   {
     "account": "FR Bills",
@@ -4617,7 +4617,7 @@
     "currency": "EUR",
     "amount": -474.49,
     "status": "BOOKED",
-    "transactionDate": "2020-04-16 04:43:32"
+    "transactionDate": "2022-04-16 04:43:32"
   },
   {
     "account": "FR Bills",
@@ -4627,7 +4627,7 @@
     "currency": "EUR",
     "amount": -380.25,
     "status": "BOOKED",
-    "transactionDate": "2020-04-13 08:20:07"
+    "transactionDate": "2022-04-13 08:20:07"
   },
   {
     "account": "FR Bills",
@@ -4637,7 +4637,7 @@
     "currency": "EUR",
     "amount": 324.02,
     "status": "BOOKED",
-    "transactionDate": "2020-04-02 15:31:01"
+    "transactionDate": "2022-04-02 15:31:01"
   },
   {
     "account": "FR Bills",
@@ -4647,7 +4647,7 @@
     "currency": "EUR",
     "amount": 139.84,
     "status": "BOOKED",
-    "transactionDate": "2020-04-02 10:41:04"
+    "transactionDate": "2022-04-02 10:41:04"
   },
   {
     "account": "FR Bills",
@@ -4657,7 +4657,7 @@
     "currency": "EUR",
     "amount": -114.69,
     "status": "BOOKED",
-    "transactionDate": "2020-04-02 06:39:51"
+    "transactionDate": "2022-04-02 06:39:51"
   },
   {
     "account": "FR Bills",
@@ -4667,7 +4667,7 @@
     "currency": "EUR",
     "amount": -442.23,
     "status": "BOOKED",
-    "transactionDate": "2020-04-02 01:27:07"
+    "transactionDate": "2022-04-02 01:27:07"
   },
   {
     "account": "FR Bills",
@@ -4677,7 +4677,7 @@
     "currency": "EUR",
     "amount": 258.36,
     "status": "BOOKED",
-    "transactionDate": "2020-03-30 14:07:26"
+    "transactionDate": "2022-03-30 14:07:26"
   },
   {
     "account": "FR Bills",
@@ -4687,7 +4687,7 @@
     "currency": "EUR",
     "amount": -119.44,
     "status": "BOOKED",
-    "transactionDate": "2020-03-29 15:57:05"
+    "transactionDate": "2022-03-29 15:57:05"
   },
   {
     "account": "FR Bills",
@@ -4697,7 +4697,7 @@
     "currency": "EUR",
     "amount": -142.63,
     "status": "BOOKED",
-    "transactionDate": "2020-03-29 14:11:28"
+    "transactionDate": "2022-03-29 14:11:28"
   },
   {
     "account": "FR Bills",
@@ -4707,7 +4707,7 @@
     "currency": "EUR",
     "amount": 238.14,
     "status": "BOOKED",
-    "transactionDate": "2020-03-29 04:54:12"
+    "transactionDate": "2022-03-29 04:54:12"
   },
   {
     "account": "FR Bills",
@@ -4717,7 +4717,7 @@
     "currency": "EUR",
     "amount": -80.57,
     "status": "BOOKED",
-    "transactionDate": "2020-03-28 17:50:58"
+    "transactionDate": "2022-03-28 17:50:58"
   },
   {
     "account": "FR Bills",
@@ -4727,7 +4727,7 @@
     "currency": "EUR",
     "amount": -318.24,
     "status": "BOOKED",
-    "transactionDate": "2020-03-14 13:03:35"
+    "transactionDate": "2022-03-14 13:03:35"
   },
   {
     "account": "FR Bills",
@@ -4737,7 +4737,7 @@
     "currency": "EUR",
     "amount": 253.42,
     "status": "BOOKED",
-    "transactionDate": "2020-03-14 02:23:34"
+    "transactionDate": "2022-03-14 02:23:34"
   },
   {
     "account": "FR Bills",
@@ -4747,7 +4747,7 @@
     "currency": "EUR",
     "amount": -190.81,
     "status": "BOOKED",
-    "transactionDate": "2020-03-13 15:12:52"
+    "transactionDate": "2022-03-13 15:12:52"
   },
   {
     "account": "FR Bills",
@@ -4757,7 +4757,7 @@
     "currency": "EUR",
     "amount": -362.97,
     "status": "BOOKED",
-    "transactionDate": "2020-03-13 14:22:42"
+    "transactionDate": "2022-03-13 14:22:42"
   },
   {
     "account": "FR Bills",
@@ -4767,7 +4767,7 @@
     "currency": "EUR",
     "amount": 461.78,
     "status": "BOOKED",
-    "transactionDate": "2020-03-12 10:52:53"
+    "transactionDate": "2022-03-12 10:52:53"
   },
   {
     "account": "FR Bills",
@@ -4777,7 +4777,7 @@
     "currency": "EUR",
     "amount": -370.55,
     "status": "BOOKED",
-    "transactionDate": "2020-03-11 16:34:58"
+    "transactionDate": "2022-03-11 16:34:58"
   },
   {
     "account": "FR Bills",
@@ -4787,7 +4787,7 @@
     "currency": "EUR",
     "amount": 371.53,
     "status": "BOOKED",
-    "transactionDate": "2020-03-10 09:30:37"
+    "transactionDate": "2022-03-10 09:30:37"
   },
   {
     "account": "FR Bills",
@@ -4797,7 +4797,7 @@
     "currency": "EUR",
     "amount": -329.51,
     "status": "BOOKED",
-    "transactionDate": "2020-03-10 02:06:29"
+    "transactionDate": "2022-03-10 02:06:29"
   },
   {
     "account": "FR Bills",
@@ -4807,7 +4807,7 @@
     "currency": "EUR",
     "amount": 403.75,
     "status": "BOOKED",
-    "transactionDate": "2020-03-09 11:35:19"
+    "transactionDate": "2022-03-09 11:35:19"
   },
   {
     "account": "FR Bills",
@@ -4817,7 +4817,7 @@
     "currency": "EUR",
     "amount": -497.29,
     "status": "BOOKED",
-    "transactionDate": "2020-03-19 17:57:30"
+    "transactionDate": "2022-03-19 17:57:30"
   },
   {
     "account": "FR Bills",
@@ -4827,7 +4827,7 @@
     "currency": "EUR",
     "amount": 53.27,
     "status": "BOOKED",
-    "transactionDate": "2020-03-18 11:58:02"
+    "transactionDate": "2022-03-18 11:58:02"
   },
   {
     "account": "FR Bills",
@@ -4837,7 +4837,7 @@
     "currency": "EUR",
     "amount": -332.12,
     "status": "BOOKED",
-    "transactionDate": "2020-03-17 15:41:56"
+    "transactionDate": "2022-03-17 15:41:56"
   },
   {
     "account": "FR Bills",
@@ -4847,7 +4847,7 @@
     "currency": "EUR",
     "amount": 377.45,
     "status": "BOOKED",
-    "transactionDate": "2020-03-15 13:59:43"
+    "transactionDate": "2022-03-15 13:59:43"
   },
   {
     "account": "FR Bills",
@@ -4857,7 +4857,7 @@
     "currency": "EUR",
     "amount": 236.88,
     "status": "BOOKED",
-    "transactionDate": "2020-03-06 10:40:35"
+    "transactionDate": "2022-03-06 10:40:35"
   },
   {
     "account": "FR Bills",
@@ -4867,7 +4867,7 @@
     "currency": "EUR",
     "amount": -57.62,
     "status": "BOOKED",
-    "transactionDate": "2020-03-06 07:04:39"
+    "transactionDate": "2022-03-06 07:04:39"
   },
   {
     "account": "FR Bills",
@@ -4877,7 +4877,7 @@
     "currency": "EUR",
     "amount": 25.19,
     "status": "BOOKED",
-    "transactionDate": "2020-03-05 19:23:39"
+    "transactionDate": "2022-03-05 19:23:39"
   },
   {
     "account": "FR Bills",
@@ -4887,7 +4887,7 @@
     "currency": "EUR",
     "amount": 56.7,
     "status": "BOOKED",
-    "transactionDate": "2020-03-05 01:26:24"
+    "transactionDate": "2022-03-05 01:26:24"
   },
   {
     "account": "FR Bills",
@@ -4897,7 +4897,7 @@
     "currency": "EUR",
     "amount": 19.99,
     "status": "BOOKED",
-    "transactionDate": "2020-03-04 03:54:42"
+    "transactionDate": "2022-03-04 03:54:42"
   },
   {
     "account": "FR Bills",
@@ -4907,7 +4907,7 @@
     "currency": "EUR",
     "amount": 409.31,
     "status": "BOOKED",
-    "transactionDate": "2020-03-02 10:20:27"
+    "transactionDate": "2022-03-02 10:20:27"
   },
   {
     "account": "UK Bills",
@@ -4917,7 +4917,7 @@
     "currency": "GBP",
     "amount": -481.88,
     "status": "BOOKED",
-    "transactionDate": "2021-02-27 21:00:11"
+    "transactionDate": "2023-02-27 21:00:11"
   },
   {
     "account": "UK Bills",
@@ -4927,7 +4927,7 @@
     "currency": "GBP",
     "amount": -151.69,
     "status": "BOOKED",
-    "transactionDate": "2021-02-26 20:36:26"
+    "transactionDate": "2023-02-26 20:36:26"
   },
   {
     "account": "UK Bills",
@@ -4937,7 +4937,7 @@
     "currency": "GBP",
     "amount": -80.75,
     "status": "BOOKED",
-    "transactionDate": "2021-02-22 00:05:41"
+    "transactionDate": "2023-02-22 00:05:41"
   },
   {
     "account": "UK Bills",
@@ -4947,7 +4947,7 @@
     "currency": "GBP",
     "amount": 166.62,
     "status": "BOOKED",
-    "transactionDate": "2021-02-21 21:01:04"
+    "transactionDate": "2023-02-21 21:01:04"
   },
   {
     "account": "UK Bills",
@@ -4957,7 +4957,7 @@
     "currency": "GBP",
     "amount": 97.67,
     "status": "BOOKED",
-    "transactionDate": "2021-02-20 14:56:54"
+    "transactionDate": "2023-02-20 14:56:54"
   },
   {
     "account": "UK Bills",
@@ -4967,7 +4967,7 @@
     "currency": "GBP",
     "amount": -12,
     "status": "BOOKED",
-    "transactionDate": "2021-02-18 09:49:27"
+    "transactionDate": "2023-02-18 09:49:27"
   },
   {
     "account": "UK Bills",
@@ -4977,7 +4977,7 @@
     "currency": "GBP",
     "amount": 138.65,
     "status": "BOOKED",
-    "transactionDate": "2021-02-15 22:07:28"
+    "transactionDate": "2023-02-15 22:07:28"
   },
   {
     "account": "UK Bills",
@@ -4987,7 +4987,7 @@
     "currency": "GBP",
     "amount": -42.83,
     "status": "BOOKED",
-    "transactionDate": "2021-02-15 00:08:32"
+    "transactionDate": "2023-02-15 00:08:32"
   },
   {
     "account": "UK Bills",
@@ -4997,7 +4997,7 @@
     "currency": "GBP",
     "amount": -157.91,
     "status": "BOOKED",
-    "transactionDate": "2021-02-12 09:03:21"
+    "transactionDate": "2023-02-12 09:03:21"
   },
   {
     "account": "UK Bills",
@@ -5007,7 +5007,7 @@
     "currency": "GBP",
     "amount": -221.24,
     "status": "BOOKED",
-    "transactionDate": "2021-02-06 08:08:48"
+    "transactionDate": "2023-02-06 08:08:48"
   },
   {
     "account": "UK Bills",
@@ -5017,7 +5017,7 @@
     "currency": "GBP",
     "amount": -15.12,
     "status": "BOOKED",
-    "transactionDate": "2021-02-04 00:15:21"
+    "transactionDate": "2023-02-04 00:15:21"
   },
   {
     "account": "UK Bills",
@@ -5027,7 +5027,7 @@
     "currency": "GBP",
     "amount": -66.68,
     "status": "BOOKED",
-    "transactionDate": "2021-01-25 20:11:04"
+    "transactionDate": "2023-01-25 20:11:04"
   },
   {
     "account": "UK Bills",
@@ -5037,7 +5037,7 @@
     "currency": "GBP",
     "amount": 441.99,
     "status": "BOOKED",
-    "transactionDate": "2021-01-25 11:06:02"
+    "transactionDate": "2023-01-25 11:06:02"
   },
   {
     "account": "UK Bills",
@@ -5047,7 +5047,7 @@
     "currency": "GBP",
     "amount": -462.4,
     "status": "BOOKED",
-    "transactionDate": "2021-01-20 11:44:02"
+    "transactionDate": "2023-01-20 11:44:02"
   },
   {
     "account": "UK Bills",
@@ -5057,7 +5057,7 @@
     "currency": "GBP",
     "amount": 60.77,
     "status": "BOOKED",
-    "transactionDate": "2021-01-19 10:14:37"
+    "transactionDate": "2023-01-19 10:14:37"
   },
   {
     "account": "UK Bills",
@@ -5067,7 +5067,7 @@
     "currency": "GBP",
     "amount": 218.98,
     "status": "BOOKED",
-    "transactionDate": "2021-01-16 10:39:08"
+    "transactionDate": "2023-01-16 10:39:08"
   },
   {
     "account": "UK Bills",
@@ -5077,7 +5077,7 @@
     "currency": "GBP",
     "amount": -63.28,
     "status": "BOOKED",
-    "transactionDate": "2021-01-08 03:41:49"
+    "transactionDate": "2023-01-08 03:41:49"
   },
   {
     "account": "UK Bills",
@@ -5087,7 +5087,7 @@
     "currency": "GBP",
     "amount": -370.29,
     "status": "BOOKED",
-    "transactionDate": "2021-01-07 19:47:39"
+    "transactionDate": "2023-01-07 19:47:39"
   },
   {
     "account": "UK Bills",
@@ -5097,7 +5097,7 @@
     "currency": "GBP",
     "amount": 283.16,
     "status": "BOOKED",
-    "transactionDate": "2021-01-07 19:11:37"
+    "transactionDate": "2023-01-07 19:11:37"
   },
   {
     "account": "UK Bills",
@@ -5107,7 +5107,7 @@
     "currency": "GBP",
     "amount": 177.38,
     "status": "BOOKED",
-    "transactionDate": "2021-01-06 20:52:04"
+    "transactionDate": "2023-01-06 20:52:04"
   },
   {
     "account": "UK Bills",
@@ -5117,7 +5117,7 @@
     "currency": "GBP",
     "amount": -201.62,
     "status": "BOOKED",
-    "transactionDate": "2021-01-06 17:57:21"
+    "transactionDate": "2023-01-06 17:57:21"
   },
   {
     "account": "UK Bills",
@@ -5127,7 +5127,7 @@
     "currency": "GBP",
     "amount": -335,
     "status": "BOOKED",
-    "transactionDate": "2020-12-31 02:00:38"
+    "transactionDate": "2022-12-31 02:00:38"
   },
   {
     "account": "UK Bills",
@@ -5137,7 +5137,7 @@
     "currency": "GBP",
     "amount": -260.24,
     "status": "BOOKED",
-    "transactionDate": "2020-12-28 01:27:03"
+    "transactionDate": "2022-12-28 01:27:03"
   },
   {
     "account": "UK Bills",
@@ -5147,7 +5147,7 @@
     "currency": "GBP",
     "amount": 78.61,
     "status": "BOOKED",
-    "transactionDate": "2020-12-27 17:40:07"
+    "transactionDate": "2022-12-27 17:40:07"
   },
   {
     "account": "UK Bills",
@@ -5157,7 +5157,7 @@
     "currency": "GBP",
     "amount": -325.74,
     "status": "BOOKED",
-    "transactionDate": "2020-12-25 01:42:09"
+    "transactionDate": "2022-12-25 01:42:09"
   },
   {
     "account": "UK Bills",
@@ -5167,7 +5167,7 @@
     "currency": "GBP",
     "amount": 72.3,
     "status": "BOOKED",
-    "transactionDate": "2020-12-22 23:25:16"
+    "transactionDate": "2022-12-22 23:25:16"
   },
   {
     "account": "UK Bills",
@@ -5177,7 +5177,7 @@
     "currency": "GBP",
     "amount": -362.18,
     "status": "BOOKED",
-    "transactionDate": "2020-12-21 18:52:24"
+    "transactionDate": "2022-12-21 18:52:24"
   },
   {
     "account": "UK Bills",
@@ -5187,7 +5187,7 @@
     "currency": "GBP",
     "amount": 414.97,
     "status": "BOOKED",
-    "transactionDate": "2020-12-21 09:19:40"
+    "transactionDate": "2022-12-21 09:19:40"
   },
   {
     "account": "UK Bills",
@@ -5197,7 +5197,7 @@
     "currency": "GBP",
     "amount": 267.03,
     "status": "BOOKED",
-    "transactionDate": "2020-12-19 22:06:47"
+    "transactionDate": "2022-12-19 22:06:47"
   },
   {
     "account": "UK Bills",
@@ -5207,7 +5207,7 @@
     "currency": "GBP",
     "amount": -67.53,
     "status": "BOOKED",
-    "transactionDate": "2020-12-18 22:34:34"
+    "transactionDate": "2022-12-18 22:34:34"
   },
   {
     "account": "UK Bills",
@@ -5217,7 +5217,7 @@
     "currency": "GBP",
     "amount": 80.72,
     "status": "BOOKED",
-    "transactionDate": "2020-12-18 18:36:37"
+    "transactionDate": "2022-12-18 18:36:37"
   },
   {
     "account": "UK Bills",
@@ -5227,7 +5227,7 @@
     "currency": "GBP",
     "amount": -105.52,
     "status": "BOOKED",
-    "transactionDate": "2020-12-18 05:51:47"
+    "transactionDate": "2022-12-18 05:51:47"
   },
   {
     "account": "UK Bills",
@@ -5237,7 +5237,7 @@
     "currency": "GBP",
     "amount": 432.7,
     "status": "BOOKED",
-    "transactionDate": "2020-12-16 19:14:58"
+    "transactionDate": "2022-12-16 19:14:58"
   },
   {
     "account": "UK Bills",
@@ -5247,7 +5247,7 @@
     "currency": "GBP",
     "amount": 320.23,
     "status": "BOOKED",
-    "transactionDate": "2020-12-16 08:00:43"
+    "transactionDate": "2022-12-16 08:00:43"
   },
   {
     "account": "UK Bills",
@@ -5257,7 +5257,7 @@
     "currency": "GBP",
     "amount": 481.57,
     "status": "BOOKED",
-    "transactionDate": "2020-12-14 04:28:11"
+    "transactionDate": "2022-12-14 04:28:11"
   },
   {
     "account": "UK Bills",
@@ -5267,7 +5267,7 @@
     "currency": "GBP",
     "amount": -18.55,
     "status": "BOOKED",
-    "transactionDate": "2020-12-12 17:20:31"
+    "transactionDate": "2022-12-12 17:20:31"
   },
   {
     "account": "UK Bills",
@@ -5277,7 +5277,7 @@
     "currency": "GBP",
     "amount": -489.02,
     "status": "BOOKED",
-    "transactionDate": "2020-12-22 12:33:48"
+    "transactionDate": "2022-12-22 12:33:48"
   },
   {
     "account": "UK Bills",
@@ -5287,7 +5287,7 @@
     "currency": "GBP",
     "amount": -417.61,
     "status": "BOOKED",
-    "transactionDate": "2020-12-19 06:16:35"
+    "transactionDate": "2022-12-19 06:16:35"
   },
   {
     "account": "UK Bills",
@@ -5297,7 +5297,7 @@
     "currency": "GBP",
     "amount": 468.73,
     "status": "BOOKED",
-    "transactionDate": "2020-12-11 13:10:20"
+    "transactionDate": "2022-12-11 13:10:20"
   },
   {
     "account": "UK Bills",
@@ -5307,7 +5307,7 @@
     "currency": "GBP",
     "amount": 315.98,
     "status": "BOOKED",
-    "transactionDate": "2020-12-09 14:59:40"
+    "transactionDate": "2022-12-09 14:59:40"
   },
   {
     "account": "UK Bills",
@@ -5317,7 +5317,7 @@
     "currency": "GBP",
     "amount": -116.69,
     "status": "BOOKED",
-    "transactionDate": "2020-12-08 11:15:15"
+    "transactionDate": "2022-12-08 11:15:15"
   },
   {
     "account": "UK Bills",
@@ -5327,7 +5327,7 @@
     "currency": "GBP",
     "amount": -175.01,
     "status": "BOOKED",
-    "transactionDate": "2020-12-08 06:30:37"
+    "transactionDate": "2022-12-08 06:30:37"
   },
   {
     "account": "UK Bills",
@@ -5337,7 +5337,7 @@
     "currency": "GBP",
     "amount": 451.4,
     "status": "BOOKED",
-    "transactionDate": "2020-12-05 21:03:40"
+    "transactionDate": "2022-12-05 21:03:40"
   },
   {
     "account": "UK Bills",
@@ -5347,7 +5347,7 @@
     "currency": "GBP",
     "amount": -13.13,
     "status": "BOOKED",
-    "transactionDate": "2020-12-05 12:11:39"
+    "transactionDate": "2022-12-05 12:11:39"
   },
   {
     "account": "UK Bills",
@@ -5357,7 +5357,7 @@
     "currency": "GBP",
     "amount": -141.6,
     "status": "BOOKED",
-    "transactionDate": "2020-12-01 23:17:03"
+    "transactionDate": "2022-12-01 23:17:03"
   },
   {
     "account": "UK Bills",
@@ -5367,7 +5367,7 @@
     "currency": "GBP",
     "amount": 65.24,
     "status": "BOOKED",
-    "transactionDate": "2020-11-29 21:01:25"
+    "transactionDate": "2022-11-29 21:01:25"
   },
   {
     "account": "UK Bills",
@@ -5377,7 +5377,7 @@
     "currency": "GBP",
     "amount": -368.35,
     "status": "BOOKED",
-    "transactionDate": "2020-11-28 11:57:28"
+    "transactionDate": "2022-11-28 11:57:28"
   },
   {
     "account": "UK Bills",
@@ -5387,7 +5387,7 @@
     "currency": "GBP",
     "amount": 289.19,
     "status": "BOOKED",
-    "transactionDate": "2020-11-25 01:53:01"
+    "transactionDate": "2022-11-25 01:53:01"
   },
   {
     "account": "UK Bills",
@@ -5397,7 +5397,7 @@
     "currency": "GBP",
     "amount": 85.57,
     "status": "BOOKED",
-    "transactionDate": "2020-11-22 03:13:15"
+    "transactionDate": "2022-11-22 03:13:15"
   },
   {
     "account": "UK Bills",
@@ -5407,7 +5407,7 @@
     "currency": "GBP",
     "amount": 191.36,
     "status": "BOOKED",
-    "transactionDate": "2020-11-20 02:48:52"
+    "transactionDate": "2022-11-20 02:48:52"
   },
   {
     "account": "UK Bills",
@@ -5417,7 +5417,7 @@
     "currency": "GBP",
     "amount": -22.23,
     "status": "BOOKED",
-    "transactionDate": "2020-11-19 06:19:09"
+    "transactionDate": "2022-11-19 06:19:09"
   },
   {
     "account": "UK Bills",
@@ -5427,7 +5427,7 @@
     "currency": "GBP",
     "amount": 315.88,
     "status": "BOOKED",
-    "transactionDate": "2020-11-19 03:19:33"
+    "transactionDate": "2022-11-19 03:19:33"
   },
   {
     "account": "UK Bills",
@@ -5437,7 +5437,7 @@
     "currency": "GBP",
     "amount": 376.31,
     "status": "BOOKED",
-    "transactionDate": "2020-11-18 21:30:18"
+    "transactionDate": "2022-11-18 21:30:18"
   },
   {
     "account": "UK Bills",
@@ -5447,7 +5447,7 @@
     "currency": "GBP",
     "amount": -205.41,
     "status": "BOOKED",
-    "transactionDate": "2020-11-18 12:55:01"
+    "transactionDate": "2022-11-18 12:55:01"
   },
   {
     "account": "UK Bills",
@@ -5457,7 +5457,7 @@
     "currency": "GBP",
     "amount": 258.45,
     "status": "BOOKED",
-    "transactionDate": "2020-11-17 22:43:04"
+    "transactionDate": "2022-11-17 22:43:04"
   },
   {
     "account": "UK Bills",
@@ -5467,7 +5467,7 @@
     "currency": "GBP",
     "amount": 392.12,
     "status": "BOOKED",
-    "transactionDate": "2020-11-15 10:39:41"
+    "transactionDate": "2022-11-15 10:39:41"
   },
   {
     "account": "UK Bills",
@@ -5477,7 +5477,7 @@
     "currency": "GBP",
     "amount": 44.34,
     "status": "BOOKED",
-    "transactionDate": "2020-11-14 01:36:18"
+    "transactionDate": "2022-11-14 01:36:18"
   },
   {
     "account": "UK Bills",
@@ -5487,7 +5487,7 @@
     "currency": "GBP",
     "amount": -92.46,
     "status": "BOOKED",
-    "transactionDate": "2020-11-23 05:10:08"
+    "transactionDate": "2022-11-23 05:10:08"
   },
   {
     "account": "UK Bills",
@@ -5497,7 +5497,7 @@
     "currency": "GBP",
     "amount": 319.59,
     "status": "BOOKED",
-    "transactionDate": "2020-11-22 03:07:52"
+    "transactionDate": "2022-11-22 03:07:52"
   },
   {
     "account": "UK Bills",
@@ -5507,7 +5507,7 @@
     "currency": "GBP",
     "amount": 229.49,
     "status": "BOOKED",
-    "transactionDate": "2020-11-21 16:50:47"
+    "transactionDate": "2022-11-21 16:50:47"
   },
   {
     "account": "UK Bills",
@@ -5517,7 +5517,7 @@
     "currency": "GBP",
     "amount": -429.15,
     "status": "BOOKED",
-    "transactionDate": "2020-11-07 19:38:25"
+    "transactionDate": "2022-11-07 19:38:25"
   },
   {
     "account": "UK Bills",
@@ -5527,7 +5527,7 @@
     "currency": "GBP",
     "amount": -92.6,
     "status": "BOOKED",
-    "transactionDate": "2020-11-05 03:54:24"
+    "transactionDate": "2022-11-05 03:54:24"
   },
   {
     "account": "UK Bills",
@@ -5537,7 +5537,7 @@
     "currency": "GBP",
     "amount": -156.45,
     "status": "BOOKED",
-    "transactionDate": "2020-11-03 08:26:50"
+    "transactionDate": "2022-11-03 08:26:50"
   },
   {
     "account": "UK Bills",
@@ -5547,7 +5547,7 @@
     "currency": "GBP",
     "amount": 467.66,
     "status": "BOOKED",
-    "transactionDate": "2020-11-02 00:26:51"
+    "transactionDate": "2022-11-02 00:26:51"
   },
   {
     "account": "UK Bills",
@@ -5557,7 +5557,7 @@
     "currency": "GBP",
     "amount": 127.34,
     "status": "BOOKED",
-    "transactionDate": "2020-10-31 06:46:37"
+    "transactionDate": "2022-10-31 06:46:37"
   },
   {
     "account": "UK Bills",
@@ -5567,7 +5567,7 @@
     "currency": "GBP",
     "amount": 276.57,
     "status": "BOOKED",
-    "transactionDate": "2020-10-27 11:17:52"
+    "transactionDate": "2022-10-27 11:17:52"
   },
   {
     "account": "UK Bills",
@@ -5577,7 +5577,7 @@
     "currency": "GBP",
     "amount": -265.57,
     "status": "BOOKED",
-    "transactionDate": "2020-10-25 12:30:25"
+    "transactionDate": "2022-10-25 12:30:25"
   },
   {
     "account": "UK Bills",
@@ -5587,7 +5587,7 @@
     "currency": "GBP",
     "amount": 34.47,
     "status": "BOOKED",
-    "transactionDate": "2020-10-21 08:45:25"
+    "transactionDate": "2022-10-21 08:45:25"
   },
   {
     "account": "UK Bills",
@@ -5597,7 +5597,7 @@
     "currency": "GBP",
     "amount": -413.55,
     "status": "BOOKED",
-    "transactionDate": "2020-10-21 02:19:37"
+    "transactionDate": "2022-10-21 02:19:37"
   },
   {
     "account": "UK Bills",
@@ -5607,7 +5607,7 @@
     "currency": "GBP",
     "amount": -243.89,
     "status": "BOOKED",
-    "transactionDate": "2020-10-20 03:08:22"
+    "transactionDate": "2022-10-20 03:08:22"
   },
   {
     "account": "UK Bills",
@@ -5617,7 +5617,7 @@
     "currency": "GBP",
     "amount": -327.55,
     "status": "BOOKED",
-    "transactionDate": "2020-10-19 13:55:53"
+    "transactionDate": "2022-10-19 13:55:53"
   },
   {
     "account": "UK Bills",
@@ -5627,7 +5627,7 @@
     "currency": "GBP",
     "amount": -424.69,
     "status": "BOOKED",
-    "transactionDate": "2020-10-18 00:46:49"
+    "transactionDate": "2022-10-18 00:46:49"
   },
   {
     "account": "UK Bills",
@@ -5637,7 +5637,7 @@
     "currency": "GBP",
     "amount": 327.24,
     "status": "BOOKED",
-    "transactionDate": "2020-10-15 14:32:15"
+    "transactionDate": "2022-10-15 14:32:15"
   },
   {
     "account": "UK Bills",
@@ -5647,7 +5647,7 @@
     "currency": "GBP",
     "amount": 134.69,
     "status": "BOOKED",
-    "transactionDate": "2020-10-14 00:02:07"
+    "transactionDate": "2022-10-14 00:02:07"
   },
   {
     "account": "UK Bills",
@@ -5657,7 +5657,7 @@
     "currency": "GBP",
     "amount": 139.55,
     "status": "BOOKED",
-    "transactionDate": "2020-10-11 05:26:46"
+    "transactionDate": "2022-10-11 05:26:46"
   },
   {
     "account": "UK Bills",
@@ -5667,7 +5667,7 @@
     "currency": "GBP",
     "amount": 318.72,
     "status": "BOOKED",
-    "transactionDate": "2020-10-08 22:23:04"
+    "transactionDate": "2022-10-08 22:23:04"
   },
   {
     "account": "UK Bills",
@@ -5677,7 +5677,7 @@
     "currency": "GBP",
     "amount": 135.28,
     "status": "BOOKED",
-    "transactionDate": "2020-09-29 18:33:49"
+    "transactionDate": "2022-09-29 18:33:49"
   },
   {
     "account": "UK Bills",
@@ -5687,7 +5687,7 @@
     "currency": "GBP",
     "amount": 97.07,
     "status": "BOOKED",
-    "transactionDate": "2020-09-29 07:37:33"
+    "transactionDate": "2022-09-29 07:37:33"
   },
   {
     "account": "UK Bills",
@@ -5697,7 +5697,7 @@
     "currency": "GBP",
     "amount": 96.73,
     "status": "BOOKED",
-    "transactionDate": "2020-09-28 23:44:22"
+    "transactionDate": "2022-09-28 23:44:22"
   },
   {
     "account": "UK Bills",
@@ -5707,7 +5707,7 @@
     "currency": "GBP",
     "amount": -109.35,
     "status": "BOOKED",
-    "transactionDate": "2020-09-28 17:04:07"
+    "transactionDate": "2022-09-28 17:04:07"
   },
   {
     "account": "UK Bills",
@@ -5717,7 +5717,7 @@
     "currency": "GBP",
     "amount": -256.53,
     "status": "BOOKED",
-    "transactionDate": "2020-09-28 01:04:42"
+    "transactionDate": "2022-09-28 01:04:42"
   },
   {
     "account": "UK Bills",
@@ -5727,7 +5727,7 @@
     "currency": "GBP",
     "amount": 332.04,
     "status": "BOOKED",
-    "transactionDate": "2020-09-24 12:41:45"
+    "transactionDate": "2022-09-24 12:41:45"
   },
   {
     "account": "UK Bills",
@@ -5737,7 +5737,7 @@
     "currency": "GBP",
     "amount": -114.93,
     "status": "BOOKED",
-    "transactionDate": "2020-09-22 20:59:17"
+    "transactionDate": "2022-09-22 20:59:17"
   },
   {
     "account": "UK Bills",
@@ -5747,7 +5747,7 @@
     "currency": "GBP",
     "amount": -320.34,
     "status": "BOOKED",
-    "transactionDate": "2020-09-22 06:06:10"
+    "transactionDate": "2022-09-22 06:06:10"
   },
   {
     "account": "UK Bills",
@@ -5757,7 +5757,7 @@
     "currency": "GBP",
     "amount": 459.74,
     "status": "BOOKED",
-    "transactionDate": "2020-09-21 20:23:28"
+    "transactionDate": "2022-09-21 20:23:28"
   },
   {
     "account": "UK Bills",
@@ -5767,7 +5767,7 @@
     "currency": "GBP",
     "amount": -49.71,
     "status": "BOOKED",
-    "transactionDate": "2020-09-21 16:27:43"
+    "transactionDate": "2022-09-21 16:27:43"
   },
   {
     "account": "UK Bills",
@@ -5777,7 +5777,7 @@
     "currency": "GBP",
     "amount": -132.53,
     "status": "BOOKED",
-    "transactionDate": "2020-09-21 06:35:04"
+    "transactionDate": "2022-09-21 06:35:04"
   },
   {
     "account": "UK Bills",
@@ -5787,7 +5787,7 @@
     "currency": "GBP",
     "amount": -335.76,
     "status": "BOOKED",
-    "transactionDate": "2020-09-17 15:47:32"
+    "transactionDate": "2022-09-17 15:47:32"
   },
   {
     "account": "UK Bills",
@@ -5797,7 +5797,7 @@
     "currency": "GBP",
     "amount": -90.69,
     "status": "BOOKED",
-    "transactionDate": "2020-09-16 15:37:11"
+    "transactionDate": "2022-09-16 15:37:11"
   },
   {
     "account": "UK Bills",
@@ -5807,7 +5807,7 @@
     "currency": "GBP",
     "amount": 396.3,
     "status": "BOOKED",
-    "transactionDate": "2020-09-15 15:34:54"
+    "transactionDate": "2022-09-15 15:34:54"
   },
   {
     "account": "UK Bills",
@@ -5817,7 +5817,7 @@
     "currency": "GBP",
     "amount": 131.99,
     "status": "BOOKED",
-    "transactionDate": "2020-09-15 01:17:56"
+    "transactionDate": "2022-09-15 01:17:56"
   },
   {
     "account": "UK Bills",
@@ -5827,7 +5827,7 @@
     "currency": "GBP",
     "amount": 410.19,
     "status": "BOOKED",
-    "transactionDate": "2020-09-13 13:06:10"
+    "transactionDate": "2022-09-13 13:06:10"
   },
   {
     "account": "UK Bills",
@@ -5837,7 +5837,7 @@
     "currency": "GBP",
     "amount": -102.08,
     "status": "BOOKED",
-    "transactionDate": "2020-09-11 14:47:33"
+    "transactionDate": "2022-09-11 14:47:33"
   },
   {
     "account": "UK Bills",
@@ -5847,7 +5847,7 @@
     "currency": "GBP",
     "amount": 379.2,
     "status": "BOOKED",
-    "transactionDate": "2020-09-11 09:51:04"
+    "transactionDate": "2022-09-11 09:51:04"
   },
   {
     "account": "UK Bills",
@@ -5857,7 +5857,7 @@
     "currency": "GBP",
     "amount": -10.59,
     "status": "BOOKED",
-    "transactionDate": "2020-09-09 14:49:47"
+    "transactionDate": "2022-09-09 14:49:47"
   },
   {
     "account": "UK Bills",
@@ -5867,7 +5867,7 @@
     "currency": "GBP",
     "amount": -127.42,
     "status": "BOOKED",
-    "transactionDate": "2020-09-08 20:30:32"
+    "transactionDate": "2022-09-08 20:30:32"
   },
   {
     "account": "UK Bills",
@@ -5877,7 +5877,7 @@
     "currency": "GBP",
     "amount": -325.06,
     "status": "BOOKED",
-    "transactionDate": "2020-09-05 15:45:15"
+    "transactionDate": "2022-09-05 15:45:15"
   },
   {
     "account": "UK Bills",
@@ -5887,7 +5887,7 @@
     "currency": "GBP",
     "amount": 240.43,
     "status": "BOOKED",
-    "transactionDate": "2020-09-05 07:28:43"
+    "transactionDate": "2022-09-05 07:28:43"
   },
   {
     "account": "UK Bills",
@@ -5897,7 +5897,7 @@
     "currency": "GBP",
     "amount": -472.21,
     "status": "BOOKED",
-    "transactionDate": "2020-09-04 07:17:19"
+    "transactionDate": "2022-09-04 07:17:19"
   },
   {
     "account": "UK Bills",
@@ -5907,7 +5907,7 @@
     "currency": "GBP",
     "amount": 432.19,
     "status": "BOOKED",
-    "transactionDate": "2020-09-03 20:49:08"
+    "transactionDate": "2022-09-03 20:49:08"
   },
   {
     "account": "UK Bills",
@@ -5917,7 +5917,7 @@
     "currency": "GBP",
     "amount": 179.57,
     "status": "BOOKED",
-    "transactionDate": "2020-09-03 14:19:57"
+    "transactionDate": "2022-09-03 14:19:57"
   },
   {
     "account": "UK Bills",
@@ -5927,7 +5927,7 @@
     "currency": "GBP",
     "amount": 161.02,
     "status": "BOOKED",
-    "transactionDate": "2020-09-02 10:07:32"
+    "transactionDate": "2022-09-02 10:07:32"
   },
   {
     "account": "UK Bills",
@@ -5937,7 +5937,7 @@
     "currency": "GBP",
     "amount": 244.87,
     "status": "BOOKED",
-    "transactionDate": "2020-09-01 20:21:42"
+    "transactionDate": "2022-09-01 20:21:42"
   },
   {
     "account": "UK Bills",
@@ -5947,7 +5947,7 @@
     "currency": "GBP",
     "amount": -122.01,
     "status": "BOOKED",
-    "transactionDate": "2020-08-31 00:30:05"
+    "transactionDate": "2022-08-31 00:30:05"
   },
   {
     "account": "UK Bills",
@@ -5957,7 +5957,7 @@
     "currency": "GBP",
     "amount": 38.94,
     "status": "BOOKED",
-    "transactionDate": "2020-08-28 23:18:02"
+    "transactionDate": "2022-08-28 23:18:02"
   },
   {
     "account": "UK Bills",
@@ -5967,7 +5967,7 @@
     "currency": "GBP",
     "amount": 377.39,
     "status": "BOOKED",
-    "transactionDate": "2020-08-28 18:13:03"
+    "transactionDate": "2022-08-28 18:13:03"
   },
   {
     "account": "UK Bills",
@@ -5977,7 +5977,7 @@
     "currency": "GBP",
     "amount": 320.41,
     "status": "BOOKED",
-    "transactionDate": "2020-08-28 03:09:39"
+    "transactionDate": "2022-08-28 03:09:39"
   },
   {
     "account": "UK Bills",
@@ -5987,7 +5987,7 @@
     "currency": "GBP",
     "amount": 213.69,
     "status": "BOOKED",
-    "transactionDate": "2020-08-25 20:52:08"
+    "transactionDate": "2022-08-25 20:52:08"
   },
   {
     "account": "UK Bills",
@@ -5997,7 +5997,7 @@
     "currency": "GBP",
     "amount": -445.16,
     "status": "BOOKED",
-    "transactionDate": "2020-08-25 16:09:51"
+    "transactionDate": "2022-08-25 16:09:51"
   },
   {
     "account": "UK Bills",
@@ -6007,7 +6007,7 @@
     "currency": "GBP",
     "amount": 327.77,
     "status": "BOOKED",
-    "transactionDate": "2020-08-24 22:38:47"
+    "transactionDate": "2022-08-24 22:38:47"
   },
   {
     "account": "UK Bills",
@@ -6017,7 +6017,7 @@
     "currency": "GBP",
     "amount": -174.87,
     "status": "BOOKED",
-    "transactionDate": "2020-08-24 18:20:29"
+    "transactionDate": "2022-08-24 18:20:29"
   },
   {
     "account": "UK Bills",
@@ -6027,7 +6027,7 @@
     "currency": "GBP",
     "amount": 147.91,
     "status": "BOOKED",
-    "transactionDate": "2020-08-24 14:25:06"
+    "transactionDate": "2022-08-24 14:25:06"
   },
   {
     "account": "UK Bills",
@@ -6037,7 +6037,7 @@
     "currency": "GBP",
     "amount": 45.47,
     "status": "BOOKED",
-    "transactionDate": "2020-08-19 23:21:35"
+    "transactionDate": "2022-08-19 23:21:35"
   },
   {
     "account": "UK Bills",
@@ -6047,7 +6047,7 @@
     "currency": "GBP",
     "amount": -234.02,
     "status": "BOOKED",
-    "transactionDate": "2020-08-18 22:09:13"
+    "transactionDate": "2022-08-18 22:09:13"
   },
   {
     "account": "UK Bills",
@@ -6057,7 +6057,7 @@
     "currency": "GBP",
     "amount": 29.85,
     "status": "BOOKED",
-    "transactionDate": "2020-08-18 02:17:31"
+    "transactionDate": "2022-08-18 02:17:31"
   },
   {
     "account": "UK Bills",
@@ -6067,7 +6067,7 @@
     "currency": "GBP",
     "amount": 338.08,
     "status": "BOOKED",
-    "transactionDate": "2020-08-17 19:04:40"
+    "transactionDate": "2022-08-17 19:04:40"
   },
   {
     "account": "UK Bills",
@@ -6077,7 +6077,7 @@
     "currency": "GBP",
     "amount": 346.71,
     "status": "BOOKED",
-    "transactionDate": "2020-08-17 11:14:28"
+    "transactionDate": "2022-08-17 11:14:28"
   },
   {
     "account": "UK Bills",
@@ -6087,7 +6087,7 @@
     "currency": "GBP",
     "amount": 474.21,
     "status": "BOOKED",
-    "transactionDate": "2020-08-17 05:08:57"
+    "transactionDate": "2022-08-17 05:08:57"
   },
   {
     "account": "UK Bills",
@@ -6097,7 +6097,7 @@
     "currency": "GBP",
     "amount": 417.76,
     "status": "BOOKED",
-    "transactionDate": "2020-08-15 18:30:03"
+    "transactionDate": "2022-08-15 18:30:03"
   },
   {
     "account": "UK Bills",
@@ -6107,7 +6107,7 @@
     "currency": "GBP",
     "amount": 181.83,
     "status": "BOOKED",
-    "transactionDate": "2020-08-13 22:46:41"
+    "transactionDate": "2022-08-13 22:46:41"
   },
   {
     "account": "UK Bills",
@@ -6117,7 +6117,7 @@
     "currency": "GBP",
     "amount": 157.4,
     "status": "BOOKED",
-    "transactionDate": "2020-08-12 15:25:27"
+    "transactionDate": "2022-08-12 15:25:27"
   },
   {
     "account": "UK Bills",
@@ -6127,7 +6127,7 @@
     "currency": "GBP",
     "amount": -141.16,
     "status": "BOOKED",
-    "transactionDate": "2020-08-09 20:56:25"
+    "transactionDate": "2022-08-09 20:56:25"
   },
   {
     "account": "UK Bills",
@@ -6137,7 +6137,7 @@
     "currency": "GBP",
     "amount": 127.13,
     "status": "BOOKED",
-    "transactionDate": "2020-08-08 13:47:04"
+    "transactionDate": "2022-08-08 13:47:04"
   },
   {
     "account": "UK Bills",
@@ -6147,7 +6147,7 @@
     "currency": "GBP",
     "amount": -314.56,
     "status": "BOOKED",
-    "transactionDate": "2020-08-05 16:58:00"
+    "transactionDate": "2022-08-05 16:58:00"
   },
   {
     "account": "UK Bills",
@@ -6157,7 +6157,7 @@
     "currency": "GBP",
     "amount": -366.78,
     "status": "BOOKED",
-    "transactionDate": "2020-08-05 06:36:45"
+    "transactionDate": "2022-08-05 06:36:45"
   },
   {
     "account": "UK Bills",
@@ -6167,7 +6167,7 @@
     "currency": "GBP",
     "amount": -197.26,
     "status": "BOOKED",
-    "transactionDate": "2020-08-05 02:09:25"
+    "transactionDate": "2022-08-05 02:09:25"
   },
   {
     "account": "UK Bills",
@@ -6177,7 +6177,7 @@
     "currency": "GBP",
     "amount": 478.76,
     "status": "BOOKED",
-    "transactionDate": "2020-08-03 22:07:51"
+    "transactionDate": "2022-08-03 22:07:51"
   },
   {
     "account": "UK Bills",
@@ -6187,7 +6187,7 @@
     "currency": "GBP",
     "amount": -418.06,
     "status": "BOOKED",
-    "transactionDate": "2020-08-02 20:20:05"
+    "transactionDate": "2022-08-02 20:20:05"
   },
   {
     "account": "UK Bills",
@@ -6197,7 +6197,7 @@
     "currency": "GBP",
     "amount": -74.55,
     "status": "BOOKED",
-    "transactionDate": "2020-08-02 04:19:20"
+    "transactionDate": "2022-08-02 04:19:20"
   },
   {
     "account": "UK Bills",
@@ -6207,7 +6207,7 @@
     "currency": "GBP",
     "amount": -116.83,
     "status": "BOOKED",
-    "transactionDate": "2020-08-01 22:28:34"
+    "transactionDate": "2022-08-01 22:28:34"
   },
   {
     "account": "UK Bills",
@@ -6217,7 +6217,7 @@
     "currency": "GBP",
     "amount": -333.23,
     "status": "BOOKED",
-    "transactionDate": "2020-08-01 16:00:23"
+    "transactionDate": "2022-08-01 16:00:23"
   },
   {
     "account": "UK Bills",
@@ -6227,7 +6227,7 @@
     "currency": "GBP",
     "amount": -50.51,
     "status": "BOOKED",
-    "transactionDate": "2020-07-30 21:22:35"
+    "transactionDate": "2022-07-30 21:22:35"
   },
   {
     "account": "UK Bills",
@@ -6237,7 +6237,7 @@
     "currency": "GBP",
     "amount": 80.16,
     "status": "BOOKED",
-    "transactionDate": "2020-07-25 23:59:13"
+    "transactionDate": "2022-07-25 23:59:13"
   },
   {
     "account": "UK Bills",
@@ -6247,7 +6247,7 @@
     "currency": "GBP",
     "amount": 418.5,
     "status": "BOOKED",
-    "transactionDate": "2020-07-23 01:55:24"
+    "transactionDate": "2022-07-23 01:55:24"
   },
   {
     "account": "UK Bills",
@@ -6257,7 +6257,7 @@
     "currency": "GBP",
     "amount": -404.92,
     "status": "BOOKED",
-    "transactionDate": "2020-07-22 14:15:17"
+    "transactionDate": "2022-07-22 14:15:17"
   },
   {
     "account": "UK Bills",
@@ -6267,7 +6267,7 @@
     "currency": "GBP",
     "amount": 67.63,
     "status": "BOOKED",
-    "transactionDate": "2020-07-20 06:13:00"
+    "transactionDate": "2022-07-20 06:13:00"
   },
   {
     "account": "UK Bills",
@@ -6277,7 +6277,7 @@
     "currency": "GBP",
     "amount": 459.41,
     "status": "BOOKED",
-    "transactionDate": "2020-07-19 20:34:45"
+    "transactionDate": "2022-07-19 20:34:45"
   },
   {
     "account": "UK Bills",
@@ -6287,7 +6287,7 @@
     "currency": "GBP",
     "amount": -356.11,
     "status": "BOOKED",
-    "transactionDate": "2020-07-16 11:33:45"
+    "transactionDate": "2022-07-16 11:33:45"
   },
   {
     "account": "UK Bills",
@@ -6297,7 +6297,7 @@
     "currency": "GBP",
     "amount": -298.57,
     "status": "BOOKED",
-    "transactionDate": "2020-07-15 18:07:43"
+    "transactionDate": "2022-07-15 18:07:43"
   },
   {
     "account": "UK Bills",
@@ -6307,7 +6307,7 @@
     "currency": "GBP",
     "amount": 275.7,
     "status": "BOOKED",
-    "transactionDate": "2020-07-14 11:52:45"
+    "transactionDate": "2022-07-14 11:52:45"
   },
   {
     "account": "UK Bills",
@@ -6317,7 +6317,7 @@
     "currency": "GBP",
     "amount": -312.05,
     "status": "BOOKED",
-    "transactionDate": "2020-07-13 00:29:32"
+    "transactionDate": "2022-07-13 00:29:32"
   },
   {
     "account": "UK Bills",
@@ -6327,7 +6327,7 @@
     "currency": "GBP",
     "amount": -60.67,
     "status": "BOOKED",
-    "transactionDate": "2020-07-04 18:37:04"
+    "transactionDate": "2022-07-04 18:37:04"
   },
   {
     "account": "UK Bills",
@@ -6337,7 +6337,7 @@
     "currency": "GBP",
     "amount": 116.28,
     "status": "BOOKED",
-    "transactionDate": "2020-06-30 05:37:32"
+    "transactionDate": "2022-06-30 05:37:32"
   },
   {
     "account": "UK Bills",
@@ -6347,7 +6347,7 @@
     "currency": "GBP",
     "amount": 434.34,
     "status": "BOOKED",
-    "transactionDate": "2020-06-29 02:28:51"
+    "transactionDate": "2022-06-29 02:28:51"
   },
   {
     "account": "UK Bills",
@@ -6357,7 +6357,7 @@
     "currency": "GBP",
     "amount": 236.36,
     "status": "BOOKED",
-    "transactionDate": "2020-06-26 15:30:13"
+    "transactionDate": "2022-06-26 15:30:13"
   },
   {
     "account": "UK Bills",
@@ -6367,7 +6367,7 @@
     "currency": "GBP",
     "amount": 434.18,
     "status": "BOOKED",
-    "transactionDate": "2020-06-25 18:15:13"
+    "transactionDate": "2022-06-25 18:15:13"
   },
   {
     "account": "UK Bills",
@@ -6377,7 +6377,7 @@
     "currency": "GBP",
     "amount": -465.1,
     "status": "BOOKED",
-    "transactionDate": "2020-06-24 03:27:27"
+    "transactionDate": "2022-06-24 03:27:27"
   },
   {
     "account": "UK Bills",
@@ -6387,7 +6387,7 @@
     "currency": "GBP",
     "amount": 252.16,
     "status": "BOOKED",
-    "transactionDate": "2020-06-22 10:29:22"
+    "transactionDate": "2022-06-22 10:29:22"
   },
   {
     "account": "UK Bills",
@@ -6397,7 +6397,7 @@
     "currency": "GBP",
     "amount": -194.74,
     "status": "BOOKED",
-    "transactionDate": "2020-06-21 10:17:54"
+    "transactionDate": "2022-06-21 10:17:54"
   },
   {
     "account": "UK Bills",
@@ -6407,7 +6407,7 @@
     "currency": "GBP",
     "amount": 121.43,
     "status": "BOOKED",
-    "transactionDate": "2020-07-12 22:27:43"
+    "transactionDate": "2022-07-12 22:27:43"
   },
   {
     "account": "UK Bills",
@@ -6417,7 +6417,7 @@
     "currency": "GBP",
     "amount": 208.36,
     "status": "BOOKED",
-    "transactionDate": "2020-06-21 09:52:49"
+    "transactionDate": "2022-06-21 09:52:49"
   },
   {
     "account": "UK Bills",
@@ -6427,7 +6427,7 @@
     "currency": "GBP",
     "amount": 220.45,
     "status": "BOOKED",
-    "transactionDate": "2020-06-21 06:29:34"
+    "transactionDate": "2022-06-21 06:29:34"
   },
   {
     "account": "UK Bills",
@@ -6437,7 +6437,7 @@
     "currency": "GBP",
     "amount": -245.37,
     "status": "BOOKED",
-    "transactionDate": "2020-06-17 16:43:31"
+    "transactionDate": "2022-06-17 16:43:31"
   },
   {
     "account": "UK Bills",
@@ -6447,7 +6447,7 @@
     "currency": "GBP",
     "amount": -367.48,
     "status": "BOOKED",
-    "transactionDate": "2020-06-14 10:08:24"
+    "transactionDate": "2022-06-14 10:08:24"
   },
   {
     "account": "UK Bills",
@@ -6457,7 +6457,7 @@
     "currency": "GBP",
     "amount": 11.65,
     "status": "BOOKED",
-    "transactionDate": "2020-06-12 10:27:21"
+    "transactionDate": "2022-06-12 10:27:21"
   },
   {
     "account": "UK Bills",
@@ -6467,7 +6467,7 @@
     "currency": "GBP",
     "amount": -293.52,
     "status": "BOOKED",
-    "transactionDate": "2020-06-10 19:25:20"
+    "transactionDate": "2022-06-10 19:25:20"
   },
   {
     "account": "UK Bills",
@@ -6477,7 +6477,7 @@
     "currency": "GBP",
     "amount": -123.88,
     "status": "BOOKED",
-    "transactionDate": "2020-06-08 17:44:36"
+    "transactionDate": "2022-06-08 17:44:36"
   },
   {
     "account": "UK Bills",
@@ -6487,7 +6487,7 @@
     "currency": "GBP",
     "amount": -434.94,
     "status": "BOOKED",
-    "transactionDate": "2020-06-08 12:40:50"
+    "transactionDate": "2022-06-08 12:40:50"
   },
   {
     "account": "UK Bills",
@@ -6497,7 +6497,7 @@
     "currency": "GBP",
     "amount": -94,
     "status": "BOOKED",
-    "transactionDate": "2020-06-08 04:33:15"
+    "transactionDate": "2022-06-08 04:33:15"
   },
   {
     "account": "UK Bills",
@@ -6507,7 +6507,7 @@
     "currency": "GBP",
     "amount": 231.7,
     "status": "BOOKED",
-    "transactionDate": "2020-06-07 18:24:59"
+    "transactionDate": "2022-06-07 18:24:59"
   },
   {
     "account": "UK Bills",
@@ -6517,7 +6517,7 @@
     "currency": "GBP",
     "amount": -212.52,
     "status": "BOOKED",
-    "transactionDate": "2020-06-07 02:13:49"
+    "transactionDate": "2022-06-07 02:13:49"
   },
   {
     "account": "UK Bills",
@@ -6527,7 +6527,7 @@
     "currency": "GBP",
     "amount": 221.32,
     "status": "BOOKED",
-    "transactionDate": "2020-06-07 00:16:17"
+    "transactionDate": "2022-06-07 00:16:17"
   },
   {
     "account": "UK Bills",
@@ -6537,7 +6537,7 @@
     "currency": "GBP",
     "amount": 47.93,
     "status": "BOOKED",
-    "transactionDate": "2020-06-05 22:30:30"
+    "transactionDate": "2022-06-05 22:30:30"
   },
   {
     "account": "UK Bills",
@@ -6547,7 +6547,7 @@
     "currency": "GBP",
     "amount": 74.91,
     "status": "BOOKED",
-    "transactionDate": "2020-06-05 03:26:52"
+    "transactionDate": "2022-06-05 03:26:52"
   },
   {
     "account": "UK Bills",
@@ -6557,7 +6557,7 @@
     "currency": "GBP",
     "amount": -295.27,
     "status": "BOOKED",
-    "transactionDate": "2020-06-04 18:07:43"
+    "transactionDate": "2022-06-04 18:07:43"
   },
   {
     "account": "UK Bills",
@@ -6567,7 +6567,7 @@
     "currency": "GBP",
     "amount": -51.77,
     "status": "BOOKED",
-    "transactionDate": "2020-06-04 11:09:07"
+    "transactionDate": "2022-06-04 11:09:07"
   },
   {
     "account": "UK Bills",
@@ -6577,7 +6577,7 @@
     "currency": "GBP",
     "amount": -405.46,
     "status": "BOOKED",
-    "transactionDate": "2020-06-02 17:29:21"
+    "transactionDate": "2022-06-02 17:29:21"
   },
   {
     "account": "UK Bills",
@@ -6587,7 +6587,7 @@
     "currency": "GBP",
     "amount": 113.67,
     "status": "BOOKED",
-    "transactionDate": "2020-06-02 17:22:31"
+    "transactionDate": "2022-06-02 17:22:31"
   },
   {
     "account": "UK Bills",
@@ -6597,7 +6597,7 @@
     "currency": "GBP",
     "amount": -67.82,
     "status": "BOOKED",
-    "transactionDate": "2020-06-02 13:28:15"
+    "transactionDate": "2022-06-02 13:28:15"
   },
   {
     "account": "UK Bills",
@@ -6607,7 +6607,7 @@
     "currency": "GBP",
     "amount": 83.11,
     "status": "BOOKED",
-    "transactionDate": "2020-05-31 05:35:48"
+    "transactionDate": "2022-05-31 05:35:48"
   },
   {
     "account": "UK Bills",
@@ -6617,7 +6617,7 @@
     "currency": "GBP",
     "amount": -150.32,
     "status": "BOOKED",
-    "transactionDate": "2020-05-31 01:37:58"
+    "transactionDate": "2022-05-31 01:37:58"
   },
   {
     "account": "UK Bills",
@@ -6627,7 +6627,7 @@
     "currency": "GBP",
     "amount": -237.86,
     "status": "BOOKED",
-    "transactionDate": "2020-05-26 12:10:00"
+    "transactionDate": "2022-05-26 12:10:00"
   },
   {
     "account": "UK Bills",
@@ -6637,7 +6637,7 @@
     "currency": "GBP",
     "amount": 261.1,
     "status": "BOOKED",
-    "transactionDate": "2020-05-22 02:15:58"
+    "transactionDate": "2022-05-22 02:15:58"
   },
   {
     "account": "UK Bills",
@@ -6647,7 +6647,7 @@
     "currency": "GBP",
     "amount": 238.29,
     "status": "BOOKED",
-    "transactionDate": "2020-05-16 20:15:14"
+    "transactionDate": "2022-05-16 20:15:14"
   },
   {
     "account": "UK Bills",
@@ -6657,7 +6657,7 @@
     "currency": "GBP",
     "amount": -91.75,
     "status": "BOOKED",
-    "transactionDate": "2020-05-15 16:50:50"
+    "transactionDate": "2022-05-15 16:50:50"
   },
   {
     "account": "UK Bills",
@@ -6667,7 +6667,7 @@
     "currency": "GBP",
     "amount": -44.03,
     "status": "BOOKED",
-    "transactionDate": "2020-05-15 01:38:18"
+    "transactionDate": "2022-05-15 01:38:18"
   },
   {
     "account": "UK Bills",
@@ -6677,7 +6677,7 @@
     "currency": "GBP",
     "amount": -126.97,
     "status": "BOOKED",
-    "transactionDate": "2020-05-10 19:05:06"
+    "transactionDate": "2022-05-10 19:05:06"
   },
   {
     "account": "UK Bills",
@@ -6687,7 +6687,7 @@
     "currency": "GBP",
     "amount": -344.86,
     "status": "BOOKED",
-    "transactionDate": "2020-05-09 16:18:16"
+    "transactionDate": "2022-05-09 16:18:16"
   },
   {
     "account": "UK Bills",
@@ -6697,7 +6697,7 @@
     "currency": "GBP",
     "amount": 192.97,
     "status": "BOOKED",
-    "transactionDate": "2020-05-09 06:03:45"
+    "transactionDate": "2022-05-09 06:03:45"
   },
   {
     "account": "UK Bills",
@@ -6707,7 +6707,7 @@
     "currency": "GBP",
     "amount": -82.91,
     "status": "BOOKED",
-    "transactionDate": "2020-05-08 14:28:33"
+    "transactionDate": "2022-05-08 14:28:33"
   },
   {
     "account": "UK Bills",
@@ -6717,7 +6717,7 @@
     "currency": "GBP",
     "amount": 159.91,
     "status": "BOOKED",
-    "transactionDate": "2020-05-07 18:25:37"
+    "transactionDate": "2022-05-07 18:25:37"
   },
   {
     "account": "UK Bills",
@@ -6727,7 +6727,7 @@
     "currency": "GBP",
     "amount": -441.17,
     "status": "BOOKED",
-    "transactionDate": "2020-05-07 08:13:18"
+    "transactionDate": "2022-05-07 08:13:18"
   },
   {
     "account": "UK Bills",
@@ -6737,7 +6737,7 @@
     "currency": "GBP",
     "amount": -40.33,
     "status": "BOOKED",
-    "transactionDate": "2020-04-30 13:25:00"
+    "transactionDate": "2022-04-30 13:25:00"
   },
   {
     "account": "UK Bills",
@@ -6747,7 +6747,7 @@
     "currency": "GBP",
     "amount": -425.56,
     "status": "BOOKED",
-    "transactionDate": "2020-04-23 21:30:08"
+    "transactionDate": "2022-04-23 21:30:08"
   },
   {
     "account": "UK Bills",
@@ -6757,7 +6757,7 @@
     "currency": "GBP",
     "amount": -337.29,
     "status": "BOOKED",
-    "transactionDate": "2020-04-20 08:08:44"
+    "transactionDate": "2022-04-20 08:08:44"
   },
   {
     "account": "UK Bills",
@@ -6767,7 +6767,7 @@
     "currency": "GBP",
     "amount": -240.87,
     "status": "BOOKED",
-    "transactionDate": "2020-04-18 22:53:08"
+    "transactionDate": "2022-04-18 22:53:08"
   },
   {
     "account": "UK Bills",
@@ -6777,7 +6777,7 @@
     "currency": "GBP",
     "amount": 432.82,
     "status": "BOOKED",
-    "transactionDate": "2020-04-18 22:31:35"
+    "transactionDate": "2022-04-18 22:31:35"
   },
   {
     "account": "UK Bills",
@@ -6787,7 +6787,7 @@
     "currency": "GBP",
     "amount": -30.3,
     "status": "BOOKED",
-    "transactionDate": "2020-04-15 06:19:48"
+    "transactionDate": "2022-04-15 06:19:48"
   },
   {
     "account": "UK Bills",
@@ -6797,7 +6797,7 @@
     "currency": "GBP",
     "amount": -227.16,
     "status": "BOOKED",
-    "transactionDate": "2020-04-14 23:22:48"
+    "transactionDate": "2022-04-14 23:22:48"
   },
   {
     "account": "UK Bills",
@@ -6807,7 +6807,7 @@
     "currency": "GBP",
     "amount": 269.74,
     "status": "BOOKED",
-    "transactionDate": "2020-04-13 01:14:27"
+    "transactionDate": "2022-04-13 01:14:27"
   },
   {
     "account": "UK Bills",
@@ -6817,7 +6817,7 @@
     "currency": "GBP",
     "amount": -96.8,
     "status": "BOOKED",
-    "transactionDate": "2020-04-10 07:53:08"
+    "transactionDate": "2022-04-10 07:53:08"
   },
   {
     "account": "UK Bills",
@@ -6827,7 +6827,7 @@
     "currency": "GBP",
     "amount": 187.36,
     "status": "BOOKED",
-    "transactionDate": "2020-04-09 17:17:33"
+    "transactionDate": "2022-04-09 17:17:33"
   },
   {
     "account": "UK Bills",
@@ -6837,7 +6837,7 @@
     "currency": "GBP",
     "amount": 423.26,
     "status": "BOOKED",
-    "transactionDate": "2020-04-02 22:31:45"
+    "transactionDate": "2022-04-02 22:31:45"
   },
   {
     "account": "UK Bills",
@@ -6847,7 +6847,7 @@
     "currency": "GBP",
     "amount": 371.06,
     "status": "BOOKED",
-    "transactionDate": "2020-04-02 02:45:30"
+    "transactionDate": "2022-04-02 02:45:30"
   },
   {
     "account": "UK Bills",
@@ -6857,7 +6857,7 @@
     "currency": "GBP",
     "amount": 179.88,
     "status": "BOOKED",
-    "transactionDate": "2020-03-28 12:14:23"
+    "transactionDate": "2022-03-28 12:14:23"
   },
   {
     "account": "UK Bills",
@@ -6867,7 +6867,7 @@
     "currency": "GBP",
     "amount": -307.83,
     "status": "BOOKED",
-    "transactionDate": "2020-03-12 19:30:52"
+    "transactionDate": "2022-03-12 19:30:52"
   },
   {
     "account": "UK Bills",
@@ -6877,7 +6877,7 @@
     "currency": "GBP",
     "amount": 279.75,
     "status": "BOOKED",
-    "transactionDate": "2020-03-11 19:33:56"
+    "transactionDate": "2022-03-11 19:33:56"
   },
   {
     "account": "UK Bills",
@@ -6887,7 +6887,7 @@
     "currency": "GBP",
     "amount": -325.65,
     "status": "BOOKED",
-    "transactionDate": "2020-03-06 00:21:59"
+    "transactionDate": "2022-03-06 00:21:59"
   },
   {
     "account": "Household",
@@ -6897,7 +6897,7 @@
     "currency": "GBP",
     "amount": 53.71,
     "status": "BOOKED",
-    "transactionDate": "2020-04-19 15:54:45"
+    "transactionDate": "2022-04-19 15:54:45"
   },
   {
     "account": "Household",
@@ -6907,7 +6907,7 @@
     "currency": "GBP",
     "amount": -20.14,
     "status": "BOOKED",
-    "transactionDate": "2020-03-15 22:24:31"
+    "transactionDate": "2022-03-15 22:24:31"
   },
   {
     "account": "FR Bills",
@@ -6917,7 +6917,7 @@
     "currency": "EUR",
     "amount": 397.12,
     "status": "BOOKED",
-    "transactionDate": "2021-02-14 20:56:49"
+    "transactionDate": "2023-02-14 20:56:49"
   },
   {
     "account": "FR Bills",
@@ -6927,7 +6927,7 @@
     "currency": "EUR",
     "amount": 231.44,
     "status": "BOOKED",
-    "transactionDate": "2021-01-27 20:41:26"
+    "transactionDate": "2023-01-27 20:41:26"
   },
   {
     "account": "FR Bills",
@@ -6937,7 +6937,7 @@
     "currency": "EUR",
     "amount": -101.51,
     "status": "BOOKED",
-    "transactionDate": "2020-12-06 18:29:19"
+    "transactionDate": "2022-12-06 18:29:19"
   },
   {
     "account": "FR Bills",
@@ -6947,7 +6947,7 @@
     "currency": "EUR",
     "amount": -418.74,
     "status": "BOOKED",
-    "transactionDate": "2020-10-16 01:32:34"
+    "transactionDate": "2022-10-16 01:32:34"
   },
   {
     "account": "FR Bills",
@@ -6957,7 +6957,7 @@
     "currency": "EUR",
     "amount": 341.64,
     "status": "BOOKED",
-    "transactionDate": "2020-10-11 03:13:12"
+    "transactionDate": "2022-10-11 03:13:12"
   },
   {
     "account": "FR Bills",
@@ -6967,7 +6967,7 @@
     "currency": "EUR",
     "amount": 175.87,
     "status": "BOOKED",
-    "transactionDate": "2020-09-16 09:56:22"
+    "transactionDate": "2022-09-16 09:56:22"
   },
   {
     "account": "FR Bills",
@@ -6977,7 +6977,7 @@
     "currency": "EUR",
     "amount": 402.2,
     "status": "BOOKED",
-    "transactionDate": "2020-07-17 19:56:42"
+    "transactionDate": "2022-07-17 19:56:42"
   },
   {
     "account": "FR Bills",
@@ -6987,7 +6987,7 @@
     "currency": "EUR",
     "amount": 446.66,
     "status": "BOOKED",
-    "transactionDate": "2020-04-16 08:04:07"
+    "transactionDate": "2022-04-16 08:04:07"
   },
   {
     "account": "FR Bills",
@@ -6997,7 +6997,7 @@
     "currency": "EUR",
     "amount": 292.87,
     "status": "BOOKED",
-    "transactionDate": "2020-03-19 18:30:52"
+    "transactionDate": "2022-03-19 18:30:52"
   },
   {
     "account": "UK Bills",
@@ -7007,7 +7007,7 @@
     "currency": "GBP",
     "amount": 456.63,
     "status": "BOOKED",
-    "transactionDate": "2021-02-21 15:16:53"
+    "transactionDate": "2023-02-21 15:16:53"
   },
   {
     "account": "UK Bills",
@@ -7017,7 +7017,7 @@
     "currency": "GBP",
     "amount": 225.03,
     "status": "BOOKED",
-    "transactionDate": "2020-12-31 05:15:07"
+    "transactionDate": "2022-12-31 05:15:07"
   },
   {
     "account": "UK Bills",
@@ -7027,7 +7027,7 @@
     "currency": "GBP",
     "amount": -158.85,
     "status": "BOOKED",
-    "transactionDate": "2020-12-02 17:03:50"
+    "transactionDate": "2022-12-02 17:03:50"
   },
   {
     "account": "UK Bills",
@@ -7037,7 +7037,7 @@
     "currency": "GBP",
     "amount": 476.08,
     "status": "BOOKED",
-    "transactionDate": "2020-08-17 08:29:04"
+    "transactionDate": "2022-08-17 08:29:04"
   },
   {
     "account": "UK Bills",
@@ -7047,7 +7047,7 @@
     "currency": "GBP",
     "amount": 383.83,
     "status": "BOOKED",
-    "transactionDate": "2020-07-22 00:41:19"
+    "transactionDate": "2022-07-22 00:41:19"
   },
   {
     "account": "UK Bills",
@@ -7057,7 +7057,7 @@
     "currency": "GBP",
     "amount": -424.49,
     "status": "BOOKED",
-    "transactionDate": "2020-03-25 18:42:20"
+    "transactionDate": "2022-03-25 18:42:20"
   },
   {
     "account": "UK Bills",
@@ -7067,7 +7067,7 @@
     "currency": "GBP",
     "amount": -220.32,
     "status": "BOOKED",
-    "transactionDate": "2020-03-23 22:32:36"
+    "transactionDate": "2022-03-23 22:32:36"
   },
   {
     "account": "UK Bills",
@@ -7077,7 +7077,7 @@
     "currency": "GBP",
     "amount": -190.47,
     "status": "BOOKED",
-    "transactionDate": "2020-04-02 01:46:01"
+    "transactionDate": "2022-04-02 01:46:01"
   },
   {
     "account": "UK Bills",
@@ -7087,7 +7087,7 @@
     "currency": "GBP",
     "amount": 232.31,
     "status": "BOOKED",
-    "transactionDate": "2020-03-28 02:41:57"
+    "transactionDate": "2022-03-28 02:41:57"
   },
   {
     "account": "Sydney Beard",
@@ -7097,7 +7097,7 @@
     "currency": "GBP",
     "amount": 250,
     "status": "BOOKED",
-    "transactionDate": "2021-04-06 19:38:00"
+    "transactionDate": "2023-04-06 19:38:00"
   },
   {
     "account": "FR Bills",
@@ -7107,7 +7107,7 @@
     "currency": "EUR",
     "amount": 55.16,
     "status": "BOOKED",
-    "transactionDate": "2021-02-14 12:45:00"
+    "transactionDate": "2023-02-14 12:45:00"
   },
   {
     "account": "Household",
@@ -7117,6 +7117,6 @@
     "currency": "GBP",
     "amount": 342.75,
     "status": "BOOKED",
-    "transactionDate": "2021-02-07 18:49:45"
+    "transactionDate": "2023-02-07 18:49:45"
   }
 ]
