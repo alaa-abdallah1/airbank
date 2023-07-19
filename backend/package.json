@@ -5,9 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "rollup -c && node dist/index.js",
-    "build": "rimraf ./dist && tsc && rollup -c rollup.config.js",
-    "serve:backend": "cd backend && npm install && cp .env.example .env && npx prisma migrate reset && npm run dev",
-    "serve:frontend": "cd frontend && npm install && npm run dev"
+    "build": "rimraf ./dist && tsc && rollup -c rollup.config.js"
   },
   "keywords": [
     "GraphQl",
