@@ -4,7 +4,7 @@ module.exports = {
     service: {
       name: 'airBank-app',
       // URL to the GraphQL API
-      url: 'http://localhost:4000/',
+      url: process.env.VUE_APP_BASE_URL,
     },
     // Files processed by the extension
     includes: ['src/**/*.vue', 'src/**/*.js'],

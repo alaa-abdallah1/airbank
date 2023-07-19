@@ -7,7 +7,7 @@ import { InMemoryCache } from 'apollo-cache-inmemory'
 Vue.use(VueApollo)
 
 const httpLink = createHttpLink({
-  uri: 'http://localhost:4000/',
+  uri: process.env.VUE_APP_BASE_URL,
 })
 
 // Cache implementation
