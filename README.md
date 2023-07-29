@@ -1,38 +1,43 @@
-# Airbank
+# TABLE - PEVN PROJECT
+This is a web application built with PostgreSQL, Prisma, Node.js, Express, Vue.js, Tailwind, and GraphQL. It consists of two pages - the home page and the view details page.
+
+## Features
+- A table that lists transactions
+- Filter data by date range
+- Pagination
+- View the details page for each transaction
+
+## Prerequisites
+Before running the application, you need to have the following installed on your system:
+
+PostgreSQL
+Node.js
+Yarn
 
 ## Project setup
 
 **Clone the repository**
 
 ```
-git clone https://github.com/alaa5571/airbank.git
+git clone https://github.com/alaa-abdallah1/table-pevn-project.git
 ```
 
 **Switch to the repo folder**
 
 ```
-cd airbank
+cd table-pevn-project
 ```
 
 ## Backend
 
-**Switch to backend folder**
+**Backend Setup**
 
 ```
-cd backend
+cd backend && cp .env.example .env && npm install && npm run dev
 ```
 
-**Install dependencies**
+**Don't forget to set the Database configuration in .env file**
 
-```
-npm install
-```
-
-**Prepare**
-
-```
-cp .env.example .env
-```
 
 **run migration and seed DB**
 
@@ -40,40 +45,15 @@ cp .env.example .env
 npx prisma migrate reset
 ```
 
-**Compiles and Start the local development server**
+**Frontend Setup**
 
 ```
-npm run dev
+cd frontend && cp .env.example .env && npm install && npm run dev
 ```
 
-**Compiles and minifies for production**
+## Contributing
+Contributions are welcome! If you'd like to contribute to this project, open a PR.
 
-```
-npm run build
-```
 
-## Frontend
-
-**Switch to frontend folder**
-
-```
-cd frontend
-```
-
-**Install dependencies**
-
-```
-npm install
-```
-
-**Compiles and Start the local development server**
-
-```
-npm run dev
-```
-
-**Compiles and minifies for production**
-
-```
-npm run build
-```
+## Code Owner 
+This project was created by [Alaa Abdallah](https://github.com/alaa-abdallah1) 
