@@ -8,7 +8,7 @@ This is a web application built with PostgreSQL, Prisma, Node.js, Express, Vue.j
 
 - Home Page
 
-![image](https://github.com/alaa-abdallah1/table-pevn-project/assets/56931924/b51d9318-2b7d-4ed2-8243-0146d0399710)
+![image](https://github.com/alaa-abdallah1/table-pevn-project/assets/56931924/2c012c14-9633-4cbf-b4ec-a5040cdfaa05)
 
 - View item page
 
