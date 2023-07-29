@@ -1,6 +1,20 @@
 # TABLE - PEVN PROJECT
 This is a web application built with PostgreSQL, Prisma, Node.js, Express, Vue.js, Tailwind, and GraphQL. It consists of two pages - the home page and the view details page.
 
+## Live Demo
+[Visit the live demo](https://crud-pevn-project.onrender.com)
+
+## Screenshot
+
+- Home Page
+
+![image](https://github.com/alaa-abdallah1/table-pevn-project/assets/56931924/b51d9318-2b7d-4ed2-8243-0146d0399710)
+
+- View item page
+
+![image](https://github.com/alaa-abdallah1/table-pevn-project/assets/56931924/71dc82f8-77fb-4a8e-a11a-4533d99d2ef0)
+
+
 ## Features
 - A table that lists transactions
 - Filter data by date range
